@@ -790,6 +790,16 @@
     "year": null
   },
   {
+    "title": "13042026_1712_El_guardián_de_las_palabras_The_Neon_Demon_2016",
+    "search_title": "13042026_1712_El_guardián_de_las_palabras_The_Neon_Demon_2016",
+    "year": null
+  },
+  {
+    "title": "13042026_1712_El_guardián_de_las_palabras_Transformers_La_era_de",
+    "search_title": "13042026_1712_El_guardián_de_las_palabras_Transformers_La_era_de",
+    "year": null
+  },
+  {
     "title": "1307 Chitty chitty Bang Bang (1968)",
     "search_title": "1307 Chitty chitty Bang Bang",
     "year": 1968
@@ -8088,6 +8098,11 @@
     "title": "BUENA FORTUNA (2025)",
     "search_title": "BUENA FORTUNA",
     "year": 2025
+  },
+  {
+    "title": "Buena Suerte, Leo Grande (2022)",
+    "search_title": "Buena Suerte, Leo Grande",
+    "year": 2022
   },
   {
     "title": "Buenas noches Señor Monstruo (1982)",
@@ -15575,11 +15590,6 @@
     "year": 1961
   },
   {
-    "title": "El Cielo De Los Animales 2025",
-    "search_title": "El Cielo De Los Animales 2025",
-    "year": null
-  },
-  {
     "title": "El cielo no puede esperar (2022)",
     "search_title": "El cielo no puede esperar",
     "year": 2022
@@ -17213,6 +17223,11 @@
     "title": "El guardián de las palabras (1994)",
     "search_title": "El guardián de las palabras",
     "year": 1994
+  },
+  {
+    "title": "El guardián de las palabras T2 Trainspotting (2017)",
+    "search_title": "El guardián de las palabras T2 Trainspotting",
+    "year": 2017
   },
   {
     "title": "El guerrero de la venganza (castellano) Terror/Fantástico/Aventuras (2018)",
@@ -40160,6 +40175,11 @@
     "year": 2025
   },
   {
+    "title": "Mike & Nick & Nick & Alice",
+    "search_title": "Mike & Nick & Nick & Alice",
+    "year": null
+  },
+  {
     "title": "Mike y Nick y Nick y Alice (2026)",
     "search_title": "Mike y Nick y Nick y Alice",
     "year": 2026
@@ -47285,6 +47305,11 @@
     "year": 2025
   },
   {
+    "title": "Rob1n 2025",
+    "search_title": "Rob1n 2025",
+    "year": null
+  },
+  {
     "title": "Robin Hood (2018)",
     "search_title": "Robin Hood",
     "year": 2018
@@ -51520,9 +51545,24 @@
     "year": 2022
   },
   {
+    "title": "Taffin (1988)",
+    "search_title": "Taffin",
+    "year": 1988
+  },
+  {
     "title": "Tailor (El sastre) (2024)",
     "search_title": "Tailor (El sastre)",
     "year": 2024
+  },
+  {
+    "title": "Tal como éramos (1973)",
+    "search_title": "Tal como éramos",
+    "year": 1973
+  },
+  {
+    "title": "Tal para cual (1983)",
+    "search_title": "Tal para cual",
+    "year": 1983
   },
   {
     "title": "Tamara (2005)",
@@ -51550,6 +51590,26 @@
     "year": null
   },
   {
+    "title": "Tanguy ¿qué hacemos con el niño (2001)",
+    "search_title": "Tanguy ¿qué hacemos con el niño",
+    "year": 2001
+  },
+  {
+    "title": "Tapas (2006)",
+    "search_title": "Tapas",
+    "year": 2006
+  },
+  {
+    "title": "Taps, más allá del honor (1981)",
+    "search_title": "Taps, más allá del honor",
+    "year": 1981
+  },
+  {
+    "title": "TÁR (2022)",
+    "search_title": "TÁR",
+    "year": 2022
+  },
+  {
     "title": "Tarántula (Castellano) Terror/Ciencia Ficción (1955)",
     "search_title": "Tarántula Terror/Ciencia Ficción",
     "year": 1955
@@ -51563,6 +51623,11 @@
     "title": "Tarde para la ira (2016)",
     "search_title": "Tarde para la ira",
     "year": 2016
+  },
+  {
+    "title": "Tardes de soledad (2024)",
+    "search_title": "Tardes de soledad",
+    "year": 2024
   },
   {
     "title": "Target, Agente Doble En Berlin (Arthur Penn) 1985",
@@ -51598,6 +51663,11 @@
     "title": "Tarzán en el desierto misterioso 1943",
     "search_title": "Tarzán en el desierto misterioso 1943",
     "year": null
+  },
+  {
+    "title": "Tarzán en Nueva York (1942)",
+    "search_title": "Tarzán en Nueva York",
+    "year": 1942
   },
   {
     "title": "Tarzán en Nueva York 1942",
@@ -51815,6 +51885,11 @@
     "year": 2025
   },
   {
+    "title": "Tela de arana (Cobweb) (2025)",
+    "search_title": "Tela de arana (Cobweb)",
+    "year": 2025
+  },
+  {
     "title": "Telaraña (2025)",
     "search_title": "Telaraña",
     "year": 2025
@@ -51828,6 +51903,11 @@
     "title": "tele.mp4",
     "search_title": "tele.mp4",
     "year": null
+  },
+  {
+    "title": "Teléfono (1977)",
+    "search_title": "Teléfono",
+    "year": 1977
   },
   {
     "title": "Teléfono mortal (1988)",
@@ -51880,9 +51960,19 @@
     "year": 2011
   },
   {
+    "title": "Temple Grandin (2010)",
+    "search_title": "Temple Grandin",
+    "year": 2010
+  },
+  {
     "title": "Temporada de huracanes",
     "search_title": "Temporada de huracanes",
     "year": null
+  },
+  {
+    "title": "Tenacious D dando la nota (2006)",
+    "search_title": "Tenacious D dando la nota",
+    "year": 2006
   },
   {
     "title": "Tenebre (1982)",
@@ -51903,6 +51993,16 @@
     "title": "Tenement (Castellano) Terror (2024)",
     "search_title": "Tenement Terror",
     "year": 2024
+  },
+  {
+    "title": "Tenemos que hablar de Kevin (2011)",
+    "search_title": "Tenemos que hablar de Kevin",
+    "year": 2011
+  },
+  {
+    "title": "Tener y no tener (1944)",
+    "search_title": "Tener y no tener",
+    "year": 1944
   },
   {
     "title": "Tenet (2020)",
@@ -51963,6 +52063,11 @@
     "title": "Teresa (2023)",
     "search_title": "Teresa",
     "year": 2023
+  },
+  {
+    "title": "Terminagolf (Happy Gilmore) (1996)",
+    "search_title": "Terminagolf (Happy Gilmore)",
+    "year": 1996
   },
   {
     "title": "Terminagolf 2 (2025)",
@@ -52078,6 +52183,21 @@
     "title": "Terminator: Destino oscuro ( 2019 )",
     "search_title": "Terminator: Destino oscuro ( 2019 )",
     "year": null
+  },
+  {
+    "title": "Terrifier (2016)",
+    "search_title": "Terrifier",
+    "year": 2016
+  },
+  {
+    "title": "Terrifier 2 (2022)",
+    "search_title": "Terrifier 2",
+    "year": 2022
+  },
+  {
+    "title": "Terrifier 3 (2024)",
+    "search_title": "Terrifier 3",
+    "year": 2024
   },
   {
     "title": "Territorio Hostil (2022)",
@@ -52350,6 +52470,16 @@
     "year": 2023
   },
   {
+    "title": "The Beldham (2025)",
+    "search_title": "The Beldham",
+    "year": 2025
+  },
+  {
+    "title": "The Believer (El creyente) (2001)",
+    "search_title": "The Believer (El creyente)",
+    "year": 2001
+  },
+  {
     "title": "The Best of Times (1981)",
     "search_title": "The Best of Times",
     "year": 1981
@@ -52413,6 +52543,11 @@
     "title": "The Brave (1997)",
     "search_title": "The Brave",
     "year": 1997
+  },
+  {
+    "title": "The Breadwinner (El pan de la guerra) (2017)",
+    "search_title": "The Breadwinner (El pan de la guerra)",
+    "year": 2017
   },
   {
     "title": "The brutalist (2024)",
@@ -52610,6 +52745,11 @@
     "year": 2008
   },
   {
+    "title": "The Faculty (1998)",
+    "search_title": "The Faculty",
+    "year": 1998
+  },
+  {
     "title": "The Fall: El sueño de Alexandria (2006)",
     "search_title": "The Fall: El sueño de Alexandria",
     "year": 2006
@@ -52670,6 +52810,11 @@
     "year": 2017
   },
   {
+    "title": "The Frost (La escarcha) (2009)",
+    "search_title": "The Frost (La escarcha)",
+    "year": 2009
+  },
+  {
     "title": "The Funeral (Castellano) Terror/Sobrenatural (2023)",
     "search_title": "The Funeral Terror/Sobrenatural",
     "year": 2023
@@ -52683,6 +52828,11 @@
     "title": "The Game (David Fincher) 1997",
     "search_title": "The Game (David Fincher) 1997",
     "year": null
+  },
+  {
+    "title": "The Gentlemen Los señores de la mafia (2019)",
+    "search_title": "The Gentlemen Los señores de la mafia",
+    "year": 2019
   },
   {
     "title": "The Gentlemen:",
@@ -52725,6 +52875,11 @@
     "year": 2006
   },
   {
+    "title": "The Guilty (2018)",
+    "search_title": "The Guilty",
+    "year": 2018
+  },
+  {
     "title": "The Harbinger (Castellano) Terror/Thriller Psicológico (2022)",
     "search_title": "The Harbinger Terror/Thriller Psicológico",
     "year": 2022
@@ -52755,6 +52910,11 @@
     "year": 2006
   },
   {
+    "title": "The Holiday (Vacaciones) (2006)",
+    "search_title": "The Holiday (Vacaciones)",
+    "year": 2006
+  },
+  {
     "title": "The Host (2006)",
     "search_title": "The Host",
     "year": 2006
@@ -52767,6 +52927,11 @@
   {
     "title": "The Iceman (2012)",
     "search_title": "The Iceman",
+    "year": 2012
+  },
+  {
+    "title": "The Iceman (El hombre de hielo) (2012)",
+    "search_title": "The Iceman (El hombre de hielo)",
     "year": 2012
   },
   {
@@ -52820,6 +52985,11 @@
     "year": 2010
   },
   {
+    "title": "The Killer (2024)",
+    "search_title": "The Killer",
+    "year": 2024
+  },
+  {
     "title": "The Killer 2024",
     "search_title": "The Killer 2024",
     "year": null
@@ -52828,6 +52998,11 @@
     "title": "The King (2019)",
     "search_title": "The King",
     "year": 2019
+  },
+  {
+    "title": "The Lady in the Van (2015)",
+    "search_title": "The Lady in the Van",
+    "year": 2015
   },
   {
     "title": "The Last Showgirl (2024)",
@@ -52853,6 +53028,11 @@
     "title": "The Lords of Salem (2012)",
     "search_title": "The Lords of Salem",
     "year": 2012
+  },
+  {
+    "title": "The Lovely Bones (2009)",
+    "search_title": "The Lovely Bones",
+    "year": 2009
   },
   {
     "title": "The Lovely Bones (Peter Jackson) 2009",
@@ -52895,6 +53075,11 @@
     "year": null
   },
   {
+    "title": "The Master (2012)",
+    "search_title": "The Master",
+    "year": 2012
+  },
+  {
     "title": "THE MASTERMIND (2025)",
     "search_title": "THE MASTERMIND",
     "year": 2025
@@ -52935,6 +53120,11 @@
     "year": 2008
   },
   {
+    "title": "The Mother (2003)",
+    "search_title": "The Mother",
+    "year": 2003
+  },
+  {
     "title": "The Music Box (2018)",
     "search_title": "The Music Box",
     "year": 2018
@@ -52963,6 +53153,11 @@
     "title": "The Night Clerk (Lo que la verdad oculta 2020",
     "search_title": "The Night Clerk (Lo que la verdad oculta 2020",
     "year": null
+  },
+  {
+    "title": "The Night Comes for Us (2018)",
+    "search_title": "The Night Comes for Us",
+    "year": 2018
   },
   {
     "title": "THE OLD MAN & THE GUN (2018)",
@@ -53090,6 +53285,11 @@
     "year": 2008
   },
   {
+    "title": "The Relic (1997)",
+    "search_title": "The Relic",
+    "year": 1997
+  },
+  {
     "title": "The retirement plan",
     "search_title": "The retirement plan",
     "year": null
@@ -53123,6 +53323,11 @@
     "title": "The Rolling Stones: Sympathy For The Devil (1968)",
     "search_title": "The Rolling Stones: Sympathy For The Devil",
     "year": 1968
+  },
+  {
+    "title": "The Roommate (2011)",
+    "search_title": "The Roommate",
+    "year": 2011
   },
   {
     "title": "The Runaways (2010)",
@@ -53185,9 +53390,19 @@
     "year": 2025
   },
   {
+    "title": "The Tale (2018)",
+    "search_title": "The Tale",
+    "year": 2018
+  },
+  {
     "title": "The Thicket (2024)",
     "search_title": "The Thicket",
     "year": 2024
+  },
+  {
+    "title": "The Tiger (2025)",
+    "search_title": "The Tiger",
+    "year": 2025
   },
   {
     "title": "The Town (Ciudad de ladrones) (2010)",
@@ -53260,6 +53475,11 @@
     "year": 2015
   },
   {
+    "title": "The Witcher La pesadilla del lobo (2021)",
+    "search_title": "The Witcher La pesadilla del lobo",
+    "year": 2021
+  },
+  {
     "title": "The Witcher: Sirenas de las profundidades The Witcher: Sirens of the Deep",
     "search_title": "The Witcher: Sirenas de las profundidades The Witcher: Sirens of the Deep",
     "year": null
@@ -53290,6 +53510,11 @@
     "year": null
   },
   {
+    "title": "Thelma y Louise (1991)",
+    "search_title": "Thelma y Louise",
+    "year": 1991
+  },
+  {
     "title": "Thelma: La venganza nunca ha sido tan dulce Thelma",
     "search_title": "Thelma: La venganza nunca ha sido tan dulce Thelma",
     "year": null
@@ -53303,6 +53528,11 @@
     "title": "Thirst (Castellano) Terror/Drama (2009)",
     "search_title": "Thirst Terror/Drama",
     "year": 2009
+  },
+  {
+    "title": "Thirteen (2003)",
+    "search_title": "Thirteen",
+    "year": 2003
   },
   {
     "title": "Thor",
@@ -53410,6 +53640,11 @@
     "year": null
   },
   {
+    "title": "Tiburón 3D La presa (2011)",
+    "search_title": "Tiburón 3D La presa",
+    "year": 2011
+  },
+  {
     "title": "Tiburón 5 (Castellano) Terror/Acción (1995)",
     "search_title": "Tiburón 5 Terror/Acción",
     "year": 1995
@@ -53490,6 +53725,11 @@
     "year": 1986
   },
   {
+    "title": "Tiempo de tormenta (2003)",
+    "search_title": "Tiempo de tormenta",
+    "year": 2003
+  },
+  {
     "title": "Tiempos modernos (1936)",
     "search_title": "Tiempos modernos",
     "year": 1936
@@ -53545,6 +53785,11 @@
     "year": 2012
   },
   {
+    "title": "Tierra y Libertad (1995)",
+    "search_title": "Tierra y Libertad",
+    "year": 1995
+  },
+  {
     "title": "Tierras de Penumbra (1993)",
     "search_title": "Tierras de Penumbra",
     "year": 1993
@@ -53590,6 +53835,11 @@
     "year": 1994
   },
   {
+    "title": "Timeline (2003)",
+    "search_title": "Timeline",
+    "year": 2003
+  },
+  {
     "title": "TÍMIDOS ANÓNIMOS (2010)",
     "search_title": "TÍMIDOS ANÓNIMOS",
     "year": 2010
@@ -53598,6 +53848,11 @@
     "title": "Tintin y el misterio del Toisón de oro(pelicula1961)",
     "search_title": "Tintin y el misterio del Toisón de oro(pelicula1961)",
     "year": null
+  },
+  {
+    "title": "Tipos con suerte (2008)",
+    "search_title": "Tipos con suerte",
+    "year": 2008
   },
   {
     "title": "Tira a Mamá del Tren (1987)",
@@ -54025,6 +54280,11 @@
     "year": 2022
   },
   {
+    "title": "Todavía estamos aquí (2015)",
+    "search_title": "Todavía estamos aquí",
+    "year": 2015
+  },
+  {
     "title": "Todo a la vez en Todas Partes",
     "search_title": "Todo a la vez en Todas Partes",
     "year": null
@@ -54038,6 +54298,11 @@
     "title": "Todo en un día (1986)",
     "search_title": "Todo en un día",
     "year": 1986
+  },
+  {
+    "title": "Todo en un viernes (Friday) (1995)",
+    "search_title": "Todo en un viernes (Friday)",
+    "year": 1995
   },
   {
     "title": "TODO ES POR AMOR (2003)",
@@ -54095,6 +54360,11 @@
     "year": 1991
   },
   {
+    "title": "Todo por mi chica (1992)",
+    "search_title": "Todo por mi chica",
+    "year": 1992
+  },
+  {
     "title": "Todo por un sueño (1995)",
     "search_title": "Todo por un sueño",
     "year": 1995
@@ -54128,6 +54398,16 @@
     "title": "Todos Dicen I Love You (Woody Allen) 1996",
     "search_title": "Todos Dicen I Love You (Woody Allen) 1996",
     "year": null
+  },
+  {
+    "title": "Todos eran valientes (1965)",
+    "search_title": "Todos eran valientes",
+    "year": 1965
+  },
+  {
+    "title": "Todos están bien (2009)",
+    "search_title": "Todos están bien",
+    "year": 2009
   },
   {
     "title": "Todos la querían muerta (2000)",
@@ -54165,6 +54445,11 @@
     "year": 2006
   },
   {
+    "title": "Todos los perros van al cielo (1989)",
+    "search_title": "Todos los perros van al cielo",
+    "year": 1989
+  },
+  {
     "title": "Todos me odian (2022)",
     "search_title": "Todos me odian",
     "year": 2022
@@ -54185,6 +54470,11 @@
     "year": 2025
   },
   {
+    "title": "Togo (2019)",
+    "search_title": "Togo",
+    "year": 2019
+  },
+  {
     "title": "Tokarev (2014)",
     "search_title": "Tokarev",
     "year": 2014
@@ -54193,6 +54483,11 @@
     "title": "Tōkunbō (2024)",
     "search_title": "Tōkunbō",
     "year": 2024
+  },
+  {
+    "title": "Tokyo Godfathers (2003)",
+    "search_title": "Tokyo Godfathers",
+    "year": 2003
   },
   {
     "title": "Tolkien (2019)",
@@ -54213,6 +54508,11 @@
     "title": "Tom y Jerry - El cuento de Cascanueces - 2007",
     "search_title": "Tom y Jerry - El cuento de Cascanueces - 2007",
     "year": null
+  },
+  {
+    "title": "Tom y Jerry la película (1992)",
+    "search_title": "Tom y Jerry la película",
+    "year": 1992
   },
   {
     "title": "Toma El Dinero Y Corre (Woody Allen) 1969",
@@ -54240,6 +54540,11 @@
     "year": 1975
   },
   {
+    "title": "Tommy Boy (1995)",
+    "search_title": "Tommy Boy",
+    "year": 1995
+  },
+  {
     "title": "Tomorrowland - El mundo del mañana (2015)",
     "search_title": "Tomorrowland - El mundo del mañana",
     "year": 2015
@@ -54262,6 +54567,11 @@
   {
     "title": "Top Gun (1986)",
     "search_title": "Top Gun",
+    "year": 1986
+  },
+  {
+    "title": "Top Gun ïdolos del aire (1986)",
+    "search_title": "Top Gun ïdolos del aire",
     "year": 1986
   },
   {
@@ -54330,6 +54640,11 @@
     "year": 2004
   },
   {
+    "title": "Torque Rodando al límite (2004)",
+    "search_title": "Torque Rodando al límite",
+    "year": 2004
+  },
+  {
     "title": "Torrente",
     "search_title": "Torrente",
     "year": null
@@ -54378,6 +54693,11 @@
     "title": "Tortugas Ninja 2: Fuera de las sombras (2016)",
     "search_title": "Tortugas Ninja 2: Fuera de las sombras",
     "year": 2016
+  },
+  {
+    "title": "Tortugas Ninja III (1993)",
+    "search_title": "Tortugas Ninja III",
+    "year": 1993
   },
   {
     "title": "Total Recall (Desafio Total) (Ver.Extendida)",
@@ -54520,6 +54840,11 @@
     "year": 2011
   },
   {
+    "title": "Transformers El último caballero (2017)",
+    "search_title": "Transformers El último caballero",
+    "year": 2017
+  },
+  {
     "title": "Transformers I (2007)",
     "search_title": "Transformers I",
     "year": 2007
@@ -54625,6 +54950,11 @@
     "year": 2025
   },
   {
+    "title": "Trapecio (1956)",
+    "search_title": "Trapecio",
+    "year": 1956
+  },
+  {
     "title": "Tras el corazón verde (1984)",
     "search_title": "Tras el corazón verde",
     "year": 1984
@@ -54660,9 +54990,19 @@
     "year": 1986
   },
   {
+    "title": "Trasto, de la mansion a la calle (2019)",
+    "search_title": "Trasto, de la mansion a la calle",
+    "year": 2019
+  },
+  {
     "title": "Trastornado (Deranged) (1974)",
     "search_title": "Trastornado (Deranged)",
     "year": 1974
+  },
+  {
+    "title": "Tratamiento de shock (1973)",
+    "search_title": "Tratamiento de shock",
+    "year": 1973
   },
   {
     "title": "Travesía salvaje (2019)",
@@ -54720,6 +55060,11 @@
     "year": 2017
   },
   {
+    "title": "Tres (Survival Island) (2006)",
+    "search_title": "Tres (Survival Island)",
+    "year": 2006
+  },
+  {
     "title": "Tres amigas Trois amies",
     "search_title": "Tres amigas Trois amies",
     "year": null
@@ -54765,6 +55110,11 @@
     "year": 1999
   },
   {
+    "title": "Tres forajidos y un pistolero (1974)",
+    "search_title": "Tres forajidos y un pistolero",
+    "year": 1974
+  },
+  {
     "title": "Tres fugitivos (1989)",
     "search_title": "Tres fugitivos",
     "year": 1989
@@ -54773,6 +55123,11 @@
     "title": "Tres kilometros al Fin del mundo (2024)",
     "search_title": "Tres kilometros al Fin del mundo",
     "year": 2024
+  },
+  {
+    "title": "Tres metros sobre el cielo (2010)",
+    "search_title": "Tres metros sobre el cielo",
+    "year": 2010
   },
   {
     "title": "TRES MIL AÑOS ESPERANDOTE.",
@@ -54900,6 +55255,11 @@
     "year": 1986
   },
   {
+    "title": "Trollhunters - El despertar de los titanes (2021)",
+    "search_title": "Trollhunters - El despertar de los titanes",
+    "year": 2021
+  },
+  {
     "title": "Tron (1982)",
     "search_title": "Tron",
     "year": 1982
@@ -54933,6 +55293,11 @@
     "title": "Troya (2004)",
     "search_title": "Troya",
     "year": 2004
+  },
+  {
+    "title": "Trumbo La lista negra de Hollywood (2015)",
+    "search_title": "Trumbo La lista negra de Hollywood",
+    "year": 2015
   },
   {
     "title": "Tú a Londres y yo a California (1998)",
