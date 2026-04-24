@@ -582,7 +582,8 @@
   {
     "title": "Daredevil: Born Again (2025)",
     "year": 2025,
-    "payload": "s42139"
+    "payload": "s42139",
+    "last_updated": 1776962969
   },
   {
     "title": "Dark (2017)",
@@ -1092,7 +1093,8 @@
   {
     "title": "Euphoria (2019)",
     "year": 2019,
-    "payload": "s52854"
+    "payload": "s52854",
+    "last_updated": 1776985881
   },
   {
     "title": "Evil (2019)",
@@ -1188,7 +1190,7 @@
     "title": "From (2022)",
     "year": 2022,
     "payload": "s44042",
-    "last_updated": 1776725987
+    "last_updated": 1776941063
   },
   {
     "title": "FUBAR (2023)",
@@ -1439,7 +1441,8 @@
   {
     "title": "Invencible (2021)",
     "year": 2021,
-    "payload": "s34924"
+    "payload": "s34924",
+    "last_updated": 1776962886
   },
   {
     "title": "Invisible (2024)",
@@ -3063,7 +3066,8 @@
   {
     "title": "The Boys (2019)",
     "year": 2019,
-    "payload": "s30668"
+    "payload": "s30668",
+    "last_updated": 1776969842
   },
   {
     "title": "The Buccaneers: Aristócratas por amor (2023)",
@@ -3295,6 +3299,12 @@
     "title": "Tougen Anki (2025)",
     "year": 2025,
     "payload": "s32548"
+  },
+  {
+    "title": "Tracker (2024)",
+    "year": 2024,
+    "payload": "s144236",
+    "last_updated": 1776985124
   },
   {
     "title": "Tragones y mazmorras (2024)",
