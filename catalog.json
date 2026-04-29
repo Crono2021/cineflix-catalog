@@ -120,11 +120,6 @@
     "payload": "s35653"
   },
   {
-    "title": "Alien: Planeta tierra (2025)",
-    "year": 2025,
-    "payload": "s35656"
-  },
-  {
     "title": "Ally Mcbeal (1997)",
     "year": 1997,
     "payload": "s35956"
@@ -1094,7 +1089,8 @@
     "title": "Euphoria (2019)",
     "year": 2019,
     "payload": "s52854",
-    "last_updated": 1776985881
+    "payload_mkv": "s4",
+    "last_updated": 1777504226
   },
   {
     "title": "Evil (2019)",
@@ -1160,11 +1156,6 @@
     "title": "Feria: La luz más oscura (2022)",
     "year": 2022,
     "payload": "s44024"
-  },
-  {
-    "title": "Files 143158",
-    "year": null,
-    "payload": "s143158"
   },
   {
     "title": "Firefly (2002)",
@@ -1668,11 +1659,6 @@
     "title": "La materia oscura (2019)",
     "year": 2019,
     "payload": "s56011"
-  },
-  {
-    "title": "La materia oscura (2019)",
-    "year": 2019,
-    "payload": "s56835"
   },
   {
     "title": "La mesías (2023)",
@@ -2494,11 +2480,6 @@
     "payload": "s103479"
   },
   {
-    "title": "Perdidos (2004)",
-    "year": 2004,
-    "payload": "s103482"
-  },
-  {
     "title": "Perros de caza (2023)",
     "year": 2023,
     "payload": "s141069"
@@ -3267,11 +3248,6 @@
     "payload": "s32519"
   },
   {
-    "title": "Thundercats: Los felinos cósmicos (1985)",
-    "year": 1985,
-    "payload": "s32575"
-  },
-  {
     "title": "Tierra de mafiosos (2025)",
     "year": 2025,
     "payload": "s32522"
@@ -3471,11 +3447,6 @@
     "title": "Vikings: Valhalla (2022)",
     "year": 2022,
     "payload": "s30085"
-  },
-  {
-    "title": "Vikings: Valhalla (2022)",
-    "year": 2022,
-    "payload": "s30086"
   },
   {
     "title": "Vis a vis (2015)",
