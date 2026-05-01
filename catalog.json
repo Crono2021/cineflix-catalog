@@ -232,14 +232,14 @@
   {
     "title": "Bajo Control (2023)",
     "year": 2023,
-    "payload": null,
+    "payload": "s27",
     "payload_mkv": "s27",
     "last_updated": 1777532152
   },
   {
     "title": "Balthazar (2018)",
     "year": 2018,
-    "payload": null,
+    "payload": "s213",
     "payload_mkv": "s213",
     "last_updated": 1777534455
   },
@@ -313,7 +313,7 @@
   {
     "title": "Big Mouth (2017)",
     "year": 2017,
-    "payload": null,
+    "payload": "s573",
     "payload_mkv": "s573",
     "last_updated": 1777540873
   },
@@ -325,7 +325,7 @@
   {
     "title": "Black Lightning (2018)",
     "year": 2018,
-    "payload": null,
+    "payload": "s148",
     "payload_mkv": "s148",
     "last_updated": 1777534263
   },
@@ -347,7 +347,7 @@
   {
     "title": "Blaze y los Monster Machines (2014)",
     "year": 2014,
-    "payload": null,
+    "payload": "s1321",
     "payload_mkv": "s1321",
     "last_updated": 1777549613
   },
@@ -471,7 +471,7 @@
   {
     "title": "Cero (2021)",
     "year": 2021,
-    "payload": null,
+    "payload": "s36",
     "payload_mkv": "s36",
     "last_updated": 1777532712
   },
@@ -649,7 +649,7 @@
   {
     "title": "Detective Conan: La hora del té de Cero (2022)",
     "year": 2022,
-    "payload": null,
+    "payload": "s47",
     "payload_mkv": "s47",
     "last_updated": 1777533115
   },
@@ -938,7 +938,7 @@
   {
     "title": "El misterio de Hanging Rock (2018)",
     "year": 2018,
-    "payload": null,
+    "payload": "s56",
     "payload_mkv": "s56",
     "last_updated": 1777533653
   },
@@ -1135,7 +1135,7 @@
   {
     "title": "Espíritus del Inframundo (2026)",
     "year": 2026,
-    "payload": null,
+    "payload": "s454",
     "payload_mkv": "s454",
     "last_updated": 1777536366
   },
@@ -1239,7 +1239,7 @@
   {
     "title": "Friday Night Lights (2006)",
     "year": 2006,
-    "payload": null,
+    "payload": "s65",
     "payload_mkv": "s65",
     "last_updated": 1777534026
   },
@@ -1509,7 +1509,7 @@
   {
     "title": "Invasión Jurásica (2007)",
     "year": 2007,
-    "payload": null,
+    "payload": "s463",
     "payload_mkv": "s463",
     "last_updated": 1777539508
   },
@@ -1723,7 +1723,7 @@
   {
     "title": "La lista final: Lobo negro (2025)",
     "year": 2025,
-    "payload": null,
+    "payload": "s542",
     "payload_mkv": "s542",
     "last_updated": 1777539853
   },
@@ -2009,7 +2009,7 @@
   {
     "title": "Los imperfectos (2022)",
     "year": 2022,
-    "payload": null,
+    "payload": "s258",
     "payload_mkv": "s258",
     "last_updated": 1777534621
   },
@@ -2026,9 +2026,9 @@
   {
     "title": "Los magos de Waverly Place (2007)",
     "year": 2007,
-    "payload": null,
+    "payload": "s1682",
     "payload_mkv": "s1682",
-    "last_updated": 1777567421
+    "last_updated": 1777596803
   },
   {
     "title": "Los Medici, señores de Florencia (2016)",
@@ -2179,7 +2179,7 @@
   {
     "title": "Malcolm (2000)",
     "year": 2000,
-    "payload": null,
+    "payload": "s1700",
     "payload_mkv": "s1700",
     "last_updated": 1777596087
   },
@@ -2448,7 +2448,7 @@
   {
     "title": "Nugget de Pollo (2024)",
     "year": 2024,
-    "payload": null,
+    "payload": "s844",
     "payload_mkv": "s844",
     "last_updated": 1777544030
   },
@@ -2465,7 +2465,7 @@
   {
     "title": "O11CE Nueva generación (2026)",
     "year": 2026,
-    "payload": null,
+    "payload": "s286",
     "payload_mkv": "s286",
     "last_updated": 1777535213
   },
@@ -2627,7 +2627,7 @@
   {
     "title": "Planeta prehistórico (2022)",
     "year": 2022,
-    "payload": null,
+    "payload": "s521",
     "payload_mkv": "s521",
     "last_updated": 1777539587
   },
@@ -2850,7 +2850,7 @@
   {
     "title": "Sandokan, el tigre de Malasia (1976)",
     "year": 1976,
-    "payload": null,
+    "payload": "s563",
     "payload_mkv": "s563",
     "last_updated": 1777540121
   },
@@ -2862,7 +2862,7 @@
   {
     "title": "Schitt's Creek (2015)",
     "year": 2015,
-    "payload": null,
+    "payload": "s310",
     "payload_mkv": "s310",
     "last_updated": 1777535692
   },
@@ -2894,7 +2894,7 @@
   {
     "title": "Separación (2022)",
     "year": 2022,
-    "payload": null,
+    "payload": "s997",
     "payload_mkv": "s997",
     "last_updated": 1777544950
   },
@@ -3021,7 +3021,7 @@
   {
     "title": "Somos la Ola (2019)",
     "year": 2019,
-    "payload": null,
+    "payload": "s276",
     "payload_mkv": "s276",
     "last_updated": 1777535073
   },
@@ -3120,7 +3120,7 @@
   {
     "title": "Suburræterna (2023)",
     "year": 2023,
-    "payload": null,
+    "payload": "s546",
     "payload_mkv": "s546",
     "last_updated": 1777539873
   },
@@ -3347,7 +3347,7 @@
   {
     "title": "The Minister (2020)",
     "year": 2020,
-    "payload": null,
+    "payload": "s404",
     "payload_mkv": "s404",
     "last_updated": 1777535909
   },
@@ -3455,7 +3455,7 @@
   {
     "title": "Titanes (2018)",
     "year": 2018,
-    "payload": null,
+    "payload": "s400",
     "payload_mkv": "s400",
     "last_updated": 1777535973
   },
@@ -3498,7 +3498,7 @@
   {
     "title": "Trigger point: Fuera de control (2022)",
     "year": 2022,
-    "payload": null,
+    "payload": "s654",
     "payload_mkv": "s654",
     "last_updated": 1777541108
   },
@@ -3702,7 +3702,7 @@
   {
     "title": "Wistoria: varita y espada (2024)",
     "year": 2024,
-    "payload": null,
+    "payload": "s1685",
     "payload_mkv": "s1685",
     "last_updated": 1777594905
   },
