@@ -631,7 +631,7 @@
     "title": "Daredevil: Born Again (2025)",
     "year": 2025,
     "payload": "s42139",
-    "last_updated": 1776962969
+    "last_updated": 1777823291
   },
   {
     "title": "Dark (2017)",
@@ -1597,6 +1597,13 @@
     "title": "Kampamento Koral: Bob Esponja primeras aventuras (2021)",
     "year": 2021,
     "payload": "s34650"
+  },
+  {
+    "title": "Kenshin, el Guerrero Samurái (1996)",
+    "year": 1996,
+    "payload": "s3700",
+    "payload_mkv": "s3700",
+    "last_updated": 1777840261
   },
   {
     "title": "Kevin Spencer (1999)",
