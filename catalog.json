@@ -394,6 +394,20 @@
     "payload": "s40478"
   },
   {
+    "title": "Bosch (2015)",
+    "year": 2015,
+    "payload": "s5896",
+    "payload_mkv": "s5896",
+    "last_updated": 1778442561
+  },
+  {
+    "title": "Bosch: Legado (2022)",
+    "year": 2022,
+    "payload": "s5861",
+    "payload_mkv": "s5861",
+    "last_updated": 1778442526
+  },
+  {
     "title": "Breaking Bad (2008)",
     "year": 2008,
     "payload": "s40480",
@@ -409,6 +423,13 @@
     "title": "Bruja Escarlata y Visión (2021)",
     "year": 2021,
     "payload": "s41824"
+  },
+  {
+    "title": "Buena conducta (2016)",
+    "year": 2016,
+    "payload": "s6056",
+    "payload_mkv": "s6056",
+    "last_updated": 1778442724
   },
   {
     "title": "Buffy, cazavampiros (1997)",
@@ -1595,6 +1616,13 @@
     "payload": "s119429"
   },
   {
+    "title": "Historias del bucle (2020)",
+    "year": 2020,
+    "payload": "s6020",
+    "payload_mkv": "s6020",
+    "last_updated": 1778442664
+  },
+  {
     "title": "Hong Kong Phooey (1974)",
     "year": 1974,
     "payload": "s45848"
@@ -2069,6 +2097,13 @@
     "title": "Las chicas Gilmore (2000)",
     "year": 2000,
     "payload": "s55472"
+  },
+  {
+    "title": "Las crónicas de Shannara (2016)",
+    "year": 2016,
+    "payload": "s6031",
+    "payload_mkv": "s6031",
+    "last_updated": 1778442693
   },
   {
     "title": "Las gotas de Dios (2023)",
@@ -2789,6 +2824,13 @@
     "last_updated": 1778187868
   },
   {
+    "title": "Paper Girls (2022)",
+    "year": 2022,
+    "payload": "s5978",
+    "payload_mkv": "s5978",
+    "last_updated": 1778442591
+  },
+  {
     "title": "Papá canguro (2012)",
     "year": 2012,
     "payload": "s48406"
@@ -3000,6 +3042,13 @@
     "title": "Reclutas (2025)",
     "year": 2025,
     "payload": "s33447"
+  },
+  {
+    "title": "Red Oaks (2014)",
+    "year": 2014,
+    "payload": "s5989",
+    "payload_mkv": "s5989",
+    "last_updated": 1778442638
   },
   {
     "title": "Regreso a Paloma Solitaria (1993)",
