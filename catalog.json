@@ -313,6 +313,13 @@
     "payload": "s39811"
   },
   {
+    "title": "Berlín y la dama del armiño (2026)",
+    "year": 2026,
+    "payload": "s179214",
+    "payload_mkv": "s7149",
+    "last_updated": 1778888300
+  },
+  {
     "title": "Better Call Saul (2015)",
     "year": 2015,
     "payload": "s126787",
@@ -464,6 +471,20 @@
     "payload": "s37347"
   },
   {
+    "title": "Candice Renoir (2013)",
+    "year": 2013,
+    "payload": "s7171",
+    "payload_mkv": "s7171",
+    "last_updated": 1778945301
+  },
+  {
+    "title": "Candy Candy (1976)",
+    "year": 1976,
+    "payload": "s7566",
+    "payload_mkv": "s7566",
+    "last_updated": 1778945684
+  },
+  {
     "title": "Capa y Puñal (2018)",
     "year": 2018,
     "payload": "s37350"
@@ -514,6 +535,13 @@
     "title": "Chad Powers (2025)",
     "year": 2025,
     "payload": "s37368"
+  },
+  {
+    "title": "Chasing Life (2014)",
+    "year": 2014,
+    "payload": "s7528",
+    "payload_mkv": "s7528",
+    "last_updated": 1778945634
   },
   {
     "title": "Cheers (1982)",
@@ -764,6 +792,13 @@
     "last_updated": 1778284093
   },
   {
+    "title": "Dexter: Pecado Original (2024)",
+    "year": 2024,
+    "payload": "s7136",
+    "payload_mkv": "s7136",
+    "last_updated": 1778887080
+  },
+  {
     "title": "Dexter: Resurrección (2025)",
     "year": 2025,
     "payload": "s42367",
@@ -774,6 +809,13 @@
     "title": "Digimon Adventure (1999)",
     "year": 1999,
     "payload": "s42370"
+  },
+  {
+    "title": "Dimension 404 (2017)",
+    "year": 2017,
+    "payload": "s7880",
+    "payload_mkv": "s7880",
+    "last_updated": 1779047664
   },
   {
     "title": "Dinosaurios (1991)",
@@ -1307,7 +1349,7 @@
     "year": 2019,
     "payload": "s52854",
     "payload_mkv": "s4",
-    "last_updated": 1778324676
+    "last_updated": 1778944858
   },
   {
     "title": "Evil (2019)",
@@ -1446,6 +1488,13 @@
     "payload": "s129047"
   },
   {
+    "title": "Fuimos los afortunados (2024)",
+    "year": 2024,
+    "payload": "s7889",
+    "payload_mkv": "s7889",
+    "last_updated": 1779047690
+  },
+  {
     "title": "Full Monty (2023)",
     "year": 2023,
     "payload": "s44045"
@@ -1541,7 +1590,8 @@
   {
     "title": "Good Omens (2019)",
     "year": 2019,
-    "payload": "s45098"
+    "payload": "s45098",
+    "last_updated": 1779016470
   },
   {
     "title": "Gotham (2014)",
@@ -1739,6 +1789,13 @@
     "payload": "s133994"
   },
   {
+    "title": "Interior Chinatown (2024)",
+    "year": 2024,
+    "payload": "s8001",
+    "payload_mkv": "s8001",
+    "last_updated": 1779047809
+  },
+  {
     "title": "Invasión (2021)",
     "year": 2021,
     "payload": "s34921"
@@ -1778,6 +1835,13 @@
     "title": "Jett (2019)",
     "year": 2019,
     "payload": "s141684"
+  },
+  {
+    "title": "Johnny Bravo (1997)",
+    "year": 1997,
+    "payload": "s7277",
+    "payload_mkv": "s7277",
+    "last_updated": 1778945441
   },
   {
     "title": "Juego de Tronos (2011)",
@@ -2042,6 +2106,13 @@
     "payload": "s56014"
   },
   {
+    "title": "La muerte y esas cosas (2024)",
+    "year": 2024,
+    "payload": "s7900",
+    "payload_mkv": "s7900",
+    "last_updated": 1779047726
+  },
+  {
     "title": "La nena (2026)",
     "year": 2026,
     "payload": "s174799",
@@ -2254,6 +2325,13 @@
     "payload": "s6804",
     "payload_mkv": "s6804",
     "last_updated": 1778792872
+  },
+  {
+    "title": "Life (2009)",
+    "year": 2009,
+    "payload": "s7465",
+    "payload_mkv": "s7465",
+    "last_updated": 1778945522
   },
   {
     "title": "Light Shop (2024)",
@@ -2589,7 +2667,7 @@
     "year": 2017,
     "payload": "s7105",
     "payload_mkv": "s7105",
-    "last_updated": 1778804430
+    "last_updated": 1778860990
   },
   {
     "title": "Marvel Zombis (2025)",
@@ -2674,6 +2752,13 @@
     "payload": "s53326"
   },
   {
+    "title": "Mike (2022)",
+    "year": 2022,
+    "payload": "s7913",
+    "payload_mkv": "s7913",
+    "last_updated": 1779047755
+  },
+  {
     "title": "Mil golpes (2025)",
     "year": 2025,
     "payload": "s34351"
@@ -2726,6 +2811,13 @@
     "title": "Mono malo (2024)",
     "year": 2024,
     "payload": "s54852"
+  },
+  {
+    "title": "Monster (2004)",
+    "year": 2004,
+    "payload": "s7924",
+    "payload_mkv": "s7924",
+    "last_updated": 1779047785
   },
   {
     "title": "Monstruo: La historia de Ed Gein (2025)",
@@ -2801,6 +2893,13 @@
     "title": "Más allá del jardín (2014)",
     "year": 2014,
     "payload": "s53299"
+  },
+  {
+    "title": "National Treasure (2016)",
+    "year": 2016,
+    "payload": "s7873",
+    "payload_mkv": "s7873",
+    "last_updated": 1779047642
   },
   {
     "title": "NCIS: Hawai'i (2021)",
@@ -3420,6 +3519,20 @@
     "payload": "s60410"
   },
   {
+    "title": "Shaman King (2001)",
+    "year": 2001,
+    "payload": "s7722",
+    "payload_mkv": "s7722",
+    "last_updated": 1779047525
+  },
+  {
+    "title": "SHAMAN KING (2021)",
+    "year": 2021,
+    "payload": "s7789",
+    "payload_mkv": "s7789",
+    "last_updated": 1779047565
+  },
+  {
     "title": "Shameless (2004)",
     "year": 2004,
     "payload": "s60422"
@@ -3770,7 +3883,7 @@
     "year": 2019,
     "payload": "s30668",
     "payload_mkv": "s2343",
-    "last_updated": 1778767789
+    "last_updated": 1779016529
   },
   {
     "title": "The Buccaneers: Aristócratas por amor (2023)",
@@ -3813,9 +3926,30 @@
     "payload": "s31056"
   },
   {
+    "title": "The First (2018)",
+    "year": 2018,
+    "payload": "s7857",
+    "payload_mkv": "s7857",
+    "last_updated": 1779047620
+  },
+  {
+    "title": "The First Lady (2022)",
+    "year": 2022,
+    "payload": "s7844",
+    "payload_mkv": "s7844",
+    "last_updated": 1779047598
+  },
+  {
     "title": "The Flash (2014)",
     "year": 2014,
     "payload": "s31063"
+  },
+  {
+    "title": "The Girl from Plainville (2022)",
+    "year": 2022,
+    "payload": "s7160",
+    "payload_mkv": "s7160",
+    "last_updated": 1778945195
   },
   {
     "title": "The Good Doctor (2017)",
@@ -3906,6 +4040,13 @@
     "title": "The Passage (2019)",
     "year": 2019,
     "payload": "s31857"
+  },
+  {
+    "title": "The Path (2016)",
+    "year": 2016,
+    "payload": "s7487",
+    "payload_mkv": "s7487",
+    "last_updated": 1778945587
   },
   {
     "title": "The Pitt (2025)",
@@ -4053,12 +4194,20 @@
     "title": "Tracker (2024)",
     "year": 2024,
     "payload": "s144236",
-    "last_updated": 1777189534
+    "payload_mkv": "s7684",
+    "last_updated": 1778982045
   },
   {
     "title": "Tragones y mazmorras (2024)",
     "year": 2024,
     "payload": "s140357"
+  },
+  {
+    "title": "Trampa 22 (2019)",
+    "year": 2019,
+    "payload": "s7478",
+    "payload_mkv": "s7478",
+    "last_updated": 1778945560
   },
   {
     "title": "Transparent (2014)",
