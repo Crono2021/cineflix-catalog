@@ -1150,6 +1150,11 @@
     "year": null
   },
   {
+    "title": "01- Wonder Woman",
+    "search_title": "01- Wonder Woman",
+    "year": null
+  },
+  {
     "title": "012 La Guerra De Los Clones",
     "search_title": "012 La Guerra De Los Clones",
     "year": null
@@ -1158,6 +1163,11 @@
     "title": "02 - Pinocho (1940)",
     "search_title": "02 - Pinocho",
     "year": 1940
+  },
+  {
+    "title": "02- Wonder Woman 1984",
+    "search_title": "02- Wonder Woman 1984",
+    "year": null
   },
   {
     "title": "03 - 2001",
@@ -1170,6 +1180,11 @@
     "year": 1940
   },
   {
+    "title": "03- El Hombre de Acero",
+    "search_title": "03- El Hombre de Acero",
+    "year": null
+  },
+  {
     "title": "04 - Barbie Como La Princesa Rapunzel (2002)",
     "search_title": "04 - Barbie Como La Princesa Rapunzel",
     "year": 2002
@@ -1180,6 +1195,11 @@
     "year": 1941
   },
   {
+    "title": "04- Batm Vs Superman - El amanecer de la justicia",
+    "search_title": "04- Batm Vs Superman - El amanecer de la justicia",
+    "year": null
+  },
+  {
     "title": "05 - Bambi (1942)",
     "search_title": "05 - Bambi",
     "year": 1942
@@ -1188,6 +1208,11 @@
     "title": "05 - Barbie En El Lago De Los Cisnes (2003)",
     "search_title": "05 - Barbie En El Lago De Los Cisnes",
     "year": 2003
+  },
+  {
+    "title": "05- Escuadron Suicida",
+    "search_title": "05- Escuadron Suicida",
+    "year": null
   },
   {
     "title": "06 - Barbie Y La Princesa Costurera (2004)",
@@ -18763,6 +18788,11 @@
     "title": "Campamento de Verano (2024)",
     "search_title": "Campamento de Verano",
     "year": 2024
+  },
+  {
+    "title": "Campamento del Terror (2015)",
+    "search_title": "Campamento del Terror",
+    "year": 2015
   },
   {
     "title": "Campamento Flipy (2010)",
@@ -38762,6 +38792,11 @@
   {
     "title": "El guardián de las palabras T2 Trainspotting (2017)",
     "search_title": "El guardián de las palabras T2 Trainspotting",
+    "year": 2017
+  },
+  {
+    "title": "El guardián invisible (2017)",
+    "search_title": "El guardián invisible",
     "year": 2017
   },
   {
@@ -97785,6 +97820,11 @@
     "year": null
   },
   {
+    "title": "Ofrenda a la tormenta (2020)",
+    "search_title": "Ofrenda a la tormenta",
+    "year": 2020
+  },
+  {
     "title": "Oh Heavenly Dog (1980)",
     "search_title": "Oh Heavenly Dog",
     "year": 1980
@@ -116233,6 +116273,11 @@
     "title": "Splice: Experimento mortal (2009)",
     "search_title": "Splice: Experimento mortal",
     "year": 2009
+  },
+  {
+    "title": "Splitsville Una comedia poco romántica (2025)",
+    "search_title": "Splitsville Una comedia poco romántica",
+    "year": 2025
   },
   {
     "title": "Spooked",
