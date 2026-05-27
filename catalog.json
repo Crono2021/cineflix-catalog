@@ -194,6 +194,41 @@
     "payload": "s36842"
   },
   {
+    "title": "Apocalipsis (1994)",
+    "year": 1994,
+    "payload": "s9926",
+    "payload_mkv": "s9926",
+    "last_updated": 1779828223
+  },
+  {
+    "title": "Apocalipsis en el instituto (2010)",
+    "year": 2010,
+    "payload": "s10319",
+    "payload_mkv": "s10319",
+    "last_updated": 1779828571
+  },
+  {
+    "title": "Apocalipsis: El ascenso de Hitler (2011)",
+    "year": 2011,
+    "payload": "s9823",
+    "payload_mkv": "s9823",
+    "last_updated": 1779828056
+  },
+  {
+    "title": "Apocalipsis: La Segunda Guerra Mundial (2009)",
+    "year": 2009,
+    "payload": "s9828",
+    "payload_mkv": "s9828",
+    "last_updated": 1779828127
+  },
+  {
+    "title": "Apocalipsis: Stalin (2015)",
+    "year": 2015,
+    "payload": "s9817",
+    "payload_mkv": "s9817",
+    "last_updated": 1779828017
+  },
+  {
     "title": "Apuesta (2025)",
     "year": 2025,
     "payload": "s36845"
@@ -297,6 +332,13 @@
     "payload": "s39819"
   },
   {
+    "title": "Before (2024)",
+    "year": 2024,
+    "payload": "s10825",
+    "payload_mkv": "s10825",
+    "last_updated": 1779828901
+  },
+  {
     "title": "Ben 10 (2005)",
     "year": 2005,
     "payload": "s139346"
@@ -334,11 +376,25 @@
     "last_updated": 1778888300
   },
   {
+    "title": "Bestia salvaje (2024)",
+    "year": 2024,
+    "payload": "s9793",
+    "payload_mkv": "s9793",
+    "last_updated": 1779827960
+  },
+  {
     "title": "Better Call Saul (2015)",
     "year": 2015,
     "payload": "s126787",
     "payload_mkv": "s926",
     "last_updated": 1777544615
+  },
+  {
+    "title": "Bienvenidos a la familia (2018)",
+    "year": 2018,
+    "payload": "s10795",
+    "payload_mkv": "s10795",
+    "last_updated": 1779828857
   },
   {
     "title": "Bienvenidos a la Tierra (2021)",
@@ -423,6 +479,13 @@
     "title": "Bob Esponja (1999)",
     "year": 1999,
     "payload": "s40474"
+  },
+  {
+    "title": "Bobobo (2005)",
+    "year": 2005,
+    "payload": "s10240",
+    "payload_mkv": "s10240",
+    "last_updated": 1779828551
   },
   {
     "title": "Bookish (2025)",
@@ -1549,6 +1612,13 @@
     "payload": "s44033"
   },
   {
+    "title": "Freaks and Geeks (1999)",
+    "year": 1999,
+    "payload": "s9763",
+    "payload_mkv": "s9763",
+    "last_updated": 1779827889
+  },
+  {
     "title": "Friday Night Lights (2006)",
     "year": 2006,
     "payload": "s65",
@@ -1657,6 +1727,13 @@
     "payload": "s44793"
   },
   {
+    "title": "Gantz (2004)",
+    "year": 2004,
+    "payload": "s10645",
+    "payload_mkv": "s10645",
+    "last_updated": 1779828727
+  },
+  {
     "title": "Garfield y sus amigos (1988)",
     "year": 1988,
     "payload": "s44796"
@@ -1675,6 +1752,20 @@
     "title": "Geronimo Stilton (2009)",
     "year": 2009,
     "payload": "s141952"
+  },
+  {
+    "title": "Ghost in the Shell: SAC_2045 (2020)",
+    "year": 2020,
+    "payload": "s9898",
+    "payload_mkv": "s9898",
+    "last_updated": 1779828205
+  },
+  {
+    "title": "Ghost in the Shell: Stand Alone Complex (2002)",
+    "year": 2002,
+    "payload": "s9837",
+    "payload_mkv": "s9837",
+    "last_updated": 1779828158
   },
   {
     "title": "Gigantes (2018)",
@@ -1856,6 +1947,13 @@
     "payload": "s45419"
   },
   {
+    "title": "I Am Frankie (2017)",
+    "year": 2017,
+    "payload": "s10838",
+    "payload_mkv": "s10838",
+    "last_updated": 1779828934
+  },
+  {
     "title": "I Love LA (2025)",
     "year": 2025,
     "payload": "s126219"
@@ -1903,6 +2001,13 @@
     "last_updated": 1779047809
   },
   {
+    "title": "Interrogation (2020)",
+    "year": 2020,
+    "payload": "s9804",
+    "payload_mkv": "s9804",
+    "last_updated": 1779827987
+  },
+  {
     "title": "Invasión (2021)",
     "year": 2021,
     "payload": "s34921"
@@ -1939,6 +2044,13 @@
     "title": "iZombie (2015)",
     "year": 2015,
     "payload": "s136772"
+  },
+  {
+    "title": "J.A.G.: Alerta roja (1995)",
+    "year": 1995,
+    "payload": "s10334",
+    "payload_mkv": "s10334",
+    "last_updated": 1779828688
   },
   {
     "title": "Jessica Jones (2015)",
@@ -2090,6 +2202,13 @@
     "payload": "s55027"
   },
   {
+    "title": "La chica del Vaticano: la desaparición de Emanuela Orlandi (2022)",
+    "year": 2022,
+    "payload": "s10782",
+    "payload_mkv": "s10782",
+    "last_updated": 1779828811
+  },
+  {
     "title": "La chica invisible (2023)",
     "year": 2023,
     "payload": "s55469"
@@ -2110,6 +2229,13 @@
     "payload": "s6769",
     "payload_mkv": "s6769",
     "last_updated": 1778708501
+  },
+  {
+    "title": "La desaparición de Amy Bradley (2025)",
+    "year": 2025,
+    "payload": "s10789",
+    "payload_mkv": "s10789",
+    "last_updated": 1779828835
   },
   {
     "title": "La desaparición de Kiri (2018)",
@@ -3208,6 +3334,13 @@
     "payload": "s48127"
   },
   {
+    "title": "Outlaw Star (1998)",
+    "year": 1998,
+    "payload": "s10107",
+    "payload_mkv": "s10107",
+    "last_updated": 1779828469
+  },
+  {
     "title": "Oz (1997)",
     "year": 1997,
     "payload": "s48130"
@@ -3620,6 +3753,13 @@
     "payload": "s59925"
   },
   {
+    "title": "Samuel (2024)",
+    "year": 2024,
+    "payload": "s10675",
+    "payload_mkv": "s10675",
+    "last_updated": 1779828751
+  },
+  {
     "title": "Samurai Champloo (2004)",
     "year": 2004,
     "payload": "s59928"
@@ -3836,6 +3976,13 @@
     "last_updated": 1779309225
   },
   {
+    "title": "Slam Dunk (1993)",
+    "year": 1993,
+    "payload": "s10136",
+    "payload_mkv": "s10136",
+    "last_updated": 1779828521
+  },
+  {
     "title": "Slayers (1995)",
     "year": 1995,
     "payload": "s8081",
@@ -3918,6 +4065,13 @@
     "payload": "s8400",
     "payload_mkv": "s8400",
     "last_updated": 1779139074
+  },
+  {
+    "title": "Sonic X (2003)",
+    "year": 2003,
+    "payload": "s10699",
+    "payload_mkv": "s10699",
+    "last_updated": 1779828790
   },
   {
     "title": "South Park (1997)",
@@ -4241,6 +4395,13 @@
     "title": "The I-Land (2019)",
     "year": 2019,
     "payload": "s31454"
+  },
+  {
+    "title": "The Killing Kind (2023)",
+    "year": 2023,
+    "payload": "s9784",
+    "payload_mkv": "s9784",
+    "last_updated": 1779827933
   },
   {
     "title": "The Last Kingdom (2015)",
@@ -4869,7 +5030,9 @@
   {
     "title": "Érase una vez... el cuerpo humano (1987)",
     "year": 1987,
-    "payload": "s52539"
+    "payload": "s52539",
+    "payload_mkv": "s9962",
+    "last_updated": 1779828280
   },
   {
     "title": "Érase una vez... el espacio (1982)",
@@ -4887,13 +5050,38 @@
     "payload": "s52542"
   },
   {
+    "title": "Érase una vez... las américas (1992)",
+    "year": 1992,
+    "payload": "s9991",
+    "payload_mkv": "s9991",
+    "last_updated": 1779828312
+  },
+  {
     "title": "Érase una vez... los exploradores (1996)",
     "year": 1996,
-    "payload": "s52545"
+    "payload": "s52545",
+    "payload_mkv": "s9933",
+    "last_updated": 1779828253
   },
   {
     "title": "Érase una vez... los inventores (1994)",
     "year": 1994,
-    "payload": "s52548"
+    "payload": "s52548",
+    "payload_mkv": "s10078",
+    "last_updated": 1779828438
+  },
+  {
+    "title": "Érase una vez… el espacio (1982)",
+    "year": 1982,
+    "payload": "s10049",
+    "payload_mkv": "s10049",
+    "last_updated": 1779828381
+  },
+  {
+    "title": "Érase una vez… el hombre (1978)",
+    "year": 1978,
+    "payload": "s10020",
+    "payload_mkv": "s10020",
+    "last_updated": 1779828348
   }
 ]
