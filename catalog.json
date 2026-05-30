@@ -2722,6 +2722,13 @@
     "payload": "s134170"
   },
   {
+    "title": "Los informáticos (2006)",
+    "year": 2006,
+    "payload": "s11299",
+    "payload_mkv": "s11299",
+    "last_updated": 1780131818
+  },
+  {
     "title": "Los Jackson (1992)",
     "year": 1992,
     "payload": "s57830"
@@ -3528,6 +3535,13 @@
     "payload": "s49270"
   },
   {
+    "title": "Por cuatro perras (2026)",
+    "year": 2026,
+    "payload": "s10895",
+    "payload_mkv": "s10895",
+    "last_updated": 1780089435
+  },
+  {
     "title": "Por trece razones (2017)",
     "year": 2017,
     "payload": "s49267"
@@ -3709,6 +3723,13 @@
     "payload": "s33698"
   },
   {
+    "title": "Rugrats (1991)",
+    "year": 1991,
+    "payload": "s10907",
+    "payload_mkv": "s10907",
+    "last_updated": 1780094828
+  },
+  {
     "title": "Rumbo al infierno (2021)",
     "year": 2021,
     "payload": "s111176"
@@ -3857,6 +3878,13 @@
     "payload": "s8424",
     "payload_mkv": "s8424",
     "last_updated": 1779139109
+  },
+  {
+    "title": "Servicio Secreto by Chicote (2026)",
+    "year": 2026,
+    "payload": "s11289",
+    "payload_mkv": "s11289",
+    "last_updated": 1780121376
   },
   {
     "title": "Severance (2022)",
@@ -4369,7 +4397,9 @@
   {
     "title": "The Flash (2014)",
     "year": 2014,
-    "payload": "s31063"
+    "payload": "s31063",
+    "payload_mkv": "s11092",
+    "last_updated": 1780095225
   },
   {
     "title": "The Girl from Plainville (2022)",
