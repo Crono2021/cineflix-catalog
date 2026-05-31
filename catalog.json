@@ -2378,7 +2378,7 @@
     "year": 2026,
     "payload": "s174799",
     "payload_mkv": "s3694",
-    "last_updated": 1777798016
+    "last_updated": 1780151170
   },
   {
     "title": "La novia (2025)",
@@ -3539,7 +3539,7 @@
     "year": 2026,
     "payload": "s10895",
     "payload_mkv": "s10895",
-    "last_updated": 1780089435
+    "last_updated": 1780181594
   },
   {
     "title": "Por trece razones (2017)",
@@ -3625,6 +3625,13 @@
     "title": "Rapa (2022)",
     "year": 2022,
     "payload": "s128077"
+  },
+  {
+    "title": "Ravalear (2026)",
+    "year": 2026,
+    "payload": "s183605",
+    "payload_mkv": "s11342",
+    "last_updated": 1780165347
   },
   {
     "title": "Reacher (2022)",
@@ -4132,6 +4139,13 @@
     "payload": "s10884",
     "payload_mkv": "s10884",
     "last_updated": 1780040804
+  },
+  {
+    "title": "Spider-Noir (2026) - Color",
+    "year": 2026,
+    "payload": "s11331",
+    "payload_mkv": "s11331",
+    "last_updated": 1780155070
   },
   {
     "title": "Splinter Cell: Deathwatch (2025)",
@@ -4657,6 +4671,13 @@
     "title": "Tomb Raider: La leyenda de Lara Croft (2024)",
     "year": 2024,
     "payload": "s123454"
+  },
+  {
+    "title": "Top Boy (2019)",
+    "year": 2019,
+    "payload": "s11350",
+    "payload_mkv": "s11350",
+    "last_updated": 1780186565
   },
   {
     "title": "Tougen Anki (2025)",
