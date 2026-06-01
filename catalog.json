@@ -65,6 +65,13 @@
     "payload": "s35148"
   },
   {
+    "title": "Abandonados (2026)",
+    "year": 2026,
+    "payload": "s11972",
+    "payload_mkv": "s11972",
+    "last_updated": 1780298363
+  },
+  {
     "title": "ACI: Alta Capacidad Intelectual (2021)",
     "year": 2021,
     "payload": "s35151"
@@ -2349,7 +2356,7 @@
     "year": 2026,
     "payload": "s6080",
     "payload_mkv": "s6080",
-    "last_updated": 1779529686
+    "last_updated": 1780266004
   },
   {
     "title": "La Marquesa de Merteuil (2025)",
@@ -2543,6 +2550,13 @@
     "payload": "s6691",
     "payload_mkv": "s6691",
     "last_updated": 1778674719
+  },
+  {
+    "title": "Las escalofriantes aventuras de Sabrina (2018)",
+    "year": 2018,
+    "payload": "s11378",
+    "payload_mkv": "s11378",
+    "last_updated": 1780186931
   },
   {
     "title": "Las gotas de Dios (2023)",
@@ -3365,6 +3379,13 @@
     "payload": "s8912",
     "payload_mkv": "s8912",
     "last_updated": 1779308869
+  },
+  {
+    "title": "Padre de familia (1999)",
+    "year": 1999,
+    "payload": "s11420",
+    "payload_mkv": "s11420",
+    "last_updated": 1780187986
   },
   {
     "title": "Padre no hay más que uno, la serie (2026)",
@@ -4543,7 +4564,7 @@
     "title": "The Rookie (2018)",
     "year": 2018,
     "payload": "s31914",
-    "last_updated": 1779305395
+    "last_updated": 1780266361
   },
   {
     "title": "The Runarounds (2025)",
@@ -4892,7 +4913,7 @@
     "year": 2025,
     "payload": "s141709",
     "payload_mkv": "s2026",
-    "last_updated": 1777685636
+    "last_updated": 1780269413
   },
   {
     "title": "Vikingos (2013)",
