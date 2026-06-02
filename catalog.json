@@ -531,6 +531,13 @@
     "payload": "s41824"
   },
   {
+    "title": "BTOOOM! (2012)",
+    "year": 2012,
+    "payload": "s12900",
+    "payload_mkv": "s12900",
+    "last_updated": 1780318682
+  },
+  {
     "title": "Buena conducta (2016)",
     "year": 2016,
     "payload": "s6056",
@@ -665,6 +672,20 @@
     "last_updated": 1779139216
   },
   {
+    "title": "Chuck (2007)",
+    "year": 2007,
+    "payload": "s12915",
+    "payload_mkv": "s12915",
+    "last_updated": 1780318745
+  },
+  {
+    "title": "Cinco en familia (1994)",
+    "year": 1994,
+    "payload": "s12094",
+    "payload_mkv": "s12094",
+    "last_updated": 1780318188
+  },
+  {
     "title": "Citadel (2023)",
     "year": 2023,
     "payload": "s9262",
@@ -697,6 +718,13 @@
     "title": "Colegio Abbott (2021)",
     "year": 2021,
     "payload": "s37594"
+  },
+  {
+    "title": "Colombo (1971)",
+    "year": 1971,
+    "payload": "s12637",
+    "payload_mkv": "s12637",
+    "last_updated": 1780318552
   },
   {
     "title": "Colony (2016)",
@@ -1124,6 +1152,13 @@
     "payload": "s50719"
   },
   {
+    "title": "El Evento (2010)",
+    "year": 2010,
+    "payload": "s12434",
+    "payload_mkv": "s12434",
+    "last_updated": 1780318344
+  },
+  {
     "title": "El ferrocarril subterráneo (2021)",
     "year": 2021,
     "payload": "s4719",
@@ -1443,6 +1478,13 @@
     "payload": "s140415"
   },
   {
+    "title": "Empire (2015)",
+    "year": 2015,
+    "payload": "s12459",
+    "payload_mkv": "s12459",
+    "last_updated": 1780318450
+  },
+  {
     "title": "En fin (2024)",
     "year": 2024,
     "payload": "s52336"
@@ -1511,7 +1553,7 @@
     "year": 2019,
     "payload": "s52854",
     "payload_mkv": "s4",
-    "last_updated": 1779703479
+    "last_updated": 1780354359
   },
   {
     "title": "Evil (2019)",
@@ -1809,7 +1851,7 @@
     "title": "Hacks (2021)",
     "year": 2021,
     "payload": "s126451",
-    "last_updated": 1779531229
+    "last_updated": 1780355336
   },
   {
     "title": "Haikyuu!! Los ases del vóley (2014)",
@@ -1879,6 +1921,13 @@
     "payload": "s124016"
   },
   {
+    "title": "Heroes Reborn (2015)",
+    "year": 2015,
+    "payload": "s12078",
+    "payload_mkv": "s12078",
+    "last_updated": 1780318120
+  },
+  {
     "title": "Hierro (2019)",
     "year": 2019,
     "payload": "s45839"
@@ -1932,6 +1981,13 @@
     "payload": "s45848"
   },
   {
+    "title": "Hope (2010)",
+    "year": 2010,
+    "payload": "s12246",
+    "payload_mkv": "s12246",
+    "last_updated": 1780318237
+  },
+  {
     "title": "Hora de aventuras (2010)",
     "year": 2010,
     "payload": "s120346"
@@ -1942,6 +1998,20 @@
     "payload": "s3220",
     "payload_mkv": "s3220",
     "last_updated": 1777768150
+  },
+  {
+    "title": "Hunter × Hunter (2011)",
+    "year": 2011,
+    "payload": "s12747",
+    "payload_mkv": "s12747",
+    "last_updated": 1780318658
+  },
+  {
+    "title": "HunterxHunter (1999)",
+    "year": 1999,
+    "payload": "s12572",
+    "payload_mkv": "s12572",
+    "last_updated": 1780318517
   },
   {
     "title": "Hércules: Sus viajes legendarios (1995)",
@@ -3091,6 +3161,13 @@
     "last_updated": 1779309124
   },
   {
+    "title": "Miénteme (2009)",
+    "year": 2009,
+    "payload": "s11979",
+    "payload_mkv": "s11979",
+    "last_updated": 1780318044
+  },
+  {
     "title": "Miércoles (2022)",
     "year": 2022,
     "payload": "s54409"
@@ -3702,6 +3779,13 @@
     "payload": "s33669"
   },
   {
+    "title": "Revolution (2012)",
+    "year": 2012,
+    "payload": "s12032",
+    "payload_mkv": "s12032",
+    "last_updated": 1780318075
+  },
+  {
     "title": "Rey y Conquistador (2025)",
     "year": 2025,
     "payload": "s33677"
@@ -3710,7 +3794,7 @@
     "title": "Rick y Morty (2013)",
     "year": 2013,
     "payload": "s33918",
-    "last_updated": 1779717637
+    "last_updated": 1780381869
   },
   {
     "title": "Riot Women (2025)",
@@ -3790,6 +3874,13 @@
     "payload": "s59922",
     "payload_mkv": "s8814",
     "last_updated": 1779308819
+  },
+  {
+    "title": "Salto al infinito (1995)",
+    "year": 1995,
+    "payload": "s12340",
+    "payload_mkv": "s12340",
+    "last_updated": 1780318293
   },
   {
     "title": "Salvador (2026)",
@@ -4699,6 +4790,13 @@
     "payload": "s11350",
     "payload_mkv": "s11350",
     "last_updated": 1780186565
+  },
+  {
+    "title": "Toradora! (2008)",
+    "year": 2008,
+    "payload": "s12719",
+    "payload_mkv": "s12719",
+    "last_updated": 1780318599
   },
   {
     "title": "Tougen Anki (2025)",
