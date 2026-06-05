@@ -631,6 +631,13 @@
     "payload": "s37350"
   },
   {
+    "title": "Cape Fear (2026)",
+    "year": 2026,
+    "payload": "s188096",
+    "payload_mkv": "s15335",
+    "last_updated": 1780652921
+  },
+  {
     "title": "Cassandra (2025)",
     "year": 2025,
     "payload": "s138135"
@@ -3089,6 +3096,13 @@
     "title": "Los tipos malos: Malos comienzos (2025)",
     "year": 2025,
     "payload": "s142133"
+  },
+  {
+    "title": "Los Topuria (2026)",
+    "year": 2026,
+    "payload": "s15331",
+    "payload_mkv": "s15331",
+    "last_updated": 1780651735
   },
   {
     "title": "Los trotamúsicos (Los 4 músicos de Bremen) (1989)",
