@@ -456,6 +456,20 @@
     "payload": "s40084"
   },
   {
+    "title": "Black Lagoon (2006)",
+    "year": 2006,
+    "payload": "s15196",
+    "payload_mkv": "s15196",
+    "last_updated": 1780577407
+  },
+  {
+    "title": "Black Lagoon: Roberta's Blood Trail (2010)",
+    "year": 2010,
+    "payload": "s15188",
+    "payload_mkv": "s15188",
+    "last_updated": 1780577382
+  },
+  {
     "title": "Black Lightning (2018)",
     "year": 2018,
     "payload": "s148",
@@ -1950,6 +1964,13 @@
     "title": "Grotesquerie (2024)",
     "year": 2024,
     "payload": "s45107"
+  },
+  {
+    "title": "Gungrave (2003)",
+    "year": 2003,
+    "payload": "s15223",
+    "payload_mkv": "s15223",
+    "last_updated": 1780577431
   },
   {
     "title": "Hacks (2021)",
@@ -3889,6 +3910,13 @@
     "last_updated": 1778335469
   },
   {
+    "title": "Prodigal Son (2019)",
+    "year": 2019,
+    "payload": "s15151",
+    "payload_mkv": "s15151",
+    "last_updated": 1780577353
+  },
+  {
     "title": "Punky Brewster (1984)",
     "year": 1984,
     "payload": "s49469"
@@ -4373,6 +4401,13 @@
     "payload": "s8081",
     "payload_mkv": "s8081",
     "last_updated": 1779138788
+  },
+  {
+    "title": "Sleepy Hollow (2013)",
+    "year": 2013,
+    "payload": "s15252",
+    "payload_mkv": "s15252",
+    "last_updated": 1780577463
   },
   {
     "title": "Slow Horses (2022)",
