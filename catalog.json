@@ -411,6 +411,13 @@
     "last_updated": 1777544615
   },
   {
+    "title": "Better Things (2016)",
+    "year": 2016,
+    "payload": "s15747",
+    "payload_mkv": "s15747",
+    "last_updated": 1780735853
+  },
+  {
     "title": "Betty, mi fea bella (2006)",
     "year": 2006,
     "payload": "s14773",
@@ -661,6 +668,13 @@
     "title": "Catalina la Grande (2019)",
     "year": 2019,
     "payload": "s37359"
+  },
+  {
+    "title": "Cazadores de mitos (2003)",
+    "year": 2003,
+    "payload": "s15952",
+    "payload_mkv": "s15952",
+    "last_updated": 1780736101
   },
   {
     "title": "Cazadores de sombras (Shadowhunters) (2016)",
@@ -957,9 +971,30 @@
     "last_updated": 1778271904
   },
   {
+    "title": "DAVE (2020)",
+    "year": 2020,
+    "payload": "s15712",
+    "payload_mkv": "s15712",
+    "last_updated": 1780735829
+  },
+  {
+    "title": "Dave el bárbaro (2004)",
+    "year": 2004,
+    "payload": "s15668",
+    "payload_mkv": "s15668",
+    "last_updated": 1780735810
+  },
+  {
     "title": "David el Gnomo (1985)",
     "year": 1985,
     "payload": "s42145"
+  },
+  {
+    "title": "Daños y perjuicios (2007)",
+    "year": 2007,
+    "payload": "s15806",
+    "payload_mkv": "s15806",
+    "last_updated": 1780735875
   },
   {
     "title": "De la Tierra a la Luna (1998)",
@@ -1425,7 +1460,8 @@
   {
     "title": "El primer matrimonio de Georgie y Mandy (2024)",
     "year": 2024,
-    "payload": "s120246"
+    "payload": "s120246",
+    "last_updated": 1780710346
   },
   {
     "title": "El prisionero (1967)",
@@ -2319,6 +2355,13 @@
     "payload": "s34484"
   },
   {
+    "title": "Justified: La ley de Raylan (2010)",
+    "year": 2010,
+    "payload": "s16239",
+    "payload_mkv": "s16239",
+    "last_updated": 1780736258
+  },
+  {
     "title": "Jóvenes altezas (2021)",
     "year": 2021,
     "payload": "s34475"
@@ -2480,6 +2523,13 @@
     "payload": "s9141",
     "payload_mkv": "s9141",
     "last_updated": 1779309099
+  },
+  {
+    "title": "La doctora Quinn (1993)",
+    "year": 1993,
+    "payload": "s15492",
+    "payload_mkv": "s15492",
+    "last_updated": 1780735657
   },
   {
     "title": "La edad dorada (2022)",
@@ -3173,6 +3223,13 @@
     "last_updated": 1778283249
   },
   {
+    "title": "Madam Secretary (2014)",
+    "year": 2014,
+    "payload": "s15364",
+    "payload_mkv": "s15364",
+    "last_updated": 1780735595
+  },
+  {
     "title": "Maguila gorila (1964)",
     "year": 1964,
     "payload": "s53258"
@@ -3561,6 +3618,13 @@
     "payload": "s46048"
   },
   {
+    "title": "Nos vemos en otra vida (2024)",
+    "year": 2024,
+    "payload": "s15355",
+    "payload_mkv": "s15355",
+    "last_updated": 1780735549
+  },
+  {
     "title": "NOS4A2 (Nosferatu) (2019)",
     "year": 2019,
     "payload": "s46051"
@@ -3900,6 +3964,13 @@
     "payload": "s49457"
   },
   {
+    "title": "Preacher (2016)",
+    "year": 2016,
+    "payload": "s16325",
+    "payload_mkv": "s16325",
+    "last_updated": 1780736285
+  },
+  {
     "title": "Prime Target (2025)",
     "year": 2025,
     "payload": "s49460"
@@ -3929,6 +4000,13 @@
     "payload": "s15151",
     "payload_mkv": "s15151",
     "last_updated": 1780577353
+  },
+  {
+    "title": "Puella Magi Madoka Magica (2011)",
+    "year": 2011,
+    "payload": "s15340",
+    "payload_mkv": "s15340",
+    "last_updated": 1780735520
   },
   {
     "title": "Punky Brewster (1984)",
@@ -4356,6 +4434,13 @@
     "payload": "s106230"
   },
   {
+    "title": "Siete días (1998)",
+    "year": 1998,
+    "payload": "s15872",
+    "payload_mkv": "s15872",
+    "last_updated": 1780735910
+  },
+  {
     "title": "Sigue respirando (2022)",
     "year": 2022,
     "payload": "s60814"
@@ -4669,7 +4754,9 @@
   {
     "title": "Tales of the Walking Dead (2022)",
     "year": 2022,
-    "payload": "s32496"
+    "payload": "s32496",
+    "payload_mkv": "s15943",
+    "last_updated": 1780735927
   },
   {
     "title": "Task (2025)",
@@ -4923,6 +5010,13 @@
     "payload": "s4878",
     "payload_mkv": "s4878",
     "last_updated": 1778282984
+  },
+  {
+    "title": "The Old Man (2022)",
+    "year": 2022,
+    "payload": "s15649",
+    "payload_mkv": "s15649",
+    "last_updated": 1780735782
   },
   {
     "title": "The Orville (2017)",
