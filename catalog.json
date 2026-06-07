@@ -147,6 +147,13 @@
     "payload": "s35644"
   },
   {
+    "title": "Air Gear (2006)",
+    "year": 2006,
+    "payload": "s19748",
+    "payload_mkv": "s19748",
+    "last_updated": 1780821816
+  },
+  {
     "title": "ALF (1986)",
     "year": 1986,
     "payload": "s35659"
@@ -1741,6 +1748,13 @@
     "payload": "s133510"
   },
   {
+    "title": "Ergo Proxy (2006)",
+    "year": 2006,
+    "payload": "s19792",
+    "payload_mkv": "s19792",
+    "last_updated": 1780821862
+  },
+  {
     "title": "Escenas de matrimonio (2007)",
     "year": 2007,
     "payload": "s52551"
@@ -1848,6 +1862,20 @@
     "title": "Farmacia de guardia (1991)",
     "year": 1991,
     "payload": "s43214"
+  },
+  {
+    "title": "Fate/Apocrypha (2017)",
+    "year": 2017,
+    "payload": "s19720",
+    "payload_mkv": "s19720",
+    "last_updated": 1780821782
+  },
+  {
+    "title": "Fate/EXTRA Last Encore (2018)",
+    "year": 2018,
+    "payload": "s19704",
+    "payload_mkv": "s19704",
+    "last_updated": 1780821596
   },
   {
     "title": "Fear (2025)",
@@ -2107,6 +2135,13 @@
     "payload": "s15223",
     "payload_mkv": "s15223",
     "last_updated": 1780577431
+  },
+  {
+    "title": "Gunslinger Girl (2003)",
+    "year": 2003,
+    "payload": "s19776",
+    "payload_mkv": "s19776",
+    "last_updated": 1780821838
   },
   {
     "title": "Hacks (2021)",
@@ -5704,6 +5739,13 @@
     "last_updated": 1780755340
   },
   {
+    "title": "Victoria (2016)",
+    "year": 2016,
+    "payload": "s19675",
+    "payload_mkv": "s19675",
+    "last_updated": 1780821468
+  },
+  {
     "title": "Victorious (2010)",
     "year": 2010,
     "payload": "s188721",
@@ -5823,6 +5865,13 @@
     "payload": "s6656",
     "payload_mkv": "s6656",
     "last_updated": 1778674680
+  },
+  {
+    "title": "X Company (2015)",
+    "year": 2015,
+    "payload": "s19642",
+    "payload_mkv": "s19642",
+    "last_updated": 1780821435
   },
   {
     "title": "X Men, La Serie Animada (1992)",
