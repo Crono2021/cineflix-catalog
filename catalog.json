@@ -385,6 +385,13 @@
     "payload": "s39815"
   },
   {
+    "title": "Batwheels (2022)",
+    "year": 2022,
+    "payload": "s18953",
+    "payload_mkv": "s18953",
+    "last_updated": 1780819772
+  },
+  {
     "title": "Beast Games (2024)",
     "year": 2024,
     "payload": "s39817"
@@ -1354,6 +1361,13 @@
     "payload": "s13454",
     "payload_mkv": "s13454",
     "last_updated": 1780494539
+  },
+  {
+    "title": "El gran tour (2016)",
+    "year": 2016,
+    "payload": "s18696",
+    "payload_mkv": "s18696",
+    "last_updated": 1780819587
   },
   {
     "title": "El hombre contra la abeja (2022)",
@@ -3026,7 +3040,9 @@
   {
     "title": "Las Tortugas Ninja (1987)",
     "year": 1987,
-    "payload": "s56847"
+    "payload": "s56847",
+    "payload_mkv": "s18749",
+    "last_updated": 1780819731
   },
   {
     "title": "Las tres mellizas (1995)",
@@ -3134,7 +3150,30 @@
   {
     "title": "Los Caballeros del Zodiaco (1986)",
     "year": 1986,
-    "payload": "s57815"
+    "payload": "s57815",
+    "payload_mkv": "s19041",
+    "last_updated": 1780819859
+  },
+  {
+    "title": "Los Caballeros del Zodiaco: Alma de oro (2015)",
+    "year": 2015,
+    "payload": "s19158",
+    "payload_mkv": "s19158",
+    "last_updated": 1780819897
+  },
+  {
+    "title": "Los Caballeros del Zodiaco: El Lienzo Perdido (2009)",
+    "year": 2009,
+    "payload": "s19174",
+    "payload_mkv": "s19174",
+    "last_updated": 1780819920
+  },
+  {
+    "title": "Los Caballeros del Zodiaco: La saga de Hades (2002)",
+    "year": 2002,
+    "payload": "s19203",
+    "payload_mkv": "s19203",
+    "last_updated": 1780819952
   },
   {
     "title": "Los ensayos (2022)",
@@ -3267,6 +3306,13 @@
     "last_updated": 1778283423
   },
   {
+    "title": "Los Superminihéroes (2008)",
+    "year": 2008,
+    "payload": "s19238",
+    "payload_mkv": "s19238",
+    "last_updated": 1780820048
+  },
+  {
     "title": "Los Supervivientes (2025)",
     "year": 2025,
     "payload": "s58312"
@@ -3303,6 +3349,13 @@
     "title": "Love Story: John F. Kennedy Jr. y Carolyn Bessette (2026)",
     "year": 2026,
     "payload": "s133961"
+  },
+  {
+    "title": "Lu & the Bally Bunch (2023)",
+    "year": 2023,
+    "payload": "s19477",
+    "payload_mkv": "s19477",
+    "last_updated": 1780820090
   },
   {
     "title": "Lucky Luke (1984)",
@@ -4007,6 +4060,13 @@
     "payload": "s49249"
   },
   {
+    "title": "Patoaventuras (2017)",
+    "year": 2017,
+    "payload": "s19555",
+    "payload_mkv": "s19555",
+    "last_updated": 1780820128
+  },
+  {
     "title": "Peaky Blinders (2013)",
     "year": 2013,
     "payload": "s49252",
@@ -4051,6 +4111,13 @@
     "payload": "s103479",
     "payload_mkv": "s6503",
     "last_updated": 1778630522
+  },
+  {
+    "title": "Peregrina (2026)",
+    "year": 2026,
+    "payload": "s19629",
+    "payload_mkv": "s19629",
+    "last_updated": 1780820153
   },
   {
     "title": "Perros de caza (2023)",
@@ -4162,6 +4229,13 @@
     "payload": "s49466",
     "payload_mkv": "s2144",
     "last_updated": 1777763356
+  },
+  {
+    "title": "Prisoner 951 (2025)",
+    "year": 2025,
+    "payload": "s19634",
+    "payload_mkv": "s19634",
+    "last_updated": 1780820178
   },
   {
     "title": "Private Eyes (2016)",
@@ -5268,6 +5342,13 @@
     "title": "The Studio (2025)",
     "year": 2025,
     "payload": "s32223"
+  },
+  {
+    "title": "The Unit (2006)",
+    "year": 2006,
+    "payload": "s18621",
+    "payload_mkv": "s18621",
+    "last_updated": 1780819555
   },
   {
     "title": "The Walk-In (2022)",
