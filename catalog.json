@@ -445,6 +445,13 @@
     "payload": "s39819"
   },
   {
+    "title": "Becoming Karl Lagerfeld (2024)",
+    "year": 2024,
+    "payload": "s23927",
+    "payload_mkv": "s23927",
+    "last_updated": 1781741652
+  },
+  {
     "title": "Before (2024)",
     "year": 2024,
     "payload": "s10825",
@@ -2047,6 +2054,13 @@
     "title": "F1: La academia (2025)",
     "year": 2025,
     "payload": "s43208"
+  },
+  {
+    "title": "Falcon Crest (1981)",
+    "year": 1981,
+    "payload": "s23936",
+    "payload_mkv": "s23936",
+    "last_updated": 1781741778
   },
   {
     "title": "Falling Skies (2011)",
@@ -3776,7 +3790,9 @@
   {
     "title": "MacGyver (1985)",
     "year": 1985,
-    "payload": "s53252"
+    "payload": "s53252",
+    "payload_mkv": "s24280",
+    "last_updated": 1781742215
   },
   {
     "title": "Machos alfa (2022)",
@@ -3916,6 +3932,12 @@
     "payload": "s53305",
     "payload_mkv": "s4693",
     "last_updated": 1778230840
+  },
+  {
+    "title": "Matrimonio Con Hijos (1987)",
+    "year": 1987,
+    "payload": "s197300",
+    "last_updated": 1781737548
   },
   {
     "title": "Maxton Hall: Un mundo entre nosotros (2024)",
@@ -5507,6 +5529,13 @@
     "payload": "s63158"
   },
   {
+    "title": "Stargate Atlantis (2004)",
+    "year": 2004,
+    "payload": "s24174",
+    "payload_mkv": "s24174",
+    "last_updated": 1781741962
+  },
+  {
     "title": "Stargate SG-1 (1997)",
     "year": 1997,
     "payload": "s130993"
@@ -6352,6 +6381,13 @@
     "payload": "s19675",
     "payload_mkv": "s19675",
     "last_updated": 1780821468
+  },
+  {
+    "title": "Victorious (2010)",
+    "year": 2010,
+    "payload": "s23862",
+    "payload_mkv": "s23862",
+    "last_updated": 1781741498
   },
   {
     "title": "Vikingos (2013)",
