@@ -545,6 +545,13 @@
     "last_updated": 1779268544
   },
   {
+    "title": "Big Bang (2007)",
+    "year": 2007,
+    "payload": "s24714",
+    "payload_mkv": "s24714",
+    "last_updated": 1781744346
+  },
+  {
     "title": "Big Boys (2022)",
     "year": 2022,
     "payload": "s9239",
@@ -1341,6 +1348,13 @@
     "payload": "s13775",
     "payload_mkv": "s13775",
     "last_updated": 1780494776
+  },
+  {
+    "title": "Dos chicas sin blanca (2011)",
+    "year": 2011,
+    "payload": "s24431",
+    "payload_mkv": "s24431",
+    "last_updated": 1781742537
   },
   {
     "title": "Dos hombres y medio (2003)",
@@ -2854,6 +2868,13 @@
     "title": "Kung Fu (1972)",
     "year": 1972,
     "payload": "s34659"
+  },
+  {
+    "title": "Kyle XY (2006)",
+    "year": 2006,
+    "payload": "s198518",
+    "payload_mkv": "s24576",
+    "last_updated": 1781743623
   },
   {
     "title": "La agencia (2025)",
@@ -4791,6 +4812,13 @@
     "last_updated": 1778187753
   },
   {
+    "title": "Queer as Folk (2000)",
+    "year": 2000,
+    "payload": "s198566",
+    "payload_mkv": "s24624",
+    "last_updated": 1781743956
+  },
+  {
     "title": "Querer (2024)",
     "year": 2024,
     "payload": "s34361"
@@ -6613,6 +6641,12 @@
     "payload": "s20038",
     "payload_mkv": "s20038",
     "last_updated": 1780949791
+  },
+  {
+    "title": "¡Ay, Señor, Señor! (1994)",
+    "year": 1994,
+    "payload": "s198486",
+    "last_updated": 1781743389
   },
   {
     "title": "¿A qué estás esperando? (2024)",
