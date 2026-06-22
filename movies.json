@@ -48190,9 +48190,9 @@
     "year": 2006
   },
   {
-    "title": "Garfield La película (2024)",
-    "search_title": "Garfield La película",
-    "year": 2024
+    "title": "Garfield La Película",
+    "search_title": "Garfield La Película",
+    "year": null
   },
   {
     "title": "Garganta profunda (1972)",
@@ -98545,11 +98545,6 @@
     "year": null
   },
   {
-    "title": "Saw 2 (2005)",
-    "search_title": "Saw 2",
-    "year": 2005
-  },
-  {
     "title": "Saw 3 (2006)",
     "search_title": "Saw 3",
     "year": 2006
@@ -98583,11 +98578,6 @@
     "title": "Saw 8 (2017)",
     "search_title": "Saw 8",
     "year": 2017
-  },
-  {
-    "title": "Saw I(2004)",
-    "search_title": "Saw I",
-    "year": 2004
   },
   {
     "title": "Saw II (2005)",
