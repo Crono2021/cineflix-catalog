@@ -55,7 +55,8 @@
   {
     "title": "911 (2018)",
     "year": 2018,
-    "payload": "s28683"
+    "payload": "s28683",
+    "last_updated": 1783296611
   },
   {
     "title": "A dos metros bajo tierra (2001)",
@@ -286,7 +287,7 @@
     "title": "Anatomía de Grey (2005)",
     "year": 2005,
     "payload": "s35969",
-    "last_updated": 1781132429
+    "last_updated": 1782984398
   },
   {
     "title": "Anatomía de un instante (2025)",
@@ -943,7 +944,7 @@
     "year": 2026,
     "payload": "s188096",
     "payload_mkv": "s15335",
-    "last_updated": 1782471859
+    "last_updated": 1783212846
   },
   {
     "title": "Carmen Sandiego (2019)",
@@ -1074,7 +1075,7 @@
     "title": "CIA (2026)",
     "year": 2026,
     "payload": "s194800",
-    "last_updated": 1781398199
+    "last_updated": 1783266175
   },
   {
     "title": "Cinco en familia (1994)",
@@ -2449,6 +2450,12 @@
     "last_updated": 1777767347
   },
   {
+    "title": "Familia de acogida (2013)",
+    "year": 2013,
+    "payload": "s202640",
+    "last_updated": 1783259950
+  },
+  {
     "title": "Familia de policías (Blue Bloods) (2010)",
     "year": 2010,
     "payload": "s43217"
@@ -2537,7 +2544,8 @@
   {
     "title": "Firefly (2002)",
     "year": 2002,
-    "payload": "s44027"
+    "payload": "s44027",
+    "last_updated": 1783291901
   },
   {
     "title": "Fleabag (2016)",
@@ -2769,6 +2777,12 @@
     "payload": "s27814",
     "payload_mkv": "s27814",
     "last_updated": 1782554470
+  },
+  {
+    "title": "Greenleaf (2016)",
+    "year": 2016,
+    "payload": "s202861",
+    "last_updated": 1783260174
   },
   {
     "title": "Grimm (2011)",
@@ -3293,6 +3307,12 @@
     "payload": "s178452",
     "payload_mkv": "s6632",
     "last_updated": 1778672916
+  },
+  {
+    "title": "Kraken: El libro negro de las horas (2026)",
+    "year": 2026,
+    "payload": "s203025",
+    "last_updated": 1783293812
   },
   {
     "title": "Kung Fu (1972)",
@@ -3941,6 +3961,13 @@
     "title": "Lazarus (2025)",
     "year": 2025,
     "payload": "s57491"
+  },
+  {
+    "title": "Legacies (2018)",
+    "year": 2018,
+    "payload": "s28608",
+    "payload_mkv": "s28608",
+    "last_updated": 1783268023
   },
   {
     "title": "Liar (2017)",
@@ -4857,6 +4884,13 @@
     "last_updated": 1782552859
   },
   {
+    "title": "Nightflyers (2018)",
+    "year": 2018,
+    "payload": "s28594",
+    "payload_mkv": "s28594",
+    "last_updated": 1783255378
+  },
+  {
     "title": "Nine Perfect Strangers (2021)",
     "year": 2021,
     "payload": "s46048"
@@ -5490,7 +5524,7 @@
     "year": 2026,
     "payload": "s183605",
     "payload_mkv": "s11342",
-    "last_updated": 1782473711
+    "last_updated": 1782985325
   },
   {
     "title": "Reacher (2022)",
@@ -6475,7 +6509,8 @@
   {
     "title": "The Bear (2022)",
     "year": 2022,
-    "payload": "s30601"
+    "payload": "s30601",
+    "last_updated": 1782984228
   },
   {
     "title": "The Beauty (2026)",
@@ -6975,7 +7010,7 @@
     "year": 2024,
     "payload": "s144236",
     "payload_mkv": "s7684",
-    "last_updated": 1778982045
+    "last_updated": 1783266235
   },
   {
     "title": "Tragones y mazmorras (2024)",
@@ -7309,7 +7344,7 @@
     "title": "Watson (2025)",
     "year": 2025,
     "payload": "s194826",
-    "last_updated": 1781398962
+    "last_updated": 1783266194
   },
   {
     "title": "We Are Lady Parts (2021)",
