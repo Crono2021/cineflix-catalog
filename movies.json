@@ -17190,11 +17190,6 @@
     "year": 2025
   },
   {
-    "title": "Caramelo 2025",
-    "search_title": "Caramelo 2025",
-    "year": null
-  },
-  {
     "title": "Carancho.",
     "search_title": "Carancho.",
     "year": null
@@ -51930,6 +51925,11 @@
     "year": null
   },
   {
+    "title": "Hermanito (2026)",
+    "search_title": "Hermanito",
+    "year": 2026
+  },
+  {
     "title": "Hermano oso 2 (2006)",
     "search_title": "Hermano oso 2",
     "year": 2006
@@ -65693,6 +65693,11 @@
     "title": "La noche de los muertos vivientes (1990)",
     "search_title": "La noche de los muertos vivientes",
     "year": 1990
+  },
+  {
+    "title": "La noche de los muertos vivientes estallido zombi (2026)",
+    "search_title": "La noche de los muertos vivientes estallido zombi",
+    "year": 2026
   },
   {
     "title": "La noche de su vida Chris Columbus,2009",
@@ -94050,6 +94055,11 @@
     "year": null
   },
   {
+    "title": "Qué asco de vida (1991)",
+    "search_title": "Qué asco de vida",
+    "year": 1991
+  },
+  {
     "title": "Qué bello es morir",
     "search_title": "Qué bello es morir",
     "year": null
@@ -104760,11 +104770,6 @@
     "year": null
   },
   {
-    "title": "Steve.mp4",
-    "search_title": "Steve.mp4",
-    "year": null
-  },
-  {
     "title": "Steven Seagal Abatido A tiro limpio 1h,35,36 2008SPANISH DRIP",
     "search_title": "Steven Seagal Abatido A tiro limpio 1h,35,36 2008SPANISH DRIP",
     "year": null
@@ -107145,11 +107150,6 @@
     "year": null
   },
   {
-    "title": "TERMINATOR 2",
-    "search_title": "TERMINATOR 2",
-    "year": null
-  },
-  {
     "title": "Terminator 2: El juicio final ( 1991 )",
     "search_title": "Terminator 2: El juicio final ( 1991 )",
     "year": null
@@ -107160,11 +107160,6 @@
     "year": 1991
   },
   {
-    "title": "TERMINATOR 3",
-    "search_title": "TERMINATOR 3",
-    "year": null
-  },
-  {
     "title": "Terminator 3: La rebelión de las máquinas ( 2003 )",
     "search_title": "Terminator 3: La rebelión de las máquinas ( 2003 )",
     "year": null
@@ -107173,11 +107168,6 @@
     "title": "Terminator 3: La Rebelión De Las Máquinas (2003)",
     "search_title": "Terminator 3: La Rebelión De Las Máquinas",
     "year": 2003
-  },
-  {
-    "title": "TERMINATOR 4",
-    "search_title": "TERMINATOR 4",
-    "year": null
   },
   {
     "title": "Terminator 4: La Salvación (2009)",
