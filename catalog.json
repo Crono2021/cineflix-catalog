@@ -544,6 +544,13 @@
     "payload": "s134799"
   },
   {
+    "title": "Atrapados (2015)",
+    "year": 2015,
+    "payload": "s33098",
+    "payload_mkv": "s33098",
+    "last_updated": 1784290936
+  },
+  {
     "title": "Atípico (2017)",
     "year": 2017,
     "payload": "s4259",
@@ -1192,7 +1199,9 @@
   {
     "title": "Cazatesoros (1999)",
     "year": 1999,
-    "payload": "s37365"
+    "payload": "s37365",
+    "payload_mkv": "s33235",
+    "last_updated": 1784291017
   },
   {
     "title": "Cerca de tu enemigo (2016)",
@@ -1439,6 +1448,13 @@
     "title": "Conan: el aventurero (1992)",
     "year": 1992,
     "payload": "s38377"
+  },
+  {
+    "title": "Condena (2021)",
+    "year": 2021,
+    "payload": "s32902",
+    "payload_mkv": "s32902",
+    "last_updated": 1784290782
   },
   {
     "title": "Constelación (2024)",
@@ -2027,6 +2043,13 @@
     "title": "Dying for Sex (2025)",
     "year": 2025,
     "payload": "s123908"
+  },
+  {
+    "title": "Días de gallos (2021)",
+    "year": 2021,
+    "payload": "s32912",
+    "payload_mkv": "s32912",
+    "last_updated": 1784290793
   },
   {
     "title": "Días de Navidad (2019)",
@@ -2626,6 +2649,13 @@
     "last_updated": 1780494570
   },
   {
+    "title": "El secreto de Nick (2019)",
+    "year": 2019,
+    "payload": "s32936",
+    "payload_mkv": "s32936",
+    "last_updated": 1784290847
+  },
+  {
     "title": "El señor de las moscas (2026)",
     "year": 2026,
     "payload": "s177323",
@@ -2869,6 +2899,13 @@
     "last_updated": 1780821862
   },
   {
+    "title": "Eric (2024)",
+    "year": 2024,
+    "payload": "s33342",
+    "payload_mkv": "s33342",
+    "last_updated": 1784291072
+  },
+  {
     "title": "Escenas de matrimonio (2007)",
     "year": 2007,
     "payload": "s52551"
@@ -3055,6 +3092,13 @@
     "title": "Fear the Walking Dead (2015)",
     "year": 2015,
     "payload": "s43226"
+  },
+  {
+    "title": "Feed the Beast (2016)",
+    "year": 2016,
+    "payload": "s33351",
+    "payload_mkv": "s33351",
+    "last_updated": 1784291092
   },
   {
     "title": "Feel Good (2020)",
@@ -3580,6 +3624,13 @@
     "last_updated": 1780318120
   },
   {
+    "title": "Hicran: en busca de mi hija (2022)",
+    "year": 2022,
+    "payload": "s32959",
+    "payload_mkv": "s32959",
+    "last_updated": 1784290895
+  },
+  {
     "title": "Hierro (2019)",
     "year": 2019,
     "payload": "s45839"
@@ -3890,6 +3941,13 @@
     "title": "Invisible (2024)",
     "year": 2024,
     "payload": "s34927"
+  },
+  {
+    "title": "Invisibles (2015)",
+    "year": 2015,
+    "payload": "s33195",
+    "payload_mkv": "s33195",
+    "last_updated": 1784290975
   },
   {
     "title": "Irma Vep (2022)",
@@ -4584,6 +4642,13 @@
     "payload": "s56317"
   },
   {
+    "title": "La vida sexual de las universitarias (2021)",
+    "year": 2021,
+    "payload": "s33364",
+    "payload_mkv": "s33364",
+    "last_updated": 1784291121
+  },
+  {
     "title": "La voz más alta (2019)",
     "year": 2019,
     "payload": "s26763",
@@ -4748,6 +4813,13 @@
     "title": "Las nuevas aventuras de Lucky Luke (2001)",
     "year": 2001,
     "payload": "s56838"
+  },
+  {
+    "title": "Las nuevas leyendas de Mono (2018)",
+    "year": 2018,
+    "payload": "s33211",
+    "payload_mkv": "s33211",
+    "last_updated": 1784290996
   },
   {
     "title": "Las pesadillas de Freddy (1988)",
@@ -6430,7 +6502,7 @@
     "year": 2017,
     "payload": "s32531",
     "payload_mkv": "s32531",
-    "last_updated": 1784290160
+    "last_updated": 1784291329
   },
   {
     "title": "Planeta de recolectores (2023)",
@@ -6451,7 +6523,7 @@
     "year": 2022,
     "payload": "s32518",
     "payload_mkv": "s32518",
-    "last_updated": 1784290126
+    "last_updated": 1784291346
   },
   {
     "title": "Planeta prehistórico (2022)",
@@ -6875,7 +6947,7 @@
     "year": 2006,
     "payload": "s32702",
     "payload_mkv": "s32702",
-    "last_updated": 1784290323
+    "last_updated": 1784291196
   },
   {
     "title": "Robin Hood (2025)",
@@ -6894,6 +6966,13 @@
     "year": 2005,
     "payload": "s143631",
     "last_updated": 1776765761
+  },
+  {
+    "title": "Roswell (1999)",
+    "year": 1999,
+    "payload": "s33129",
+    "payload_mkv": "s33129",
+    "last_updated": 1784290959
   },
   {
     "title": "Roswell, New Mexico (2019)",
@@ -6939,6 +7018,13 @@
     "title": "Rumbo al infierno (2021)",
     "year": 2021,
     "payload": "s111176"
+  },
+  {
+    "title": "RUN (2020)",
+    "year": 2020,
+    "payload": "s33088",
+    "payload_mkv": "s33088",
+    "last_updated": 1784290910
   },
   {
     "title": "Run the World (2021)",
@@ -8667,7 +8753,9 @@
   {
     "title": "Ultraman (2019)",
     "year": 2019,
-    "payload": "s30171"
+    "payload": "s30171",
+    "payload_mkv": "s33306",
+    "last_updated": 1784291036
   },
   {
     "title": "Ultras. Pasión y Muerte (2026)",
