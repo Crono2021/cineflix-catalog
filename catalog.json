@@ -680,7 +680,8 @@
   {
     "title": "Beauty in Black (2024)",
     "year": 2024,
-    "payload": "s39819"
+    "payload": "s39819",
+    "last_updated": 1784963915
   },
   {
     "title": "Becoming Karl Lagerfeld (2024)",
@@ -1136,7 +1137,7 @@
     "year": 2026,
     "payload": "s188096",
     "payload_mkv": "s15335",
-    "last_updated": 1784196277
+    "last_updated": 1784967334
   },
   {
     "title": "Carmen Sandiego (2019)",
@@ -1667,7 +1668,7 @@
     "title": "Daredevil: Born Again (2025)",
     "year": 2025,
     "payload": "s42139",
-    "last_updated": 1778105069
+    "last_updated": 1784962333
   },
   {
     "title": "Dark (2017)",
@@ -2759,7 +2760,7 @@
     "year": 2026,
     "payload": "s20299",
     "payload_mkv": "s20299",
-    "last_updated": 1784149694
+    "last_updated": 1784919957
   },
   {
     "title": "El vecino (2019)",
@@ -2996,7 +2997,7 @@
     "year": 2019,
     "payload": "s52854",
     "payload_mkv": "s4",
-    "last_updated": 1780354359
+    "last_updated": 1784968493
   },
   {
     "title": "Evil (2019)",
@@ -3453,6 +3454,12 @@
     "title": "Gigantes (2018)",
     "year": 2018,
     "payload": "s45092"
+  },
+  {
+    "title": "GIGN: Unidad de élite (2026)",
+    "year": 2026,
+    "payload": "s205863",
+    "last_updated": 1784901388
   },
   {
     "title": "Glitch (2015)",
@@ -4642,7 +4649,8 @@
   {
     "title": "La que se avecina: Portugal (2025)",
     "year": 2025,
-    "payload": "s56145"
+    "payload": "s56145",
+    "last_updated": 1784968816
   },
   {
     "title": "La red púrpura (2023)",
@@ -7511,7 +7519,7 @@
     "year": 2023,
     "payload": "s204855",
     "payload_mkv": "s29001",
-    "last_updated": 1784284300
+    "last_updated": 1784962841
   },
   {
     "title": "Sin gluten (2025)",
@@ -7944,6 +7952,13 @@
     "payload": "s13014",
     "payload_mkv": "s13014",
     "last_updated": 1780424725
+  },
+  {
+    "title": "Super Tacaños (2012)",
+    "year": 2012,
+    "payload": "s34100",
+    "payload_mkv": "s34100",
+    "last_updated": 1784960699
   },
   {
     "title": "Superagente 86 (1965)",
