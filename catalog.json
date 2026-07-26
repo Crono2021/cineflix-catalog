@@ -203,7 +203,7 @@
     "title": "Agente Kim reactivado (2026",
     "year": null,
     "payload": "s204727",
-    "last_updated": 1784279439
+    "last_updated": 1785018873
   },
   {
     "title": "Aguas turbias (2025)",
@@ -3379,7 +3379,8 @@
   {
     "title": "Gangs of London (2020)",
     "year": 2020,
-    "payload": "s44793"
+    "payload": "s44793",
+    "last_updated": 1784980400
   },
   {
     "title": "Gantz (2004)",
@@ -3683,6 +3684,12 @@
     "title": "Hermanos de sangre (2001)",
     "year": 2001,
     "payload": "s124016"
+  },
+  {
+    "title": "Hero Inside (2023)",
+    "year": 2023,
+    "payload": "s206189",
+    "last_updated": 1784983268
   },
   {
     "title": "Heroes Reborn (2015)",
@@ -4242,6 +4249,12 @@
     "title": "La banda del patio (1997)",
     "year": 1997,
     "payload": "s55018"
+  },
+  {
+    "title": "La Bella y la Bestia (2014)",
+    "year": 2014,
+    "payload": "s206288",
+    "last_updated": 1784986177
   },
   {
     "title": "La bestia (2009)",
@@ -5201,7 +5214,7 @@
     "year": 2006,
     "payload": "s11299",
     "payload_mkv": "s11299",
-    "last_updated": 1780131818
+    "last_updated": 1785017144
   },
   {
     "title": "Los Jackson (1992)",
@@ -5649,6 +5662,12 @@
     "payload": "s119993"
   },
   {
+    "title": "Matadero (2019)",
+    "year": 2019,
+    "payload": "s206236",
+    "last_updated": 1784985482
+  },
+  {
     "title": "Materia Oscura (2024)",
     "year": 2024,
     "payload": "s53305",
@@ -5975,6 +5994,12 @@
     "payload": "s8505",
     "payload_mkv": "s8505",
     "last_updated": 1779139246
+  },
+  {
+    "title": "Muerte bajo cero (2021)",
+    "year": 2021,
+    "payload": "s206252",
+    "last_updated": 1784985732
   },
   {
     "title": "Muerte en Salisbury (2020)",
@@ -9155,6 +9180,12 @@
     "payload": "s29891"
   },
   {
+    "title": "Verano del 36 (2026)",
+    "year": 2026,
+    "payload": "s206511",
+    "last_updated": 1785055654
+  },
+  {
     "title": "Verdades ocultas (2025)",
     "year": 2025,
     "payload": "s129785"
@@ -9508,6 +9539,12 @@
     "title": "Ángela (2024)",
     "year": 2024,
     "payload": "s35978"
+  },
+  {
+    "title": "Ártico (2018)",
+    "year": 2018,
+    "payload": "s206153",
+    "last_updated": 1784981817
   },
   {
     "title": "Él y ella (2026)",
