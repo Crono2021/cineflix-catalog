@@ -2278,6 +2278,12 @@
     "payload": "s50719"
   },
   {
+    "title": "El Eternauta (2025)",
+    "year": 2025,
+    "payload": "s206746",
+    "last_updated": 1785165527
+  },
+  {
     "title": "El Evento (2010)",
     "year": 2010,
     "payload": "s12434",
@@ -4307,7 +4313,7 @@
     "year": 2022,
     "payload": "s55033",
     "payload_mkv": "s813",
-    "last_updated": 1784510254
+    "last_updated": 1785114775
   },
   {
     "title": "La casa Guinness (2025)",
@@ -4373,6 +4379,12 @@
     "payload": "s6769",
     "payload_mkv": "s6769",
     "last_updated": 1778708501
+  },
+  {
+    "title": "La Dama Velada (2015)",
+    "year": 2015,
+    "payload": "s206654",
+    "last_updated": 1785146497
   },
   {
     "title": "La desaparición de Amy Bradley (2025)",
@@ -4993,6 +5005,12 @@
     "last_updated": 1783268023
   },
   {
+    "title": "Leonard y Hungry Paul (2025)",
+    "year": 2025,
+    "payload": "s206758",
+    "last_updated": 1785165702
+  },
+  {
     "title": "Liar (2017)",
     "year": 2017,
     "payload": "s21587",
@@ -5318,6 +5336,12 @@
     "payload": "s58300"
   },
   {
+    "title": "Los quién (2011)",
+    "year": 2011,
+    "payload": "s206684",
+    "last_updated": 1785147330
+  },
+  {
     "title": "Los rompecorazones (2022)",
     "year": 2022,
     "payload": "s128564"
@@ -5379,7 +5403,7 @@
     "year": 2026,
     "payload": "s15331",
     "payload_mkv": "s15331",
-    "last_updated": 1780651735
+    "last_updated": 1785134845
   },
   {
     "title": "Los trotamúsicos (Los 4 músicos de Bremen) (1989)",
@@ -9543,6 +9567,12 @@
     "title": "¿Qué pasaría si...? (2021)",
     "year": 2021,
     "payload": "s28320"
+  },
+  {
+    "title": "Ágata y Lola (2026)",
+    "year": 2026,
+    "payload": "s206716",
+    "last_updated": 1785152792
   },
   {
     "title": "Águila Roja (2009)",
