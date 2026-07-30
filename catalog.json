@@ -203,7 +203,7 @@
     "title": "Agente Kim reactivado (2026)",
     "year": 2026,
     "payload": "s206526",
-    "last_updated": 1785055984
+    "last_updated": 1785337982
   },
   {
     "title": "Aguas turbias (2025)",
@@ -1040,6 +1040,13 @@
     "last_updated": 1784287974
   },
   {
+    "title": "Brooklyn Nine-Nine (2013)",
+    "year": 2013,
+    "payload": "s34189",
+    "payload_mkv": "s34189",
+    "last_updated": 1785404279
+  },
+  {
     "title": "Bruja Escarlata y Visión (2021)",
     "year": 2021,
     "payload": "s41824"
@@ -1820,6 +1827,12 @@
     "payload": "s20453",
     "payload_mkv": "s20453",
     "last_updated": 1781116959
+  },
+  {
+    "title": "Devs (2020)",
+    "year": 2020,
+    "payload": "s207129",
+    "last_updated": 1785364921
   },
   {
     "title": "Dexter (2006)",
