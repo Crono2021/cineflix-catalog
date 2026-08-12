@@ -67,6 +67,12 @@
     "payload": "s28400"
   },
   {
+    "title": "9-1-1: Nashville (2025)",
+    "year": 2025,
+    "payload": "s207438",
+    "last_updated": 1785536284
+  },
+  {
     "title": "911 (2018)",
     "year": 2018,
     "payload": "s28683",
@@ -232,6 +238,12 @@
     "last_updated": 1781633727
   },
   {
+    "title": "Alex and Friends Sobreviviendo A Los Padres (2015)",
+    "year": 2015,
+    "payload": "s208365",
+    "last_updated": 1786148298
+  },
+  {
     "title": "ALF (1986)",
     "year": 1986,
     "payload": "s35659"
@@ -365,6 +377,12 @@
     "title": "Andor (2022)",
     "year": 2022,
     "payload": "s35975"
+  },
+  {
+    "title": "Andén 7 (2023)",
+    "year": 2023,
+    "payload": "s209128",
+    "last_updated": 1786199204
   },
   {
     "title": "Anfibilandia (2019)",
@@ -1135,6 +1153,12 @@
     "last_updated": 1778945684
   },
   {
+    "title": "Candy: Asesinato en Texas (2022)",
+    "year": 2022,
+    "payload": "s208506",
+    "last_updated": 1786150110
+  },
+  {
     "title": "Capa y Puñal (2018)",
     "year": 2018,
     "payload": "s37350"
@@ -1144,7 +1168,7 @@
     "year": 2026,
     "payload": "s188096",
     "payload_mkv": "s15335",
-    "last_updated": 1784967334
+    "last_updated": 1785509570
   },
   {
     "title": "Carmen Sandiego (2019)",
@@ -1231,6 +1255,12 @@
     "payload": "s36",
     "payload_mkv": "s36",
     "last_updated": 1777532712
+  },
+  {
+    "title": "Chacal (2024)",
+    "year": 2024,
+    "payload": "s208252",
+    "last_updated": 1786112160
   },
   {
     "title": "Chad Powers (2025)",
@@ -1333,7 +1363,19 @@
     "year": 2023,
     "payload": "s9262",
     "payload_mkv": "s9262",
-    "last_updated": 1779443471
+    "last_updated": 1786313529
+  },
+  {
+    "title": "Citadel: Diana (2024)",
+    "year": 2024,
+    "payload": "s209857",
+    "last_updated": 1786281025
+  },
+  {
+    "title": "Citadel: Honey Bunny",
+    "year": null,
+    "payload": "s209875",
+    "last_updated": 1786281306
   },
   {
     "title": "Ciudad de las estrellas (2026)",
@@ -1384,6 +1426,12 @@
     "payload": "s31491",
     "payload_mkv": "s31491",
     "last_updated": 1784288181
+  },
+  {
+    "title": "Cocina con química (2023)",
+    "year": 2023,
+    "payload": "s209678",
+    "last_updated": 1786233880
   },
   {
     "title": "Code Geass: La Rebelión de Lelouch (2006)",
@@ -1675,12 +1723,13 @@
     "title": "Daredevil: Born Again (2025)",
     "year": 2025,
     "payload": "s42139",
-    "last_updated": 1784962333
+    "last_updated": 1786113023
   },
   {
     "title": "Dark (2017)",
     "year": 2017,
-    "payload": "s42142"
+    "payload": "s42142",
+    "last_updated": 1786152892
   },
   {
     "title": "Dark Matter (2015)",
@@ -1940,6 +1989,12 @@
     "last_updated": 1784287641
   },
   {
+    "title": "Doctor Mateo (2009)",
+    "year": 2009,
+    "payload": "s209509",
+    "last_updated": 1786202474
+  },
+  {
     "title": "Doctora en Alabama (2011)",
     "year": 2011,
     "payload": "s21114",
@@ -2186,7 +2241,7 @@
     "year": 2021,
     "payload": "s13877",
     "payload_mkv": "s13877",
-    "last_updated": 1780495378
+    "last_updated": 1786151629
   },
   {
     "title": "El caso Oussekine (2022)",
@@ -2248,7 +2303,7 @@
     "year": 2017,
     "payload": "s50710",
     "payload_mkv": "s5466",
-    "last_updated": 1778286339
+    "last_updated": 1786121356
   },
   {
     "title": "El cuerpo del delito (2011)",
@@ -2397,6 +2452,18 @@
     "payload": "s9642",
     "payload_mkv": "s9642",
     "last_updated": 1779531771
+  },
+  {
+    "title": "El hombre que cayó a la Tierra (2022)",
+    "year": 2022,
+    "payload": "s208769",
+    "last_updated": 1786154692
+  },
+  {
+    "title": "El homenaje (2026)",
+    "year": 2026,
+    "payload": "s209905",
+    "last_updated": 1786302180
   },
   {
     "title": "El horror de Dolores Roach (2023)",
@@ -2639,7 +2706,7 @@
     "title": "El primer matrimonio de Georgie y Mandy (2024)",
     "year": 2024,
     "payload": "s120246",
-    "last_updated": 1780710346
+    "last_updated": 1786232169
   },
   {
     "title": "El prisionero (1967)",
@@ -2753,6 +2820,12 @@
     "payload": "s130074"
   },
   {
+    "title": "El testigo (2026)",
+    "year": 2026,
+    "payload": "s209927",
+    "last_updated": 1786302269
+  },
+  {
     "title": "El tiempo entre costuras (2012)",
     "year": 2012,
     "payload": "s52135"
@@ -2775,6 +2848,12 @@
     "payload": "s32206",
     "payload_mkv": "s32206",
     "last_updated": 1784289202
+  },
+  {
+    "title": "El uniforme (2026)",
+    "year": 2026,
+    "payload": "s207725",
+    "last_updated": 1785926802
   },
   {
     "title": "El valor absoluto del amor (2026)",
@@ -2805,6 +2884,12 @@
     "title": "El viaje del unicornio (2001)",
     "year": 2001,
     "payload": "s52327"
+  },
+  {
+    "title": "El visitante (2020)",
+    "year": 2020,
+    "payload": "s209618",
+    "last_updated": 1786232093
   },
   {
     "title": "El último baile (2020)",
@@ -2931,7 +3016,7 @@
     "year": 2024,
     "payload": "s30635",
     "payload_mkv": "s30635",
-    "last_updated": 1784286604
+    "last_updated": 1785542884
   },
   {
     "title": "Enjambre (2023)",
@@ -3317,6 +3402,12 @@
     "title": "FUBAR (2023)",
     "year": 2023,
     "payload": "s129047"
+  },
+  {
+    "title": "Fuerzas especiales (2023)",
+    "year": 2023,
+    "payload": "s209646",
+    "last_updated": 1786233639
   },
   {
     "title": "Fuimos los afortunados (2024)",
@@ -3758,9 +3849,21 @@
     "last_updated": 1781633938
   },
   {
+    "title": "Hija del fuego: La venganza de la bastarda (2025)",
+    "year": 2025,
+    "payload": "s208155",
+    "last_updated": 1786111180
+  },
+  {
     "title": "Hijos de la anarquía (2008)",
     "year": 2008,
     "payload": "s45842"
+  },
+  {
+    "title": "Hispania, la leyenda (2010)",
+    "year": 2010,
+    "payload": "s210035",
+    "last_updated": 1786371448
   },
   {
     "title": "Historia de Canarias (1995)",
@@ -4158,6 +4261,12 @@
     "payload": "s34484"
   },
   {
+    "title": "Justified: Ciudad salvaje (2023)",
+    "year": 2023,
+    "payload": "s208522",
+    "last_updated": 1786151041
+  },
+  {
     "title": "Justified: La ley de Raylan (2010)",
     "year": 2010,
     "payload": "s16239",
@@ -4333,7 +4442,7 @@
     "year": 2022,
     "payload": "s55033",
     "payload_mkv": "s813",
-    "last_updated": 1785114775
+    "last_updated": 1786485597
   },
   {
     "title": "La casa Guinness (2025)",
@@ -4363,6 +4472,12 @@
     "payload": "s16476",
     "payload_mkv": "s16476",
     "last_updated": 1780736992
+  },
+  {
+    "title": "La chica de la limpieza (2022)",
+    "year": 2022,
+    "payload": "s209383",
+    "last_updated": 1786201909
   },
   {
     "title": "La chica del tambor (2018)",
@@ -4687,6 +4802,12 @@
     "payload": "s56142"
   },
   {
+    "title": "La paz de Marsella (2023)",
+    "year": 2023,
+    "payload": "s208658",
+    "last_updated": 1786153024
+  },
+  {
     "title": "La princesa blanca (2017)",
     "year": 2017,
     "payload": "s21259",
@@ -4707,7 +4828,8 @@
   {
     "title": "La red púrpura (2023)",
     "year": 2023,
-    "payload": "s56148"
+    "payload": "s56148",
+    "last_updated": 1786149359
   },
   {
     "title": "La reina Carlota: Una historia de Los Bridgerton (2023)",
@@ -4731,7 +4853,7 @@
     "year": 2021,
     "payload": "s4548",
     "payload_mkv": "s4548",
-    "last_updated": 1778188151
+    "last_updated": 1786198897
   },
   {
     "title": "La Secta De Las Tinieblas (2007)",
@@ -4920,6 +5042,12 @@
     "payload": "s11378",
     "payload_mkv": "s11378",
     "last_updated": 1780186931
+  },
+  {
+    "title": "Las esposas cazadoras (2025)",
+    "year": 2025,
+    "payload": "s209106",
+    "last_updated": 1786199066
   },
   {
     "title": "Las gotas de Dios (2023)",
@@ -5122,7 +5250,8 @@
   {
     "title": "Loki (2021)",
     "year": 2021,
-    "payload": "s57500"
+    "payload": "s57500",
+    "last_updated": 1786114050
   },
   {
     "title": "Lore (2017)",
@@ -5218,6 +5347,12 @@
     "year": 1983,
     "payload": "s204298",
     "last_updated": 1783988953
+  },
+  {
+    "title": "Los dueños del juego (2025)",
+    "year": 2025,
+    "payload": "s208794",
+    "last_updated": 1786155020
   },
   {
     "title": "Los ensayos (2022)",
@@ -5622,7 +5757,7 @@
     "year": 2018,
     "payload": "s31556",
     "payload_mkv": "s31556",
-    "last_updated": 1784288290
+    "last_updated": 1786313639
   },
   {
     "title": "Manos a la obra (1998)",
@@ -5729,7 +5864,7 @@
     "year": 2024,
     "payload": "s53305",
     "payload_mkv": "s4693",
-    "last_updated": 1778230840
+    "last_updated": 1786155959
   },
   {
     "title": "Matrimonio Con Hijos (1987)",
@@ -5840,9 +5975,16 @@
     "last_updated": 1785200555
   },
   {
+    "title": "Mi perro tiene un blog (2012)",
+    "year": 2012,
+    "payload": "s207977",
+    "last_updated": 1786110939
+  },
+  {
     "title": "Mi vida con los chicos Walter (2023)",
     "year": 2023,
-    "payload": "s53323"
+    "payload": "s53323",
+    "last_updated": 1786022926
   },
   {
     "title": "Miami Vice - Corrupción en Miami (1984)",
@@ -5866,7 +6008,8 @@
   {
     "title": "Mil golpes (2025)",
     "year": 2025,
-    "payload": "s34351"
+    "payload": "s34351",
+    "last_updated": 1786112524
   },
   {
     "title": "Mildred Pierce (2011)",
@@ -6042,7 +6185,8 @@
   {
     "title": "Mr. Robot (2015)",
     "year": 2015,
-    "payload": "s59547"
+    "payload": "s59547",
+    "last_updated": 1786151775
   },
   {
     "title": "Mrs. America (2020)",
@@ -6074,7 +6218,8 @@
   {
     "title": "Muertos S.L. (2024)",
     "year": 2024,
-    "payload": "s59550"
+    "payload": "s59550",
+    "last_updated": 1786235378
   },
   {
     "title": "Mujeres desesperadas (2004)",
@@ -6396,7 +6541,8 @@
   {
     "title": "One Tree Hill (2003)",
     "year": 2003,
-    "payload": "s46493"
+    "payload": "s46493",
+    "last_updated": 1786201492
   },
   {
     "title": "One-Punch Man (2015)",
@@ -6438,7 +6584,7 @@
     "title": "Outlander (2014)",
     "year": 2014,
     "payload": "s48124",
-    "last_updated": 1779176638
+    "last_updated": 1785539996
   },
   {
     "title": "Outlander: Sangre de mi sangre (2025)",
@@ -6548,11 +6694,23 @@
     "payload": "s48406"
   },
   {
+    "title": "Par de ideotas (2025)",
+    "year": 2025,
+    "payload": "s208690",
+    "last_updated": 1786153993
+  },
+  {
     "title": "Para toda la humanidad (2019)",
     "year": 2019,
     "payload": "s9692",
     "payload_mkv": "s9692",
     "last_updated": 1779539893
+  },
+  {
+    "title": "Paradise (2025)",
+    "year": 2025,
+    "payload": "s208307",
+    "last_updated": 1786147844
   },
   {
     "title": "Paralelos desconocidos (2022)",
@@ -6646,7 +6804,8 @@
   {
     "title": "Percy Jackson y los dioses del Olimpo (2023)",
     "year": 2023,
-    "payload": "s49255"
+    "payload": "s49255",
+    "last_updated": 1786111958
   },
   {
     "title": "Perdidos (2004)",
@@ -6899,6 +7058,12 @@
     "last_updated": 1784289126
   },
   {
+    "title": "Proyecto Final (2026)",
+    "year": 2026,
+    "payload": "s207540",
+    "last_updated": 1785544139
+  },
+  {
     "title": "Proyecto ovni (2025)",
     "year": 2025,
     "payload": "s31749",
@@ -6935,6 +7100,12 @@
     "title": "Pájaro soñador (2018)",
     "year": 2018,
     "payload": "s48400"
+  },
+  {
+    "title": "Pánico (2021)",
+    "year": 2021,
+    "payload": "s208599",
+    "last_updated": 1786152493
   },
   {
     "title": "Quarry (2016)",
@@ -7081,7 +7252,8 @@
   {
     "title": "Respira (2024)",
     "year": 2024,
-    "payload": "s33648"
+    "payload": "s33648",
+    "last_updated": 1786199744
   },
   {
     "title": "Resurrection (2014)",
@@ -7448,7 +7620,8 @@
   {
     "title": "Sense8 (2015)",
     "year": 2015,
-    "payload": "s60407"
+    "payload": "s60407",
+    "last_updated": 1786313972
   },
   {
     "title": "Separación (2022)",
@@ -7553,6 +7726,12 @@
     "payload": "s60805"
   },
   {
+    "title": "Sherlock (2010)",
+    "year": 2010,
+    "payload": "s209803",
+    "last_updated": 1786280056
+  },
+  {
     "title": "Sherlock a ciegas (2026)",
     "year": 2026,
     "payload": "s20279",
@@ -7570,6 +7749,12 @@
     "title": "Shin Chan (1992)",
     "year": 1992,
     "payload": "s60808"
+  },
+  {
+    "title": "Shining Vale (2022)",
+    "year": 2022,
+    "payload": "s208729",
+    "last_updated": 1786154204
   },
   {
     "title": "Show Me a Hero (2015)",
@@ -7619,7 +7804,7 @@
     "year": 2023,
     "payload": "s204855",
     "payload_mkv": "s29001",
-    "last_updated": 1784962841
+    "last_updated": 1786407786
   },
   {
     "title": "Sin gluten (2025)",
@@ -7913,6 +8098,12 @@
     "last_updated": 1784196310
   },
   {
+    "title": "Star Trek: Strange New Worlds (2022)",
+    "year": 2022,
+    "payload": "s207935",
+    "last_updated": 1786108969
+  },
+  {
     "title": "Star Wars: Clone Wars (2008)",
     "year": 2008,
     "payload": "s25115",
@@ -7985,6 +8176,12 @@
     "last_updated": 1781633168
   },
   {
+    "title": "Sterling Point (2026)",
+    "year": 2026,
+    "payload": "s207750",
+    "last_updated": 1785951376
+  },
+  {
     "title": "Sticks: Cracks del golf (2025)",
     "year": 2025,
     "payload": "s103787"
@@ -7995,6 +8192,12 @@
     "payload": "s63164",
     "payload_mkv": "s1057",
     "last_updated": 1777547094
+  },
+  {
+    "title": "Stranger Things: Relatos del 85 (2026)",
+    "year": 2026,
+    "payload": "s210085",
+    "last_updated": 1786371685
   },
   {
     "title": "Striking Out (2017)",
@@ -8219,7 +8422,7 @@
     "year": 2022,
     "payload": "s30749",
     "payload_mkv": "s30749",
-    "last_updated": 1784287289
+    "last_updated": 1786202275
   },
   {
     "title": "The Act (2019)",
@@ -8355,6 +8558,12 @@
     "payload": "s30959"
   },
   {
+    "title": "The Endgame (2022)",
+    "year": 2022,
+    "payload": "s208205",
+    "last_updated": 1786111495
+  },
+  {
     "title": "The Equalizer (2021)",
     "year": 2021,
     "payload": "s30962",
@@ -8466,6 +8675,12 @@
     "payload": "s30416",
     "payload_mkv": "s30416",
     "last_updated": 1784286118
+  },
+  {
+    "title": "The Iris Affair (2025)",
+    "year": 2025,
+    "payload": "s209138",
+    "last_updated": 1786199699
   },
   {
     "title": "The Irrational (2023)",
@@ -8683,6 +8898,12 @@
     "last_updated": 1784290456
   },
   {
+    "title": "The Stolen Girl (2025)",
+    "year": 2025,
+    "payload": "s208490",
+    "last_updated": 1786149837
+  },
+  {
     "title": "The Studio (2025)",
     "year": 2025,
     "payload": "s32223"
@@ -8738,7 +8959,8 @@
   {
     "title": "The Walking Dead: Dead City (2023)",
     "year": 2023,
-    "payload": "s32252"
+    "payload": "s32252",
+    "last_updated": 1785543758
   },
   {
     "title": "The Walking Dead: World Beyond",
@@ -8839,7 +9061,8 @@
   {
     "title": "Todas las de la ley (2025)",
     "year": 2025,
-    "payload": "s110009"
+    "payload": "s110009",
+    "last_updated": 1786112032
   },
   {
     "title": "Todo el mundo quiere a Raymond (1996)",
@@ -8867,7 +9090,7 @@
     "year": 2026,
     "payload": "s20288",
     "payload_mkv": "s20288",
-    "last_updated": 1781116803
+    "last_updated": 1786323497
   },
   {
     "title": "Todos quieren a Daisy Jones (2023)",
@@ -9211,6 +9434,12 @@
     "last_updated": 1782553246
   },
   {
+    "title": "Van Helsing (2016)",
+    "year": 2016,
+    "payload": "s208816",
+    "last_updated": 1786155585
+  },
+  {
     "title": "Vanity Fair (1998)",
     "year": 1998,
     "payload": "s32131",
@@ -9318,6 +9547,18 @@
     "last_updated": 1781741498
   },
   {
+    "title": "Vida perfecta (2019)",
+    "year": 2019,
+    "payload": "s208564",
+    "last_updated": 1786151940
+  },
+  {
+    "title": "Vigilados, Person of Interest (2011)",
+    "year": 2011,
+    "payload": "s207822",
+    "last_updated": 1786061732
+  },
+  {
     "title": "Vikingos (2013)",
     "year": 2013,
     "payload": "s29988",
@@ -9352,9 +9593,27 @@
     "payload": "s134833"
   },
   {
+    "title": "Waco (2018)",
+    "year": 2018,
+    "payload": "s209737",
+    "last_updated": 1786234946
+  },
+  {
     "title": "Walker Texas Ranger (1993)",
     "year": 1993,
     "payload": "s29299"
+  },
+  {
+    "title": "Warrior (2019)",
+    "year": 2019,
+    "payload": "s209700",
+    "last_updated": 1786234357
+  },
+  {
+    "title": "Watching You (2025)",
+    "year": 2025,
+    "payload": "s208347",
+    "last_updated": 1786148000
   },
   {
     "title": "Watchmen (2019)",
@@ -9477,7 +9736,7 @@
     "title": "Wynonna Earp (2016)",
     "year": 2016,
     "payload": "s205403",
-    "last_updated": 1784474806
+    "last_updated": 1786200357
   },
   {
     "title": "X Company (2015)",
@@ -9495,7 +9754,7 @@
     "title": "X-Men '97 (2024)",
     "year": 2024,
     "payload": "s29141",
-    "last_updated": 1784201059
+    "last_updated": 1786030587
   },
   {
     "title": "Xena, la princesa guerrera (1995)",
