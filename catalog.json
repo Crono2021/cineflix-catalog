@@ -485,6 +485,13 @@
     "payload": "s36848"
   },
   {
+    "title": "Aquellos maravillosos 70 (1998)",
+    "year": 1998,
+    "payload": "s34379",
+    "payload_mkv": "s34379",
+    "last_updated": 1786831004
+  },
+  {
     "title": "Aquí no hay quien viva (2003)",
     "year": 2003,
     "payload": "s36931"
@@ -1111,6 +1118,13 @@
     "title": "Bésame Licia (1983)",
     "year": 1983,
     "payload": "s39813"
+  },
+  {
+    "title": "Búscame en París (2018)",
+    "year": 2018,
+    "payload": "s34598",
+    "payload_mkv": "s34598",
+    "last_updated": 1787149904
   },
   {
     "title": "Caballero Luna (2022)",
@@ -1800,6 +1814,12 @@
     "last_updated": 1779268456
   },
   {
+    "title": "De puntillas (2026)",
+    "year": 2026,
+    "payload": "s210462",
+    "last_updated": 1786831109
+  },
+  {
     "title": "De yakuza a amo de casa (2021)",
     "year": 2021,
     "payload": "s30159",
@@ -2040,6 +2060,12 @@
     "title": "Dos hombres y medio (2003)",
     "year": 2003,
     "payload": "s42379"
+  },
+  {
+    "title": "Dos semanas en agosto (2026)",
+    "year": 2026,
+    "payload": "s210500",
+    "last_updated": 1786832126
   },
   {
     "title": "Dos tumbas (2025)",
@@ -2460,6 +2486,12 @@
     "last_updated": 1786154692
   },
   {
+    "title": "El hombre vapor (2026)",
+    "year": 2026,
+    "payload": "s210522",
+    "last_updated": 1786832397
+  },
+  {
     "title": "El homenaje (2026)",
     "year": 2026,
     "payload": "s209905",
@@ -2689,6 +2721,12 @@
     "payload": "s26739",
     "payload_mkv": "s26739",
     "last_updated": 1782553291
+  },
+  {
+    "title": "El peso de la ley (2026)",
+    "year": 2026,
+    "payload": "s210664",
+    "last_updated": 1786964097
   },
   {
     "title": "El Pingüino (2024)",
@@ -3450,6 +3488,12 @@
     "last_updated": 1785498349
   },
   {
+    "title": "Furious (2026)",
+    "year": 2026,
+    "payload": "s210577",
+    "last_updated": 1786833913
+  },
+  {
     "title": "Futurama (1999)",
     "year": 1999,
     "payload": "s27058"
@@ -4042,7 +4086,7 @@
     "year": 2026,
     "payload": "s25437",
     "payload_mkv": "s25437",
-    "last_updated": 1782037527
+    "last_updated": 1786822357
   },
   {
     "title": "Indomable (2025)",
@@ -4431,6 +4475,12 @@
     "title": "La casa de la pradera (1974)",
     "year": 1974,
     "payload": "s136337"
+  },
+  {
+    "title": "La casa de la pradera (2026)",
+    "year": 2026,
+    "payload": "s210544",
+    "last_updated": 1786832597
   },
   {
     "title": "La casa de papel (2017)",
@@ -4895,6 +4945,12 @@
     "last_updated": 1784973706
   },
   {
+    "title": "La vida en la sombra (2026)",
+    "year": 2026,
+    "payload": "s210566",
+    "last_updated": 1786833507
+  },
+  {
     "title": "La vida en nuestro planeta (2023)",
     "year": 2023,
     "payload": "s138151"
@@ -5033,8 +5089,8 @@
     "title": "Las dos caras de la ley (2026)",
     "year": 2026,
     "payload": "s20696",
-    "payload_mkv": "s20696",
-    "last_updated": 1781277785
+    "payload_mkv": "s34366",
+    "last_updated": 1786821801
   },
   {
     "title": "Las escalofriantes aventuras de Sabrina (2018)",
@@ -5184,7 +5240,7 @@
     "year": 2026,
     "payload": "s20678",
     "payload_mkv": "s20678",
-    "last_updated": 1781277736
+    "last_updated": 1786821923
   },
   {
     "title": "Light Shop (2024)",
@@ -5202,6 +5258,13 @@
     "title": "Line of Duty (2012)",
     "year": 2012,
     "payload": "s57494"
+  },
+  {
+    "title": "Linternas (2026)",
+    "year": 2026,
+    "payload": "s34590",
+    "payload_mkv": "s34590",
+    "last_updated": 1787095704
   },
   {
     "title": "Little America (2020)",
@@ -5635,6 +5698,12 @@
     "payload": "s59415"
   },
   {
+    "title": "Lucky Luke (2026)",
+    "year": 2026,
+    "payload": "s210642",
+    "last_updated": 1786924189
+  },
+  {
     "title": "Lucky Man (2016)",
     "year": 2016,
     "payload": "s4382",
@@ -6017,6 +6086,12 @@
     "payload": "s32390",
     "payload_mkv": "s32390",
     "last_updated": 1784289521
+  },
+  {
+    "title": "Millennial Mal (2026)",
+    "year": 2026,
+    "payload": "s210441",
+    "last_updated": 1786828641
   },
   {
     "title": "Mindfulness para asesinos (2024)",
@@ -6504,7 +6579,7 @@
     "year": 2026,
     "payload": "s25413",
     "payload_mkv": "s25413",
-    "last_updated": 1782037487
+    "last_updated": 1786822440
   },
   {
     "title": "Odd Squad (2014)",
@@ -6552,7 +6627,14 @@
   {
     "title": "Operaciones Especiales Lioness (2023)",
     "year": 2023,
-    "payload": "s141722"
+    "payload": "s141722",
+    "last_updated": 1787094257
+  },
+  {
+    "title": "Operación Safed Sagar (2026)",
+    "year": 2026,
+    "payload": "s210482",
+    "last_updated": 1786832060
   },
   {
     "title": "Operación Éxtasis (2019)",
@@ -7805,7 +7887,7 @@
     "year": 2023,
     "payload": "s204855",
     "payload_mkv": "s29001",
-    "last_updated": 1786407786
+    "last_updated": 1787094664
   },
   {
     "title": "Sin gluten (2025)",
@@ -8327,7 +8409,7 @@
     "year": 2026,
     "payload": "s25536",
     "payload_mkv": "s25536",
-    "last_updated": 1782037711
+    "last_updated": 1786822268
   },
   {
     "title": "ted (2024)",
@@ -8909,6 +8991,12 @@
     "title": "The Studio (2025)",
     "year": 2025,
     "payload": "s32223"
+  },
+  {
+    "title": "The Terror: Devil in Silver (2026)",
+    "year": 2026,
+    "payload": "s210456",
+    "last_updated": 1786828819
   },
   {
     "title": "The Tyrant (2024)",
@@ -9756,7 +9844,7 @@
     "title": "X-Men '97 (2024)",
     "year": 2024,
     "payload": "s29141",
-    "last_updated": 1786651879
+    "last_updated": 1786991664
   },
   {
     "title": "Xena, la princesa guerrera (1995)",
@@ -9872,7 +9960,7 @@
     "title": "Ágata y Lola (2026)",
     "year": 2026,
     "payload": "s206716",
-    "last_updated": 1785152792
+    "last_updated": 1787094336
   },
   {
     "title": "Águila Roja (2009)",
