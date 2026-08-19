@@ -4480,7 +4480,8 @@
     "title": "La casa de la pradera (2026)",
     "year": 2026,
     "payload": "s210544",
-    "last_updated": 1786832597
+    "payload_mkv": "s34692",
+    "last_updated": 1787180568
   },
   {
     "title": "La casa de papel (2017)",
@@ -5776,6 +5777,13 @@
     "last_updated": 1784284794
   },
   {
+    "title": "Magnum (1980)",
+    "year": 1980,
+    "payload": "s34711",
+    "payload_mkv": "s34711",
+    "last_updated": 1787180652
+  },
+  {
     "title": "Magpie Murders (2022)",
     "year": 2022,
     "payload": "s32805",
@@ -6219,6 +6227,12 @@
     "payload": "s14016",
     "payload_mkv": "s14016",
     "last_updated": 1780495511
+  },
+  {
+    "title": "Moria (2026)",
+    "year": 2026,
+    "payload": "s210838",
+    "last_updated": 1787179967
   },
   {
     "title": "Mosaic (2018)",
@@ -7603,6 +7617,12 @@
     "payload": "s110116"
   },
   {
+    "title": "Sanctuary (2008)",
+    "year": 2008,
+    "payload": "s210849",
+    "last_updated": 1787180281
+  },
+  {
     "title": "Sanditon (2019)",
     "year": 2019,
     "payload": "s59931"
@@ -8262,7 +8282,8 @@
     "title": "Sterling Point (2026)",
     "year": 2026,
     "payload": "s207750",
-    "last_updated": 1785951376
+    "payload_mkv": "s34681",
+    "last_updated": 1787179702
   },
   {
     "title": "Sticks: Cracks del golf (2025)",
@@ -9050,7 +9071,7 @@
     "title": "The Walking Dead: Dead City (2023)",
     "year": 2023,
     "payload": "s32252",
-    "last_updated": 1785543758
+    "last_updated": 1787180709
   },
   {
     "title": "The Walking Dead: World Beyond",
