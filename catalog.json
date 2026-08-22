@@ -1392,6 +1392,12 @@
     "last_updated": 1786281306
   },
   {
+    "title": "City on a Hill (2019)",
+    "year": 2019,
+    "payload": "s211475",
+    "last_updated": 1787313847
+  },
+  {
     "title": "Ciudad de las estrellas (2026)",
     "year": 2026,
     "payload": "s20600",
@@ -1884,6 +1890,12 @@
     "payload": "s47",
     "payload_mkv": "s47",
     "last_updated": 1777533115
+  },
+  {
+    "title": "Detrás de sus ojos (2021)",
+    "year": 2021,
+    "payload": "s211604",
+    "last_updated": 1787404798
   },
   {
     "title": "Devil in Disguise: John Wayne Gacy (2025)",
@@ -2796,6 +2808,12 @@
     "last_updated": 1784539835
   },
   {
+    "title": "El resto bien (2026)",
+    "year": 2026,
+    "payload": "s211566",
+    "last_updated": 1787342678
+  },
+  {
     "title": "El retorno de D'Artacan (1990)",
     "year": 1990,
     "payload": "s52129"
@@ -3383,6 +3401,12 @@
     "payload": "s22141",
     "payload_mkv": "s22141",
     "last_updated": 1781633661
+  },
+  {
+    "title": "Forever (2014)",
+    "year": 2014,
+    "payload": "s211425",
+    "last_updated": 1787312385
   },
   {
     "title": "Frasier (1993)",
@@ -6119,6 +6143,12 @@
     "payload": "s54460"
   },
   {
+    "title": "Mirada indiscreta (2023)",
+    "year": 2023,
+    "payload": "s211399",
+    "last_updated": 1787311936
+  },
+  {
     "title": "Mis adorables vecinos (2004)",
     "year": 2004,
     "payload": "s54511"
@@ -7553,6 +7583,12 @@
     "payload": "s59913"
   },
   {
+    "title": "Sacrificio de sangre (2026)",
+    "year": 2026,
+    "payload": "s211538",
+    "last_updated": 1787314493
+  },
+  {
     "title": "Safe Harbour (2018)",
     "year": 2018,
     "payload": "s32792",
@@ -8205,7 +8241,7 @@
     "title": "Star Trek: Strange New Worlds (2022)",
     "year": 2022,
     "payload": "s207935",
-    "last_updated": 1786108969
+    "last_updated": 1787324791
   },
   {
     "title": "Star Wars: Clone Wars (2008)",
@@ -9866,7 +9902,7 @@
     "title": "X-Men '97 (2024)",
     "year": 2024,
     "payload": "s29141",
-    "last_updated": 1786991664
+    "last_updated": 1787342794
   },
   {
     "title": "Xena, la princesa guerrera (1995)",
