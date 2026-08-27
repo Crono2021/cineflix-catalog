@@ -217,6 +217,13 @@
     "payload": "s35644"
   },
   {
+    "title": "Ahsoka (2023)",
+    "year": 2023,
+    "payload": "s34887",
+    "payload_mkv": "s34887",
+    "last_updated": 1787832480
+  },
+  {
     "title": "Air Gear (2006)",
     "year": 2006,
     "payload": "s19748",
@@ -8306,6 +8313,12 @@
     "title": "Stargate SG-1 (1997)",
     "year": 1997,
     "payload": "s130993"
+  },
+  {
+    "title": "Stargirl (2020)",
+    "year": 2020,
+    "payload": "s211910",
+    "last_updated": 1787784961
   },
   {
     "title": "State of the Union (2019)",
