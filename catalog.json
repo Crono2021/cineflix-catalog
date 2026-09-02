@@ -1686,7 +1686,8 @@
   {
     "title": "Curro Jiménez (1976)",
     "year": 1976,
-    "payload": "s136070"
+    "payload": "s136070",
+    "last_updated": 1788301644
   },
   {
     "title": "Curso del 63 (2009)",
@@ -3627,6 +3628,12 @@
     "last_updated": 1781456948
   },
   {
+    "title": "Gatillo (2025)",
+    "year": 2025,
+    "payload": "s213903",
+    "last_updated": 1788305015
+  },
+  {
     "title": "Gen V (2023)",
     "year": 2023,
     "payload": "s44799"
@@ -4055,6 +4062,12 @@
     "payload": "s16866",
     "payload_mkv": "s16866",
     "last_updated": 1780738301
+  },
+  {
+    "title": "Hotel Todo Incluido (2026)",
+    "year": 2026,
+    "payload": "s213822",
+    "last_updated": 1788298219
   },
   {
     "title": "House (2004)",
@@ -6699,7 +6712,7 @@
     "title": "Operaciones Especiales Lioness (2023)",
     "year": 2023,
     "payload": "s141722",
-    "last_updated": 1787094257
+    "last_updated": 1788325362
   },
   {
     "title": "Operación Safed Sagar (2026)",
@@ -8250,6 +8263,12 @@
     "last_updated": 1781633466
   },
   {
+    "title": "Spy/Master (2023)",
+    "year": 2023,
+    "payload": "s213989",
+    "last_updated": 1788359578
+  },
+  {
     "title": "Spy×Family (2022)",
     "year": 2022,
     "payload": "s62439",
@@ -8273,7 +8292,7 @@
     "title": "Star Trek: Strange New Worlds (2022)",
     "year": 2022,
     "payload": "s207935",
-    "last_updated": 1787952893
+    "last_updated": 1788293518
   },
   {
     "title": "Star Wars: Clone Wars (2008)",
@@ -9245,6 +9264,12 @@
     "payload": "s32538"
   },
   {
+    "title": "Toda la verdad de mis mentiras (2026)",
+    "year": 2026,
+    "payload": "s213804",
+    "last_updated": 1788297859
+  },
+  {
     "title": "Todas las criaturas grandes y pequeñas (2020)",
     "year": 2020,
     "payload": "s32544",
@@ -10111,7 +10136,8 @@
   {
     "title": "Élite (2018)",
     "year": 2018,
-    "payload": "s52333"
+    "payload": "s52333",
+    "last_updated": 1788292659
   },
   {
     "title": "Érase una vez el oeste (2025)",
