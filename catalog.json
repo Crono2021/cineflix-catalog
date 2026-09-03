@@ -12,6 +12,12 @@
     "last_updated": 1782037920
   },
   {
+    "title": "1670 (2023)",
+    "year": 2023,
+    "payload": "s214059",
+    "last_updated": 1788428728
+  },
+  {
     "title": "1883 (2021)",
     "year": 2021,
     "payload": "s28631"
@@ -787,7 +793,7 @@
     "year": 2024,
     "payload": "s9793",
     "payload_mkv": "s9793",
-    "last_updated": 1779827960
+    "last_updated": 1788428575
   },
   {
     "title": "Betaal (2020)",
@@ -1370,6 +1376,12 @@
     "last_updated": 1783266175
   },
   {
+    "title": "Ciclos (2020)",
+    "year": 2020,
+    "payload": "s214091",
+    "last_updated": 1788428945
+  },
+  {
     "title": "Cinco en familia (1994)",
     "year": 1994,
     "payload": "s12094",
@@ -1728,6 +1740,12 @@
     "title": "D'Artacán y los tres mosqueperros (1981)",
     "year": 1981,
     "payload": "s42130"
+  },
+  {
+    "title": "Dalgliesh (2021)",
+    "year": 2021,
+    "payload": "s214185",
+    "last_updated": 1788429145
   },
   {
     "title": "Dame un respiro (1997)",
@@ -3691,6 +3709,12 @@
     "title": "Glitch (2015)",
     "year": 2015,
     "payload": "s45095"
+  },
+  {
+    "title": "Gone (2026)",
+    "year": 2026,
+    "payload": "s214236",
+    "last_updated": 1788437492
   },
   {
     "title": "Good Omens (2019)",
@@ -7359,7 +7383,7 @@
     "title": "Reacher (2022)",
     "year": 2022,
     "payload": "s54457",
-    "last_updated": 1788252746
+    "last_updated": 1788436102
   },
   {
     "title": "Recién llegados (2015)",
@@ -7657,6 +7681,12 @@
     "payload": "s59922",
     "payload_mkv": "s8814",
     "last_updated": 1779308819
+  },
+  {
+    "title": "Salish y Jordan Matter (2026)",
+    "year": 2026,
+    "payload": "s214254",
+    "last_updated": 1788439983
   },
   {
     "title": "Salto al infinito (1995)",
