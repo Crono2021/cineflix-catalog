@@ -538,6 +538,12 @@
     "last_updated": 1782553178
   },
   {
+    "title": "Arcadia (2023)",
+    "year": 2023,
+    "payload": "s217436",
+    "last_updated": 1788955400
+  },
+  {
     "title": "Archivo 81 (2022)",
     "year": 2022,
     "payload": "s36934"
@@ -1283,6 +1289,12 @@
     "title": "Catalina la Grande (2019)",
     "year": 2019,
     "payload": "s37359"
+  },
+  {
+    "title": "Causa abierta (2026)",
+    "year": 2026,
+    "payload": "s217836",
+    "last_updated": 1788971484
   },
   {
     "title": "Caza de brujas (2020)",
@@ -3216,6 +3228,12 @@
     "last_updated": 1784291072
   },
   {
+    "title": "Errores épicos (2026)",
+    "year": 2026,
+    "payload": "s217851",
+    "last_updated": 1788975244
+  },
+  {
     "title": "Escenas de matrimonio (2007)",
     "year": 2007,
     "payload": "s52551"
@@ -3681,6 +3699,12 @@
     "year": 2020,
     "payload": "s44793",
     "last_updated": 1785064225
+  },
+  {
+    "title": "Gannibal (2022)",
+    "year": 2022,
+    "payload": "s217953",
+    "last_updated": 1788985532
   },
   {
     "title": "Gantz (2004)",
@@ -4768,6 +4792,12 @@
     "payload": "s55481"
   },
   {
+    "title": "La emperatriz (2022)",
+    "year": 2022,
+    "payload": "s217244",
+    "last_updated": 1788954581
+  },
+  {
     "title": "La encrucijada (2025)",
     "year": 2025,
     "payload": "s55484",
@@ -4975,6 +5005,12 @@
     "last_updated": 1782554491
   },
   {
+    "title": "La mujer miniatura (2026)",
+    "year": 2026,
+    "payload": "s217792",
+    "last_updated": 1788967329
+  },
+  {
     "title": "La más grande (2026)",
     "year": 2026,
     "payload": "s204842",
@@ -5136,6 +5172,12 @@
     "payload": "s33364",
     "payload_mkv": "s33364",
     "last_updated": 1784291121
+  },
+  {
+    "title": "La viuda (2019)",
+    "year": 2019,
+    "payload": "s217220",
+    "last_updated": 1788954351
   },
   {
     "title": "La voz más alta (2019)",
@@ -5447,6 +5489,12 @@
     "title": "Line of Duty (2012)",
     "year": 2012,
     "payload": "s57494"
+  },
+  {
+    "title": "Linterna Verde: La Serie Animada (2011)",
+    "year": 2011,
+    "payload": "s217881",
+    "last_updated": 1788979102
   },
   {
     "title": "Linternas (2026)",
@@ -6025,6 +6073,12 @@
     "payload": "s141180"
   },
   {
+    "title": "Maleantes (2024)",
+    "year": 2024,
+    "payload": "s217276",
+    "last_updated": 1788954685
+  },
+  {
     "title": "Mamá contra corriente (2015)",
     "year": 2015,
     "payload": "s13670",
@@ -6540,6 +6594,12 @@
     "payload": "s31583",
     "payload_mkv": "s31583",
     "last_updated": 1784288328
+  },
+  {
+    "title": "Muertos de amor (2026)",
+    "year": 2026,
+    "payload": "s217921",
+    "last_updated": 1788979955
   },
   {
     "title": "Muertos S.L. (2024)",
@@ -7174,11 +7234,23 @@
     "last_updated": 1784285930
   },
   {
+    "title": "Pesadillas (2023)",
+    "year": 2023,
+    "payload": "s217498",
+    "last_updated": 1788955554
+  },
+  {
     "title": "Pesadillas y ensoñaciones de Joko Anwar (2024)",
     "year": 2024,
     "payload": "s26806",
     "payload_mkv": "s26806",
     "last_updated": 1782553411
+  },
+  {
+    "title": "Pesadillas: La desaparición (2025)",
+    "year": 2025,
+    "payload": "s217476",
+    "last_updated": 1788955470
   },
   {
     "title": "Physical (2021)",
@@ -7308,6 +7380,12 @@
     "last_updated": 1780181594
   },
   {
+    "title": "Por H o por B (2020)",
+    "year": 2020,
+    "payload": "s217312",
+    "last_updated": 1788954791
+  },
+  {
     "title": "Por trece razones (2017)",
     "year": 2017,
     "payload": "s49267"
@@ -7415,7 +7493,7 @@
     "year": 2006,
     "payload": "s25891",
     "payload_mkv": "s25891",
-    "last_updated": 1782037855
+    "last_updated": 1788959547
   },
   {
     "title": "Puella Magi Madoka Magica (2011)",
@@ -7545,7 +7623,7 @@
     "title": "Reacher (2022)",
     "year": 2022,
     "payload": "s54457",
-    "last_updated": 1788436102
+    "last_updated": 1788977512
   },
   {
     "title": "Recién llegados (2015)",
@@ -8484,7 +8562,7 @@
     "title": "Star Trek: Strange New Worlds (2022)",
     "year": 2022,
     "payload": "s207935",
-    "last_updated": 1788448202
+    "last_updated": 1788954398
   },
   {
     "title": "Star Wars: Clone Wars (2008)",
@@ -8728,7 +8806,7 @@
     "title": "Ted Lasso (2020)",
     "year": 2020,
     "payload": "s30438",
-    "last_updated": 1788452348
+    "last_updated": 1788977555
   },
   {
     "title": "Teen Titans (2003)",
@@ -9812,6 +9890,12 @@
     "last_updated": 1787443259
   },
   {
+    "title": "Una vida regalada (2015)",
+    "year": 2015,
+    "payload": "s217374",
+    "last_updated": 1788954963
+  },
+  {
     "title": "Unbreakable Kimmy Schmidt (2015)",
     "year": 2015,
     "payload": "s30186"
@@ -10027,6 +10111,12 @@
     "title": "Vikings: Valhalla (2022)",
     "year": 2022,
     "payload": "s30085"
+  },
+  {
+    "title": "Vinagre de manzana (2025)",
+    "year": 2025,
+    "payload": "s217356",
+    "last_updated": 1788954855
   },
   {
     "title": "Vis a vis (2015)",
