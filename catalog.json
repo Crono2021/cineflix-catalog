@@ -49,6 +49,12 @@
     "payload": "s28663"
   },
   {
+    "title": "33 días (2026)",
+    "year": 2026,
+    "payload": "s216476",
+    "last_updated": 1788903986
+  },
+  {
     "title": "37 Dias (2014)",
     "year": 2014,
     "payload": "s32303",
@@ -419,7 +425,8 @@
   {
     "title": "Animal (2025)",
     "year": 2025,
-    "payload": "s36839"
+    "payload": "s36839",
+    "last_updated": 1788907541
   },
   {
     "title": "Animazén (2020)",
@@ -801,6 +808,12 @@
     "last_updated": 1778888300
   },
   {
+    "title": "Berserk (1997)",
+    "year": 1997,
+    "payload": "s216411",
+    "last_updated": 1788903792
+  },
+  {
     "title": "Bestia salvaje (2024)",
     "year": 2024,
     "payload": "s9793",
@@ -1175,6 +1188,12 @@
     "last_updated": 1784290727
   },
   {
+    "title": "Camino de Santiago (1999)",
+    "year": 1999,
+    "payload": "s216851",
+    "last_updated": 1788912829
+  },
+  {
     "title": "Camping (2018)",
     "year": 2018,
     "payload": "s31908",
@@ -1226,6 +1245,12 @@
     "payload": "s21231",
     "payload_mkv": "s21231",
     "last_updated": 1781373183
+  },
+  {
+    "title": "Casi muertos (2023)",
+    "year": 2023,
+    "payload": "s216257",
+    "last_updated": 1788899105
   },
   {
     "title": "Cassandra (2025)",
@@ -2608,7 +2633,7 @@
     "year": 2022,
     "payload": "s21089",
     "payload_mkv": "s21089",
-    "last_updated": 1781278089
+    "last_updated": 1788898743
   },
   {
     "title": "El inocente (2021)",
@@ -2663,6 +2688,12 @@
     "title": "El laboratorio de Dexter (1996)",
     "year": 1996,
     "payload": "s51141"
+  },
+  {
+    "title": "El legado de Júpiter (2021)",
+    "year": 2021,
+    "payload": "s216785",
+    "last_updated": 1788911323
   },
   {
     "title": "El libro de Boba Fett (2021)",
@@ -3139,7 +3170,9 @@
   {
     "title": "Entre tierras (2023)",
     "year": 2023,
-    "payload": "s138181"
+    "payload": "s138181",
+    "payload_mkv": "s35290",
+    "last_updated": 1788911666
   },
   {
     "title": "Entrepeneurs (2025)",
@@ -3156,6 +3189,12 @@
     "title": "Entrevías (2022)",
     "year": 2022,
     "payload": "s52343"
+  },
+  {
+    "title": "Envidiosa (2024)",
+    "year": 2024,
+    "payload": "s216113",
+    "last_updated": 1788895296
   },
   {
     "title": "Equipo Danger (2020)",
@@ -3735,6 +3774,12 @@
     "payload": "s45095"
   },
   {
+    "title": "Goliat (2016)",
+    "year": 2016,
+    "payload": "s215736",
+    "last_updated": 1788892345
+  },
+  {
     "title": "Gone (2026)",
     "year": 2026,
     "payload": "s214236",
@@ -3770,6 +3815,13 @@
     "payload": "s27814",
     "payload_mkv": "s27814",
     "last_updated": 1782554470
+  },
+  {
+    "title": "Gran Hotel (2011)",
+    "year": 2011,
+    "payload": "s35285",
+    "payload_mkv": "s35285",
+    "last_updated": 1788910489
   },
   {
     "title": "Grandes esperanzas (2023)",
@@ -4708,7 +4760,7 @@
     "year": 1993,
     "payload": "s15492",
     "payload_mkv": "s15492",
-    "last_updated": 1780735657
+    "last_updated": 1788893000
   },
   {
     "title": "La edad dorada (2022)",
@@ -5163,6 +5215,12 @@
     "payload": "s56329"
   },
   {
+    "title": "Las azules (2024)",
+    "year": 2024,
+    "payload": "s216759",
+    "last_updated": 1788911165
+  },
+  {
     "title": "Las brujas de Mayfair (2023)",
     "year": 2023,
     "payload": "s56332"
@@ -5327,6 +5385,12 @@
     "payload": "s57491"
   },
   {
+    "title": "Leanne (2025)",
+    "year": 2025,
+    "payload": "s216331",
+    "last_updated": 1788901226
+  },
+  {
     "title": "Legacies (2018)",
     "year": 2018,
     "payload": "s28608",
@@ -5389,7 +5453,7 @@
     "year": 2026,
     "payload": "s34590",
     "payload_mkv": "s34590",
-    "last_updated": 1788206060
+    "last_updated": 1788906038
   },
   {
     "title": "Little America (2020)",
@@ -5522,6 +5586,12 @@
     "payload": "s19203",
     "payload_mkv": "s19203",
     "last_updated": 1780819952
+  },
+  {
+    "title": "Los centinelas (2025)",
+    "year": 2025,
+    "payload": "s216807",
+    "last_updated": 1788912297
   },
   {
     "title": "Los crímenes de Pembrokeshire (2021)",
@@ -5743,6 +5813,18 @@
     "payload": "s58315"
   },
   {
+    "title": "Los Thunderman (2013)",
+    "year": 2013,
+    "payload": "s215338",
+    "last_updated": 1788885567
+  },
+  {
+    "title": "Los Thundermans: Infiltrados (2025)",
+    "year": 2025,
+    "payload": "s215610",
+    "last_updated": 1788885954
+  },
+  {
     "title": "Los tipos malos: Malos comienzos (2025)",
     "year": 2025,
     "payload": "s142133"
@@ -5811,6 +5893,12 @@
     "payload": "s32035",
     "payload_mkv": "s32035",
     "last_updated": 1784288914
+  },
+  {
+    "title": "Lucky (2026)",
+    "year": 2026,
+    "payload": "s216863",
+    "last_updated": 1788914119
   },
   {
     "title": "Lucky Luke (1984)",
@@ -6182,6 +6270,12 @@
     "last_updated": 1788778226
   },
   {
+    "title": "Mi dulce niña (2023)",
+    "year": 2023,
+    "payload": "s216905",
+    "last_updated": 1788916894
+  },
+  {
     "title": "Mi otra yo (2022)",
     "year": 2022,
     "payload": "s206791",
@@ -6529,6 +6623,12 @@
     "last_updated": 1784289147
   },
   {
+    "title": "Nada nos pasará (2026)",
+    "year": 2026,
+    "payload": "s216829",
+    "last_updated": 1788912714
+  },
+  {
     "title": "Naomi (2022)",
     "year": 2022,
     "payload": "s22354",
@@ -6785,7 +6885,7 @@
     "title": "Operaciones Especiales Lioness (2023)",
     "year": 2023,
     "payload": "s141722",
-    "last_updated": 1788325362
+    "last_updated": 1788902198
   },
   {
     "title": "Operación Safed Sagar (2026)",
@@ -7323,6 +7423,12 @@
     "payload": "s15340",
     "payload_mkv": "s15340",
     "last_updated": 1780735520
+  },
+  {
+    "title": "Pulseras rojas (2011)",
+    "year": 2011,
+    "payload": "s215672",
+    "last_updated": 1788892195
   },
   {
     "title": "Punky Brewster (1984)",
@@ -8069,7 +8175,7 @@
     "year": 2023,
     "payload": "s204855",
     "payload_mkv": "s29001",
-    "last_updated": 1788252684
+    "last_updated": 1788891147
   },
   {
     "title": "Sin gluten (2025)",
@@ -8738,7 +8844,7 @@
     "title": "The Bear (2022)",
     "year": 2022,
     "payload": "s30601",
-    "last_updated": 1782984228
+    "last_updated": 1788923988
   },
   {
     "title": "The Beast Must Die (2021)",
@@ -8847,6 +8953,12 @@
     "year": 2022,
     "payload": "s208205",
     "last_updated": 1786111495
+  },
+  {
+    "title": "The English (2022)",
+    "year": 2022,
+    "payload": "s216393",
+    "last_updated": 1788903247
   },
   {
     "title": "The Equalizer (2021)",
@@ -9071,6 +9183,12 @@
     "last_updated": 1778282984
   },
   {
+    "title": "The Night Of (2016)",
+    "year": 2016,
+    "payload": "s216883",
+    "last_updated": 1788916799
+  },
+  {
     "title": "The OA (2016)",
     "year": 2016,
     "payload": "s28465",
@@ -9235,7 +9353,8 @@
   {
     "title": "The Walkind Dead: Daryl Dixon (2023)",
     "year": 2023,
-    "payload": "s32249"
+    "payload": "s32249",
+    "last_updated": 1788917842
   },
   {
     "title": "The Walkind Dead: The Ones Who Live (2024)",
@@ -9258,7 +9377,7 @@
     "title": "The Walking Dead: Dead City (2023)",
     "year": 2023,
     "payload": "s32252",
-    "last_updated": 1788271538
+    "last_updated": 1788907828
   },
   {
     "title": "The Walking Dead: World Beyond",
@@ -9558,6 +9677,12 @@
     "title": "Tulsa King (2022)",
     "year": 2022,
     "payload": "s32578"
+  },
+  {
+    "title": "TURN: Espías de Washington (2014)",
+    "year": 2014,
+    "payload": "s216971",
+    "last_updated": 1788918188
   },
   {
     "title": "Twin Peaks (1990)",
