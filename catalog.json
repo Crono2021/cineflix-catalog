@@ -3704,7 +3704,7 @@
     "year": 2020,
     "payload": "s44790",
     "payload_mkv": "s3408",
-    "last_updated": 1777768792
+    "last_updated": 1789272421
   },
   {
     "title": "Gangs of London (2020)",
@@ -5318,6 +5318,12 @@
     "payload": "s6031",
     "payload_mkv": "s6031",
     "last_updated": 1778442693
+  },
+  {
+    "title": "Las crónicas de Spiderwick (2024)",
+    "year": 2024,
+    "payload": "s218759",
+    "last_updated": 1789257577
   },
   {
     "title": "Las crónicas del miedo (2017)",
