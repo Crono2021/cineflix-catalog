@@ -5,6 +5,13 @@
     "payload": "s28305"
   },
   {
+    "title": "(Des)encanto (2018)",
+    "year": 2018,
+    "payload": "s35397",
+    "payload_mkv": "s35397",
+    "last_updated": 1789425475
+  },
+  {
     "title": "14 de abril, la República (2011)",
     "year": 2011,
     "payload": "s26030",
@@ -1642,6 +1649,13 @@
     "payload": "s38383"
   },
   {
+    "title": "Cosas de casa (1989)",
+    "year": 1989,
+    "payload": "s35658",
+    "payload_mkv": "s35658",
+    "last_updated": 1789426423
+  },
+  {
     "title": "Cosas de Marcianos (1996)",
     "year": 1996,
     "payload": "s38386"
@@ -1755,6 +1769,13 @@
     "payload": "s29517",
     "payload_mkv": "s29517",
     "last_updated": 1784284955
+  },
+  {
+    "title": "Cuentilandia (1995)",
+    "year": 1995,
+    "payload": "s36445",
+    "payload_mkv": "s36445",
+    "last_updated": 1789428076
   },
   {
     "title": "Curro Jiménez (1976)",
@@ -2837,6 +2858,13 @@
     "payload": "s51512"
   },
   {
+    "title": "El Pato Darwing (1991)",
+    "year": 1991,
+    "payload": "s36218",
+    "payload_mkv": "s36218",
+    "last_updated": 1789427756
+  },
+  {
     "title": "El peor compañero de piso imaginable (2022)",
     "year": 2022,
     "payload": "s26739",
@@ -2973,6 +3001,13 @@
     "title": "El Señor de los Anillos: Los Anillos de Poder (2022)",
     "year": 2022,
     "payload": "s52132"
+  },
+  {
+    "title": "El show de Cleveland (2009)",
+    "year": 2009,
+    "payload": "s35454",
+    "payload_mkv": "s35454",
+    "last_updated": 1789425568
   },
   {
     "title": "El simpatizante (2024)",
@@ -3911,6 +3946,13 @@
     "last_updated": 1780821838
   },
   {
+    "title": "Gárgolas (1994)",
+    "year": 1994,
+    "payload": "s36049",
+    "payload_mkv": "s36049",
+    "last_updated": 1789427283
+  },
+  {
     "title": "Hache (2019)",
     "year": 2019,
     "payload": "s26560",
@@ -4231,6 +4273,13 @@
     "payload": "s12572",
     "payload_mkv": "s12572",
     "last_updated": 1780318517
+  },
+  {
+    "title": "Hércules (1998)",
+    "year": 1998,
+    "payload": "s35884",
+    "payload_mkv": "s35884",
+    "last_updated": 1789426689
   },
   {
     "title": "Hércules: Sus viajes legendarios (1995)",
@@ -4602,6 +4651,13 @@
     "title": "Kung Fu (1972)",
     "year": 1972,
     "payload": "s34659"
+  },
+  {
+    "title": "Kuzco: Un emperador en el cole (2006)",
+    "year": 2006,
+    "payload": "s36132",
+    "payload_mkv": "s36132",
+    "last_updated": 1789427570
   },
   {
     "title": "Kyle XY (2006)",
@@ -5175,6 +5231,13 @@
     "last_updated": 1789138679
   },
   {
+    "title": "La Tropa Goofy (1992)",
+    "year": 1992,
+    "payload": "s35968",
+    "payload_mkv": "s35968",
+    "last_updated": 1789426927
+  },
+  {
     "title": "La unidad (2020)",
     "year": 2020,
     "payload": "s206044",
@@ -5513,6 +5576,12 @@
     "title": "Light Shop (2024)",
     "year": 2024,
     "payload": "s134476"
+  },
+  {
+    "title": "Lilo y Stitch (2003)",
+    "year": 2003,
+    "payload": "s219022",
+    "last_updated": 1789427180
   },
   {
     "title": "Lincoln Rhyme: Cazando al coleccionista de huesos (2020)",
@@ -6255,7 +6324,7 @@
     "year": 2024,
     "payload": "s53305",
     "payload_mkv": "s4693",
-    "last_updated": 1789146868
+    "last_updated": 1789426202
   },
   {
     "title": "Matrimonio Con Hijos (1987)",
@@ -6547,6 +6616,13 @@
     "payload": "s59538"
   },
   {
+    "title": "Montana Jones (1994)",
+    "year": 1994,
+    "payload": "s35548",
+    "payload_mkv": "s35548",
+    "last_updated": 1789425661
+  },
+  {
     "title": "Moonbase 8 (2020)",
     "year": 2020,
     "payload": "s27868",
@@ -6566,6 +6642,13 @@
     "payload": "s210838",
     "payload_mkv": "s34825",
     "last_updated": 1787182621
+  },
+  {
+    "title": "Mortadelo y Filemón (1995)",
+    "year": 1995,
+    "payload": "s36188",
+    "payload_mkv": "s36188",
+    "last_updated": 1789427677
   },
   {
     "title": "Mosaic (2018)",
@@ -6792,6 +6875,13 @@
     "title": "Newtopia (2025)",
     "year": 2025,
     "payload": "s46045"
+  },
+  {
+    "title": "Nick & Perry (2001)",
+    "year": 2001,
+    "payload": "s35603",
+    "payload_mkv": "s35603",
+    "last_updated": 1789426249
   },
   {
     "title": "Nicky Jam: El Ganador (2018)",
@@ -7276,6 +7366,13 @@
     "last_updated": 1784285930
   },
   {
+    "title": "Pesadillas (1995)",
+    "year": 1995,
+    "payload": "s35320",
+    "payload_mkv": "s35320",
+    "last_updated": 1789425363
+  },
+  {
     "title": "Pesadillas (2023)",
     "year": 2023,
     "payload": "s217498",
@@ -7572,6 +7669,13 @@
     "year": 2021,
     "payload": "s208599",
     "last_updated": 1786152493
+  },
+  {
+    "title": "Quack Pack (1996)",
+    "year": 1996,
+    "payload": "s36313",
+    "payload_mkv": "s36313",
+    "last_updated": 1789427809
   },
   {
     "title": "Quarry (2016)",
@@ -9574,6 +9678,13 @@
     "payload": "s29671",
     "payload_mkv": "s29671",
     "last_updated": 1784285214
+  },
+  {
+    "title": "Timón y Pumba (1995)",
+    "year": 1995,
+    "payload": "s36355",
+    "payload_mkv": "s36355",
+    "last_updated": 1789427917
   },
   {
     "title": "Tirano (2014)",
