@@ -601,6 +601,13 @@
     "last_updated": 1781277715
   },
   {
+    "title": "Atlantic Crossing (2020)",
+    "year": 2020,
+    "payload": "s36575",
+    "payload_mkv": "s36575",
+    "last_updated": 1789496678
+  },
+  {
     "title": "Atomic (2025)",
     "year": 2025,
     "payload": "s36940"
@@ -9876,6 +9883,13 @@
     "title": "True Blood (Sangre Fresca) (2008)",
     "year": 2008,
     "payload": "s32562"
+  },
+  {
+    "title": "True Detective (2014)",
+    "year": 2014,
+    "payload": "s36586",
+    "payload_mkv": "s36586",
+    "last_updated": 1789496873
   },
   {
     "title": "Truelove (2024)",
