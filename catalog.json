@@ -4587,6 +4587,13 @@
     "last_updated": 1779531711
   },
   {
+    "title": "Jonas (2009)",
+    "year": 2009,
+    "payload": "s36904",
+    "payload_mkv": "s36904",
+    "last_updated": 1789747139
+  },
+  {
     "title": "Juego de Tronos (2011)",
     "year": 2011,
     "payload": "s34481",
@@ -6692,6 +6699,13 @@
     "payload": "s59535"
   },
   {
+    "title": "Monstruo: La historia de Lizzie Borden (2026)",
+    "year": 2026,
+    "payload": "s221486",
+    "payload_mkv": "s36893",
+    "last_updated": 1789747009
+  },
+  {
     "title": "Monstruos: La historia de Lyle y Erik Menendez (2024)",
     "year": 2024,
     "payload": "s59538"
@@ -8040,6 +8054,13 @@
     "last_updated": 1776765761
   },
   {
+    "title": "Rooster (2026)",
+    "year": 2026,
+    "payload": "s36942",
+    "payload_mkv": "s36942",
+    "last_updated": 1789747217
+  },
+  {
     "title": "Roswell (1999)",
     "year": 1999,
     "payload": "s33129",
@@ -9223,6 +9244,13 @@
     "title": "The Buccaneers: Aristócratas por amor (2023)",
     "year": 2023,
     "payload": "s105987"
+  },
+  {
+    "title": "The Capture (2019)",
+    "year": 2019,
+    "payload": "s221497",
+    "payload_mkv": "s36955",
+    "last_updated": 1789747406
   },
   {
     "title": "The Catch (2016)",
