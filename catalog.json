@@ -1494,7 +1494,7 @@
     "year": 2026,
     "payload": "s36734",
     "payload_mkv": "s36734",
-    "last_updated": 1789661067
+    "last_updated": 1789944673
   },
   {
     "title": "City on a Hill (2019)",
@@ -1727,6 +1727,13 @@
     "payload": "s38389",
     "payload_mkv": "s4338",
     "last_updated": 1778110285
+  },
+  {
+    "title": "Criadas y malvadas (2013)",
+    "year": 2013,
+    "payload": "s37017",
+    "payload_mkv": "s37017",
+    "last_updated": 1789947132
   },
   {
     "title": "Criando malvas (2007)",
@@ -2761,6 +2768,12 @@
     "title": "El juego del calamar: El desafío (2023)",
     "year": 2023,
     "payload": "s51138"
+  },
+  {
+    "title": "El juicio (2026)",
+    "year": 2026,
+    "payload": "s222163",
+    "last_updated": 1789944375
   },
   {
     "title": "El laboratorio de Dexter (1996)",
@@ -4202,6 +4215,12 @@
     "payload": "s45845"
   },
   {
+    "title": "Historia de dos ciudades (2026)",
+    "year": 2026,
+    "payload": "s222153",
+    "last_updated": 1789944233
+  },
+  {
     "title": "Historial delictivo (2024)",
     "year": 2024,
     "payload": "s26124",
@@ -4826,6 +4845,12 @@
     "title": "La casa Guinness (2025)",
     "year": 2025,
     "payload": "s55036"
+  },
+  {
+    "title": "La casa nostra (2025)",
+    "year": 2025,
+    "payload": "s222214",
+    "last_updated": 1789944769
   },
   {
     "title": "La caza de un asesino (2020)",
@@ -6432,7 +6457,7 @@
     "year": 2024,
     "payload": "s53305",
     "payload_mkv": "s4693",
-    "last_updated": 1789426202
+    "last_updated": 1789943678
   },
   {
     "title": "Matrimonio Con Hijos (1987)",
@@ -6565,6 +6590,13 @@
     "year": 2012,
     "payload": "s207977",
     "last_updated": 1786110939
+  },
+  {
+    "title": "Mi reno de peluche (2024)",
+    "year": 2024,
+    "payload": "s37007",
+    "payload_mkv": "s37007",
+    "last_updated": 1789946853
   },
   {
     "title": "Mi vida con los chicos Walter (2023)",
@@ -6990,7 +7022,7 @@
     "title": "Neagley (2026)",
     "year": 2026,
     "payload": "s220226",
-    "last_updated": 1789596271
+    "last_updated": 1789944459
   },
   {
     "title": "New Girl (2011)",
