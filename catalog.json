@@ -790,6 +790,12 @@
     "last_updated": 1784285065
   },
   {
+    "title": "Belleza plástica (2026)",
+    "year": 2026,
+    "payload": "s222030",
+    "last_updated": 1789925014
+  },
+  {
     "title": "Ben 10 (2005)",
     "year": 2005,
     "payload": "s139346"
@@ -5871,6 +5877,13 @@
     "last_updated": 1784287412
   },
   {
+    "title": "Los Hardacre (2024)",
+    "year": 2024,
+    "payload": "s222072",
+    "payload_mkv": "s36991",
+    "last_updated": 1789936420
+  },
+  {
     "title": "Los hombres del S.A.S (2022)",
     "year": 2022,
     "payload": "s57827"
@@ -8779,6 +8792,12 @@
     "title": "Spartacus: Sangre y arena (2010)",
     "year": 2010,
     "payload": "s33948"
+  },
+  {
+    "title": "Spectreman (1971)",
+    "year": 1971,
+    "payload": "s221925",
+    "last_updated": 1789907593
   },
   {
     "title": "Spider-Man: La serie animada (1994)",
