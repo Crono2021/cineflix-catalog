@@ -4667,6 +4667,13 @@
     "last_updated": 1779531711
   },
   {
+    "title": "JoJo's Bizarre Adventure (2012)",
+    "year": 2012,
+    "payload": "s37827",
+    "payload_mkv": "s37827",
+    "last_updated": 1790437727
+  },
+  {
     "title": "Jonas (2009)",
     "year": 2009,
     "payload": "s36904",
@@ -9097,7 +9104,8 @@
     "title": "Stuart no consigue salvar el universo (2026)",
     "year": 2026,
     "payload": "s223664",
-    "last_updated": 1790373331
+    "payload_mkv": "s38028",
+    "last_updated": 1790438300
   },
   {
     "title": "Studio 60 (2006)",
