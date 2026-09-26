@@ -351,7 +351,15 @@
   {
     "title": "American Horror Stories (2021)",
     "year": 2021,
-    "payload": "s35962"
+    "payload": "s35962",
+    "last_updated": 1790433847
+  },
+  {
+    "title": "American Horror Story (2011)",
+    "year": 2011,
+    "payload": "s37688",
+    "payload_mkv": "s37688",
+    "last_updated": 1790433926
   },
   {
     "title": "American Sports Story: Aaron Hernandez (2024)",
@@ -1397,7 +1405,8 @@
   {
     "title": "Cheers (1982)",
     "year": 1982,
-    "payload": "s37578"
+    "payload": "s37578",
+    "last_updated": 1790378280
   },
   {
     "title": "Chernobyl (2019)",
@@ -3367,7 +3376,7 @@
     "year": 2026,
     "payload": "s454",
     "payload_mkv": "s454",
-    "last_updated": 1777536366
+    "last_updated": 1790424266
   },
   {
     "title": "Esta mierda me supera (2020)",
@@ -8294,6 +8303,13 @@
     "last_updated": 1782552955
   },
   {
+    "title": "Sakamoto Days (2025)",
+    "year": 2025,
+    "payload": "s37520",
+    "payload_mkv": "s37520",
+    "last_updated": 1790378015
+  },
+  {
     "title": "Sakura, cazadora de cartas (1998)",
     "year": 1998,
     "payload": "s59922",
@@ -8643,7 +8659,7 @@
     "year": 2023,
     "payload": "s204855",
     "payload_mkv": "s29001",
-    "last_updated": 1788891147
+    "last_updated": 1790431364
   },
   {
     "title": "Sin gluten (2025)",
@@ -8792,6 +8808,13 @@
     "title": "Solo asesinatos en el edificio (2021)",
     "year": 2021,
     "payload": "s62427"
+  },
+  {
+    "title": "Solo Leveling (2024)",
+    "year": 2024,
+    "payload": "s37547",
+    "payload_mkv": "s37547",
+    "last_updated": 1790378136
   },
   {
     "title": "Somebody Somewhere (2022)",
@@ -9069,6 +9092,12 @@
     "payload": "s30528",
     "payload_mkv": "s30528",
     "last_updated": 1784286354
+  },
+  {
+    "title": "Stuart no consigue salvar el universo (2026)",
+    "year": 2026,
+    "payload": "s223664",
+    "last_updated": 1790373331
   },
   {
     "title": "Studio 60 (2006)",
@@ -10818,6 +10847,13 @@
     "payload": "s8283",
     "payload_mkv": "s8283",
     "last_updated": 1779138881
+  },
+  {
+    "title": "Zenshu (2025)",
+    "year": 2025,
+    "payload": "s37631",
+    "payload_mkv": "s37631",
+    "last_updated": 1790380555
   },
   {
     "title": "ZeroZeroZero (2019)",
