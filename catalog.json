@@ -127,6 +127,12 @@
     "last_updated": 1784285090
   },
   {
+    "title": "Academia Minerva (2026)",
+    "year": 2026,
+    "payload": "s224372",
+    "last_updated": 1790505784
+  },
+  {
     "title": "ACI: Alta Capacidad Intelectual (2021)",
     "year": 2021,
     "payload": "s35151"
@@ -2285,6 +2291,13 @@
     "payload": "s40971"
   },
   {
+    "title": "Dragon Ball Daima (2024)",
+    "year": 2024,
+    "payload": "s38198",
+    "payload_mkv": "s38198",
+    "last_updated": 1790539720
+  },
+  {
     "title": "Dragon Striker (2026)",
     "year": 2026,
     "payload": "s20845",
@@ -2927,6 +2940,12 @@
     "last_updated": 1782553291
   },
   {
+    "title": "El peor ex imaginable (2024)",
+    "year": 2024,
+    "payload": "s224377",
+    "last_updated": 1790506147
+  },
+  {
     "title": "El peso de la ley (2026)",
     "year": 2026,
     "payload": "s210664",
@@ -3376,7 +3395,7 @@
     "year": 2026,
     "payload": "s454",
     "payload_mkv": "s454",
-    "last_updated": 1790424266
+    "last_updated": 1790510933
   },
   {
     "title": "Esta mierda me supera (2020)",
@@ -7151,6 +7170,12 @@
     "last_updated": 1781824025
   },
   {
+    "title": "No aptos para el trabajo (2026)",
+    "year": 2026,
+    "payload": "s224422",
+    "last_updated": 1790506412
+  },
+  {
     "title": "No Man's Land (2020)",
     "year": 2020,
     "payload": "s29324",
@@ -7311,7 +7336,7 @@
     "title": "Operaciones Especiales Lioness (2023)",
     "year": 2023,
     "payload": "s141722",
-    "last_updated": 1789514851
+    "last_updated": 1790443572
   },
   {
     "title": "Operación Safed Sagar (2026)",
@@ -7783,6 +7808,13 @@
     "last_updated": 1784288073
   },
   {
+    "title": "Presidente Curtis (2026)",
+    "year": 2026,
+    "payload": "s38186",
+    "payload_mkv": "s38186",
+    "last_updated": 1790439686
+  },
+  {
     "title": "Pride (2021)",
     "year": 2021,
     "payload": "s31538",
@@ -8166,6 +8198,13 @@
     "title": "Robin Hood (2025)",
     "year": 2025,
     "payload": "s33690"
+  },
+  {
+    "title": "Robotboy (2005)",
+    "year": 2005,
+    "payload": "s38169",
+    "payload_mkv": "s38169",
+    "last_updated": 1790439537
   },
   {
     "title": "Rockefeller Plaza (2006)",
@@ -9247,7 +9286,7 @@
     "title": "Ted Lasso (2020)",
     "year": 2020,
     "payload": "s30438",
-    "last_updated": 1788977555
+    "last_updated": 1790439724
   },
   {
     "title": "Teen Titans (2003)",
@@ -9467,7 +9506,7 @@
     "year": 2017,
     "payload": "s29943",
     "payload_mkv": "s29943",
-    "last_updated": 1784285404
+    "last_updated": 1790524122
   },
   {
     "title": "The Disappearence (2018)",
@@ -10340,6 +10379,12 @@
     "title": "Un lugar para soñar (2019)",
     "year": 2019,
     "payload": "s106263"
+  },
+  {
+    "title": "Un mundo diferente (2026)",
+    "year": 2026,
+    "payload": "s224396",
+    "last_updated": 1790506247
   },
   {
     "title": "Un país de cuentos (2004)",
