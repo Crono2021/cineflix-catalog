@@ -1788,7 +1788,8 @@
   {
     "title": "Cristal Oscuro: La era de la resistencia (2019)",
     "year": 2019,
-    "payload": "s38392"
+    "payload": "s38392",
+    "last_updated": 1790708701
   },
   {
     "title": "Cristóbal Balenciaga (2024)",
@@ -3587,6 +3588,13 @@
     "last_updated": 1780821596
   },
   {
+    "title": "Fauda (2015)",
+    "year": 2015,
+    "payload": "s38315",
+    "payload_mkv": "s38315",
+    "last_updated": 1790708539
+  },
+  {
     "title": "Fear (2025)",
     "year": 2025,
     "payload": "s43223"
@@ -5019,6 +5027,12 @@
     "payload": "s9141",
     "payload_mkv": "s9141",
     "last_updated": 1779309099
+  },
+  {
+    "title": "La diplomática (2023)",
+    "year": 2023,
+    "payload": "s225040",
+    "last_updated": 1790708765
   },
   {
     "title": "La doctora Quinn (1993)",
