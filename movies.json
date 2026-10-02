@@ -3785,6 +3785,11 @@
     "year": 2025
   },
   {
+    "title": "A la carrera (2026)",
+    "search_title": "A la carrera",
+    "year": 2026
+  },
+  {
     "title": "A la caza (1980)",
     "search_title": "A la caza",
     "year": 1980
@@ -10500,6 +10505,11 @@
     "year": null
   },
   {
+    "title": "Assassination Classroom: El tiempo que compartimos (2026)",
+    "search_title": "Assassination Classroom: El tiempo que compartimos",
+    "year": 2026
+  },
+  {
     "title": "asterix",
     "search_title": "asterix",
     "year": null
@@ -11197,6 +11207,11 @@
   {
     "title": "Aupa Etxebeste! Asier Altuna Telmo Esnal 2005",
     "search_title": "Aupa Etxebeste! Asier Altuna Telmo Esnal 2005",
+    "year": null
+  },
+  {
+    "title": "Auri",
+    "search_title": "Auri",
     "year": null
   },
   {
@@ -25320,6 +25335,11 @@
     "year": 1987
   },
   {
+    "title": "De verdad, estoy bien (2026)",
+    "search_title": "De verdad, estoy bien",
+    "year": 2026
+  },
+  {
     "title": "De viaje con mi asesino ( He Went That Way -2023",
     "search_title": "De viaje con mi asesino ( He Went That Way -2023",
     "year": null
@@ -28818,6 +28838,16 @@
     "title": "Dos caraduras y un plan (1992)",
     "search_title": "Dos caraduras y un plan",
     "year": 1992
+  },
+  {
+    "title": "Dos chalados y muchas curvas (2005)",
+    "search_title": "Dos chalados y muchas curvas",
+    "year": 2005
+  },
+  {
+    "title": "Dos chalados y muchas curvas El comienzo (2007)",
+    "search_title": "Dos chalados y muchas curvas El comienzo",
+    "year": 2007
   },
   {
     "title": "Dos Chefs Y Una Tarta De Boda.",
@@ -43280,6 +43310,11 @@
     "year": 2024
   },
   {
+    "title": "El viento y el león (1975)",
+    "search_title": "El viento y el león",
+    "year": 1975
+  },
+  {
     "title": "El viento y el leon 1975",
     "search_title": "El viento y el leon 1975",
     "year": null
@@ -49810,6 +49845,11 @@
     "year": 2003
   },
   {
+    "title": "Gail Daughtry Y El Vale Por Un Rollo (2026)",
+    "search_title": "Gail Daughtry Y El Vale Por Un Rollo",
+    "year": 2026
+  },
+  {
     "title": "Gail Daughtry y el vale por un rollo VIP (2026)",
     "search_title": "Gail Daughtry y el vale por un rollo VIP",
     "year": 2026
@@ -54620,6 +54660,11 @@
     "year": null
   },
   {
+    "title": "Hola, mamá (1970)",
+    "search_title": "Hola, mamá",
+    "year": 1970
+  },
+  {
     "title": "HOLA, MI NOMBRE ES DORIS (2015)",
     "search_title": "HOLA, MI NOMBRE ES DORIS",
     "year": 2015
@@ -56873,6 +56918,11 @@
     "title": "Inspector Sun y la maldición de la viuda negra 2022",
     "search_title": "Inspector Sun y la maldición de la viuda negra 2022",
     "year": null
+  },
+  {
+    "title": "Instadocus Alex Murdaugh, condena anulada (2026)",
+    "search_title": "Instadocus Alex Murdaugh, condena anulada",
+    "year": 2026
   },
   {
     "title": "Instadocus El avión señuelo (2026)",
@@ -77730,6 +77780,11 @@
     "year": null
   },
   {
+    "title": "Los legendarios (2026)",
+    "search_title": "Los legendarios",
+    "year": 2026
+  },
+  {
     "title": "Los liantes+cine",
     "search_title": "Los liantes+cine",
     "year": null
@@ -85575,6 +85630,11 @@
     "year": 2025
   },
   {
+    "title": "Mononoke Ⅲ La Maldición de la Serpiente",
+    "search_title": "Mononoke Ⅲ La Maldición de la Serpiente",
+    "year": null
+  },
+  {
     "title": "Mononoke: El fantasma bajo la lluvia (2024)",
     "search_title": "Mononoke: El fantasma bajo la lluvia",
     "year": 2024
@@ -87108,6 +87168,11 @@
     "title": "My fair lady (1964)",
     "search_title": "My fair lady",
     "year": 1964
+  },
+  {
+    "title": "My Hero Academia Dos héroes (2018)",
+    "search_title": "My Hero Academia Dos héroes",
+    "year": 2018
   },
   {
     "title": "My Hero Academia Dos héroes 2018",
@@ -88838,6 +88903,11 @@
     "title": "no estoy solo 1972",
     "search_title": "no estoy solo 1972",
     "year": null
+  },
+  {
+    "title": "No Game No Life Zero (2017)",
+    "search_title": "No Game No Life Zero",
+    "year": 2017
   },
   {
     "title": "No hables con extraños (2024)",
@@ -91923,6 +91993,11 @@
     "title": "Pa negre (2010)",
     "search_title": "Pa negre",
     "year": 2010
+  },
+  {
+    "title": "Paaz (De verdad, estoy bien)",
+    "search_title": "Paaz (De verdad, estoy bien)",
+    "year": null
   },
   {
     "title": "Paciente cero (2018)",
@@ -101433,6 +101508,11 @@
     "title": "RunifyoucanVHSRIPByPARADISE",
     "search_title": "RunifyoucanVHSRIPByPARADISE",
     "year": null
+  },
+  {
+    "title": "Runner (2026)",
+    "search_title": "Runner",
+    "year": 2026
   },
   {
     "title": "Runner Runner (2013)",
@@ -119380,6 +119460,11 @@
     "year": null
   },
   {
+    "title": "Un hombre de familia (2016)",
+    "search_title": "Un hombre de familia",
+    "year": 2016
+  },
+  {
     "title": "Un hombre de razón (2023)",
     "search_title": "Un hombre de razón",
     "year": 2023
@@ -125267,6 +125352,11 @@
   {
     "title": "Wolfwalkers (2020)",
     "search_title": "Wolfwalkers",
+    "year": 2020
+  },
+  {
+    "title": "WOLFWALKERS ESPÍRITU DE LOBO (2020)",
+    "search_title": "WOLFWALKERS ESPÍRITU DE LOBO",
     "year": 2020
   },
   {
