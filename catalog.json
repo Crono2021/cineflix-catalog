@@ -2032,6 +2032,12 @@
     "payload": "s120083"
   },
   {
+    "title": "Delirio mortal (2026)",
+    "year": 2026,
+    "payload": "s225436",
+    "last_updated": 1790942832
+  },
+  {
     "title": "Des (2020)",
     "year": 2020,
     "payload": "s20224",
@@ -2988,6 +2994,12 @@
     "title": "El problema de los 3 cuerpos (2024)",
     "year": 2024,
     "payload": "s51806"
+  },
+  {
+    "title": "El problema final (2026)",
+    "year": 2026,
+    "payload": "s225454",
+    "last_updated": 1790942925
   },
   {
     "title": "El príncipe (2014)",
@@ -4079,6 +4091,12 @@
     "payload": "s36049",
     "payload_mkv": "s36049",
     "last_updated": 1789427283
+  },
+  {
+    "title": "Habeas Corpus (2026)",
+    "year": 2026,
+    "payload": "s225414",
+    "last_updated": 1790942606
   },
   {
     "title": "Hache (2019)",
@@ -7840,6 +7858,12 @@
     "payload": "s49457"
   },
   {
+    "title": "Possession (2026)",
+    "year": 2026,
+    "payload": "s225468",
+    "last_updated": 1790943146
+  },
+  {
     "title": "Preacher (2016)",
     "year": 2016,
     "payload": "s16325",
@@ -9339,7 +9363,7 @@
     "title": "Ted Lasso (2020)",
     "year": 2020,
     "payload": "s30438",
-    "last_updated": 1790439724
+    "last_updated": 1790942453
   },
   {
     "title": "Teen Titans (2003)",
