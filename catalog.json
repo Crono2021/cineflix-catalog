@@ -1306,6 +1306,13 @@
     "last_updated": 1781373183
   },
   {
+    "title": "Carrie (2026)",
+    "year": 2026,
+    "payload": "s38766",
+    "payload_mkv": "s38766",
+    "last_updated": 1791381013
+  },
+  {
     "title": "Casi muertos (2023)",
     "year": 2023,
     "payload": "s216257",
@@ -1721,6 +1728,13 @@
     "payload": "s22152",
     "payload_mkv": "s22152",
     "last_updated": 1781633677
+  },
+  {
+    "title": "Coven Academy: El hechizo de las brujas (2026)",
+    "year": 2026,
+    "payload": "s38777",
+    "payload_mkv": "s38777",
+    "last_updated": 1791381092
   },
   {
     "title": "Covert Affairs (2010)",
@@ -5896,7 +5910,7 @@
     "year": 2026,
     "payload": "s34590",
     "payload_mkv": "s34590",
-    "last_updated": 1791230155
+    "last_updated": 1791330354
   },
   {
     "title": "Little America (2020)",
@@ -9267,7 +9281,8 @@
     "title": "Sticks: Cracks del golf (2025)",
     "year": 2025,
     "payload": "s103787",
-    "last_updated": 1790687024
+    "payload_mkv": "s38686",
+    "last_updated": 1791326922
   },
   {
     "title": "Stranger Things (2016)",
