@@ -335,11 +335,6 @@
     "year": null
   },
   {
-    "title": "️ Paranormal Activity 4 / Actividad paranormal 4",
-    "search_title": "️ Paranormal Activity 4 / Actividad paranormal 4",
-    "year": null
-  },
-  {
     "title": "️ Paranormal Activity 5 / Actividad paranormal 5",
     "search_title": "️ Paranormal Activity 5 / Actividad paranormal 5",
     "year": null
@@ -79545,8 +79540,8 @@
     "year": null
   },
   {
-    "title": "Los Viajes de Gulliver (2010)",
-    "search_title": "Los Viajes de Gulliver",
+    "title": "Los viajes de Gulliver (2010)",
+    "search_title": "Los viajes de Gulliver",
     "year": 2010
   },
   {
@@ -121958,6 +121953,11 @@
     "title": "Una Navidad Virtual.",
     "search_title": "Una Navidad Virtual.",
     "year": null
+  },
+  {
+    "title": "Una noche al año (2026)",
+    "search_title": "Una noche al año",
+    "year": 2026
   },
   {
     "title": "Una noche con Adela (2023)",
