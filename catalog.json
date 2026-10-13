@@ -2343,7 +2343,7 @@
     "year": 2024,
     "payload": "s38198",
     "payload_mkv": "s38198",
-    "last_updated": 1790539720
+    "last_updated": 1791763082
   },
   {
     "title": "Dragon Striker (2026)",
@@ -5753,6 +5753,12 @@
     "payload": "s56841"
   },
   {
+    "title": "Las reglas del juego (Leverage) (2008)",
+    "year": 2008,
+    "payload": "s226849",
+    "last_updated": 1791744278
+  },
+  {
     "title": "Las reglas del juego: Redención (2021)",
     "year": 2021,
     "payload": "s225784",
@@ -8235,6 +8241,12 @@
     "title": "Reign (2013)",
     "year": 2013,
     "payload": "s33467"
+  },
+  {
+    "title": "Reina roja (2024)",
+    "year": 2024,
+    "payload": "s226815",
+    "last_updated": 1791743974
   },
   {
     "title": "Remington Steele (1982)",
@@ -10886,7 +10898,7 @@
     "year": 2025,
     "payload": "s38809",
     "payload_mkv": "s38809",
-    "last_updated": 1791403497
+    "last_updated": 1791823047
   },
   {
     "title": "Westworld (2016)",
