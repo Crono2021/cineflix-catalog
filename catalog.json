@@ -1834,6 +1834,13 @@
     "last_updated": 1784539798
   },
   {
+    "title": "Crystal Lake (2026)",
+    "year": 2026,
+    "payload": "s38908",
+    "payload_mkv": "s38908",
+    "last_updated": 1792182322
+  },
+  {
     "title": "Crónicas Vampíricas (2009)",
     "year": 2009,
     "payload": "s38395"
@@ -3463,7 +3470,7 @@
     "year": 2026,
     "payload": "s454",
     "payload_mkv": "s454",
-    "last_updated": 1791670884
+    "last_updated": 1792179216
   },
   {
     "title": "Esta mierda me supera (2020)",
@@ -9008,7 +9015,7 @@
     "year": 2022,
     "payload": "s103318",
     "payload_mkv": "s38129",
-    "last_updated": 1790439426
+    "last_updated": 1792177806
   },
   {
     "title": "Smiling Friends (2020)",
@@ -10852,6 +10859,13 @@
     "title": "Vis a vis (2015)",
     "year": 2015,
     "payload": "s30116"
+  },
+  {
+    "title": "VisionQuest (2026)",
+    "year": 2026,
+    "payload": "s38899",
+    "payload_mkv": "s38899",
+    "last_updated": 1792154039
   },
   {
     "title": "Vivir sin permiso (2018)",
