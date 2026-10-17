@@ -540,6 +540,12 @@
     "payload": "s36848"
   },
   {
+    "title": "Aquel (2026)",
+    "year": 2026,
+    "payload": "s227666",
+    "last_updated": 1792193901
+  },
+  {
     "title": "Aquellos maravillosos 70 (1998)",
     "year": 1998,
     "payload": "s34379",
@@ -722,6 +728,12 @@
     "payload": "s5275",
     "payload_mkv": "s5275",
     "last_updated": 1778284303
+  },
+  {
+    "title": "Bajo la superficie (2026)",
+    "year": 2026,
+    "payload": "s227644",
+    "last_updated": 1792193648
   },
   {
     "title": "Baki-Dou: El samurái invencible (2026)",
@@ -1827,6 +1839,12 @@
     "last_updated": 1778711746
   },
   {
+    "title": "Crookhaven (2026)",
+    "year": 2026,
+    "payload": "s227690",
+    "last_updated": 1792194060
+  },
+  {
     "title": "Crusoe (2008)",
     "year": 2008,
     "payload": "s33998",
@@ -2524,6 +2542,12 @@
     "payload": "s30178",
     "payload_mkv": "s30178",
     "last_updated": 1784285775
+  },
+  {
+    "title": "El Castillo (2026)",
+    "year": 2026,
+    "payload": "s227655",
+    "last_updated": 1792193728
   },
   {
     "title": "El centro (2025)",
@@ -5514,6 +5538,12 @@
     "year": 2026,
     "payload": "s218243",
     "last_updated": 1789138679
+  },
+  {
+    "title": "La trampa (2026)",
+    "year": 2026,
+    "payload": "s227679",
+    "last_updated": 1792193990
   },
   {
     "title": "La Tropa Goofy (1992)",
