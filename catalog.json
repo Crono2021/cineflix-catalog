@@ -772,6 +772,12 @@
     "last_updated": 1783515067
   },
   {
+    "title": "Bates Motel (2013)",
+    "year": 2013,
+    "payload": "s227786",
+    "last_updated": 1792332586
+  },
+  {
     "title": "Batman: La serie animada (1992)",
     "year": 1992,
     "payload": "s39815"
@@ -1417,7 +1423,8 @@
   {
     "title": "Chad Powers (2025)",
     "year": 2025,
-    "payload": "s37368"
+    "payload": "s37368",
+    "last_updated": 1792258263
   },
   {
     "title": "Chance (2016)",
@@ -10247,7 +10254,7 @@
     "year": 2025,
     "payload": "s32522",
     "payload_mkv": "s9748",
-    "last_updated": 1791930078
+    "last_updated": 1792395571
   },
   {
     "title": "Tierra de mujeres (2024)",
