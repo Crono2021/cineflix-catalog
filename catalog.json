@@ -358,14 +358,14 @@
     "title": "American Horror Stories (2021)",
     "year": 2021,
     "payload": "s35962",
-    "last_updated": 1790961430
+    "last_updated": 1792772228
   },
   {
     "title": "American Horror Story (2011)",
     "year": 2011,
     "payload": "s37688",
     "payload_mkv": "s37688",
-    "last_updated": 1790433926
+    "last_updated": 1792770442
   },
   {
     "title": "American Sports Story: Aaron Hernandez (2024)",
@@ -4128,6 +4128,13 @@
     "last_updated": 1788910489
   },
   {
+    "title": "Grande de España (2026)",
+    "year": 2026,
+    "payload": "s39349",
+    "payload_mkv": "s39349",
+    "last_updated": 1792770613
+  },
+  {
     "title": "Grandes esperanzas (2023)",
     "year": 2023,
     "payload": "s31704",
@@ -6488,7 +6495,8 @@
   {
     "title": "Lupin (2021)",
     "year": 2021,
-    "payload": "s59421"
+    "payload": "s59421",
+    "last_updated": 1792772242
   },
   {
     "title": "Luz de luna (1985)",
@@ -9776,6 +9784,13 @@
     "payload": "s30959"
   },
   {
+    "title": "The Drop: Una historia de Snowfall (2026)",
+    "year": 2026,
+    "payload": "s39342",
+    "payload_mkv": "s39342",
+    "last_updated": 1792770577
+  },
+  {
     "title": "The Endgame (2022)",
     "year": 2022,
     "payload": "s208205",
@@ -11142,6 +11157,13 @@
     "payload": "s38454",
     "payload_mkv": "s38454",
     "last_updated": 1791215991
+  },
+  {
+    "title": "YAGA (2026)",
+    "year": 2026,
+    "payload": "s39327",
+    "payload_mkv": "s39327",
+    "last_updated": 1792770338
   },
   {
     "title": "Yakarta (2025)",
