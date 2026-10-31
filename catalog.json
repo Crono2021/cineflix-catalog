@@ -103,9 +103,25 @@
     "payload": "s35142"
   },
   {
+    "title": "A la deriva (2026)",
+    "year": 2026,
+    "payload": "s40051",
+    "payload_mkv": "s40051",
+    "last_updated": 1793374768
+  },
+  {
     "title": "A muerte (2025)",
     "year": 2025,
-    "payload": "s35145"
+    "payload": "s35145",
+    "payload_mkv": "s40054",
+    "last_updated": 1793374212
+  },
+  {
+    "title": "A rienda suelta (2017)",
+    "year": 2017,
+    "payload": "s40064",
+    "payload_mkv": "s40064",
+    "last_updated": 1793374290
   },
   {
     "title": "A través del tiempo (1989)",
@@ -5822,6 +5838,20 @@
     "payload": "s129755"
   },
   {
+    "title": "Las Kardashian (2022)",
+    "year": 2022,
+    "payload": "s39967",
+    "payload_mkv": "s39967",
+    "last_updated": 1793371576
+  },
+  {
+    "title": "Las Kardashian: una dinastia multimillonaria (2023)",
+    "year": 2023,
+    "payload": "s40046",
+    "payload_mkv": "s40046",
+    "last_updated": 1793371635
+  },
+  {
     "title": "Las Luminarias (2020)",
     "year": 2020,
     "payload": "s27206",
@@ -7473,6 +7503,13 @@
     "payload": "s31756",
     "payload_mkv": "s31756",
     "last_updated": 1784288536
+  },
+  {
+    "title": "Nocturno (2026)",
+    "year": 2026,
+    "payload": "s39962",
+    "payload_mkv": "s39962",
+    "last_updated": 1793371413
   },
   {
     "title": "Noir (2001)",
@@ -10762,6 +10799,12 @@
     "title": "Un planeta extraño (2023)",
     "year": 2023,
     "payload": "s133862"
+  },
+  {
+    "title": "Un trabajo maldito (2026)",
+    "year": 2026,
+    "payload": "s230150",
+    "last_updated": 1793445205
   },
   {
     "title": "Una buena familia americana (2025)",
