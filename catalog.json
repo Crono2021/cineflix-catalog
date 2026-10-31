@@ -2230,7 +2230,7 @@
     "year": 2025,
     "payload": "s42367",
     "payload_mkv": "s5249",
-    "last_updated": 1778283990
+    "last_updated": 1793451254
   },
   {
     "title": "Diablero (2018)",
@@ -3946,7 +3946,8 @@
   {
     "title": "Furia (2025)",
     "year": 2025,
-    "payload": "s44051"
+    "payload": "s44051",
+    "last_updated": 1793450503
   },
   {
     "title": "Furies (2024)",
@@ -6141,6 +6142,12 @@
     "payload": "s108736"
   },
   {
+    "title": "Los asesinatos de Idaho: Pesadilla en la universidad (2026)",
+    "year": 2026,
+    "payload": "s231236",
+    "last_updated": 1793451533
+  },
+  {
     "title": "Los autos locos (1968)",
     "year": 1968,
     "payload": "s57509"
@@ -7709,7 +7716,7 @@
     "title": "Outlander: Sangre de mi sangre (2025)",
     "year": 2025,
     "payload": "s48127",
-    "last_updated": 1792969004
+    "last_updated": 1793451173
   },
   {
     "title": "Outlaw Star (1998)",
