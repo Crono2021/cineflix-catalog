@@ -1174,6 +1174,12 @@
     "last_updated": 1781633602
   },
   {
+    "title": "Boston Blue (2025)",
+    "year": 2025,
+    "payload": "s231945",
+    "last_updated": 1793946576
+  },
+  {
     "title": "Breaking Bad (2008)",
     "year": 2008,
     "payload": "s40480",
@@ -3103,7 +3109,8 @@
   {
     "title": "El Pingüino (2024)",
     "year": 2024,
-    "payload": "s51797"
+    "payload": "s51797",
+    "last_updated": 1793970403
   },
   {
     "title": "El plan de las gemelas (2026)",
@@ -4119,6 +4126,12 @@
     "title": "Glitch (2015)",
     "year": 2015,
     "payload": "s45095"
+  },
+  {
+    "title": "Gnomos (2026)",
+    "year": 2026,
+    "payload": "s232005",
+    "last_updated": 1793970289
   },
   {
     "title": "Goliat (2016)",
@@ -6828,7 +6841,7 @@
     "year": 2024,
     "payload": "s53305",
     "payload_mkv": "s4693",
-    "last_updated": 1793370852
+    "last_updated": 1793970192
   },
   {
     "title": "Matrimonio Con Hijos (1987)",
@@ -11096,7 +11109,7 @@
     "year": 2026,
     "payload": "s38899",
     "payload_mkv": "s38899",
-    "last_updated": 1793221535
+    "last_updated": 1793970118
   },
   {
     "title": "Vivir sin permiso (2018)",
