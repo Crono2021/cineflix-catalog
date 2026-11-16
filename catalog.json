@@ -2199,6 +2199,13 @@
     "last_updated": 1781116959
   },
   {
+    "title": "Devils' Crest (2026)",
+    "year": 2026,
+    "payload": "s40672",
+    "payload_mkv": "s40672",
+    "last_updated": 1794680035
+  },
+  {
     "title": "Devs (2020)",
     "year": 2020,
     "payload": "s207129",
@@ -2296,6 +2303,12 @@
     "payload": "s27338",
     "payload_mkv": "s27338",
     "last_updated": 1782554126
+  },
+  {
+    "title": "Disclaimer (2024)",
+    "year": 2024,
+    "payload": "s232713",
+    "last_updated": 1794790028
   },
   {
     "title": "Divorce (2016)",
@@ -2519,6 +2532,12 @@
     "title": "Echo 3 (2022)",
     "year": 2022,
     "payload": "s49934"
+  },
+  {
+    "title": "Eclipse (2024)",
+    "year": 2024,
+    "payload": "s232781",
+    "last_updated": 1794790753
   },
   {
     "title": "Ed, Edd y Eddy (1999)",
@@ -2933,7 +2952,9 @@
   {
     "title": "El juego de la muerte (2023)",
     "year": 2023,
-    "payload": "s53279"
+    "payload": "s53279",
+    "payload_mkv": "s40500",
+    "last_updated": 1794352849
   },
   {
     "title": "El juego del asesino (2025)",
@@ -3099,6 +3120,12 @@
     "payload": "s36218",
     "payload_mkv": "s36218",
     "last_updated": 1789427756
+  },
+  {
+    "title": "El patíbulo (2023)",
+    "year": 2023,
+    "payload": "s232769",
+    "last_updated": 1794790523
   },
   {
     "title": "El peor compañero de piso imaginable (2022)",
@@ -4136,6 +4163,12 @@
     "last_updated": 1784901388
   },
   {
+    "title": "Ginny y Georgia (2021)",
+    "year": 2021,
+    "payload": "s232811",
+    "last_updated": 1794790984
+  },
+  {
     "title": "Glitch (2015)",
     "year": 2015,
     "payload": "s45095"
@@ -4694,6 +4727,12 @@
     "title": "Indomable (2025)",
     "year": 2025,
     "payload": "s34909"
+  },
+  {
+    "title": "Infiel (2020)",
+    "year": 2020,
+    "payload": "s232751",
+    "last_updated": 1794790302
   },
   {
     "title": "Infierno sobre ruedas (2011)",
@@ -8871,6 +8910,12 @@
     "payload": "s60401"
   },
   {
+    "title": "Scrublands (2023)",
+    "year": 2023,
+    "payload": "s232797",
+    "last_updated": 1794790839
+  },
+  {
     "title": "Scrubs (2001)",
     "year": 2001,
     "payload": "s218360",
@@ -9313,6 +9358,13 @@
     "last_updated": 1779139074
   },
   {
+    "title": "Somos Osos (2014)",
+    "year": 2014,
+    "payload": "s40521",
+    "payload_mkv": "s40521",
+    "last_updated": 1794423962
+  },
+  {
     "title": "Sonic X (2003)",
     "year": 2003,
     "payload": "s10699",
@@ -9567,7 +9619,7 @@
     "year": 2026,
     "payload": "s223664",
     "payload_mkv": "s38028",
-    "last_updated": 1790438300
+    "last_updated": 1794790043
   },
   {
     "title": "Studio 60 (2006)",
@@ -9844,7 +9896,7 @@
     "year": 2021,
     "payload": "s30207",
     "payload_mkv": "s30207",
-    "last_updated": 1784285849
+    "last_updated": 1794790129
   },
   {
     "title": "The Beauty (2026)",
@@ -10929,6 +10981,13 @@
     "last_updated": 1779308903
   },
   {
+    "title": "Uzumaki (2024)",
+    "year": 2024,
+    "payload": "s40512",
+    "payload_mkv": "s40512",
+    "last_updated": 1794354986
+  },
+  {
     "title": "V. Invasión Extraterrestre (1983)",
     "year": 1983,
     "payload": "s35097",
@@ -11124,7 +11183,7 @@
     "year": 2026,
     "payload": "s38899",
     "payload_mkv": "s38899",
-    "last_updated": 1794151548
+    "last_updated": 1794444268
   },
   {
     "title": "Vivir sin permiso (2018)",
